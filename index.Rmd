@@ -1,0 +1,417 @@
+---
+title: "Henry's Guitar Scores"
+author: "Fuheng Wu(i@quant365.com)"
+date: "June 1, 2016"
+output:
+  bookdown::pdf_book:
+    keep_tex: yes
+    dev: "cairo_pdf"
+    latex_engine: xelatex
+    citation_package: natbib
+    template: tex/template_yihui_zh.tex
+    pandoc_args: --chapters
+    toc_depth: 3
+    toc_unnumbered: no
+    toc_appendix: yes
+    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
+documentclass: ctexbook
+bibliography: [bib/bib.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+geometry: [paperwidth=15.6cm, paperheight=23.39cm, tmargin=1.618cm, bmargin=1.618cm, lmargin=1.024cm, rmargin=1.024cm]
+header-includes:
+- \usepackage{graphicx}
+- \graphicspath{{img/}}
+- \usepackage{bbm}
+- \usepackage{threeparttable}
+- \usepackage{booktabs}
+- \usepackage{imakeidx}
+- \usepackage[utf8]{inputenc}
+- \usepackage{hyperref}
+- \usepackage{breakurl}
+- \usepackage{amsmath}
+- \usepackage{tcolorbox}
+- \makeindex
+site: bookdown::bookdown_site
+description: "C++ Algorithm Notes"
+github-repo: yihui/bookdown-chinese
+cover-image: img/batmanSlapsRobin.jpg
+favicon: "img/favicon.ico"
+---
+
+　　
+
+\mainmatter
+
+## 在水一方
+
+
+```
+编排: Henry Wu
+C 4/4  capo 5th 扫弦或分解和弦皆可
+
+  C   Am  Dm  G
+绿草苍苍　白雾茫茫
+绿草萋萋　白雾迷离
+  F   Em  Dm  C
+有位佳人　在水一方
+有位佳人　靠水而居
+Am      Em    F   Am  Dm  (扫G)
+我愿逆流而上　依偎在她身旁
+我愿逆流而上　与她轻言细语
+C   Em   Dm   F   Am   G
+无奈前有险滩　道路又远又长
+无奈前有险滩　道路曲折无已
+Am      Em    F   Am  Dm  (扫G)
+我愿顺流而下　找寻她的方向
+我愿顺流而下　找寻她的踪迹
+C   Em   Dm   F   G   C
+却见依稀仿佛　她在水的中央
+却见仿佛依稀　她在水中伫立
+End:
+  C   Am  Dm  G
+绿草苍苍　白雾茫茫
+  F   Em  Dm  C
+有位佳人　在水一方
+```
+
+\newpage
+
+## 又见炊烟
+
+```
+C 4/4  capo 5th 扫弦或分解和弦皆可
+C   Am  F C   F   G   C
+又见炊烟升起，暮色罩大地
+又见炊烟升起，勾起我回忆
+C   Am  F C      G   C
+想问阵阵炊烟，你要去哪里
+愿你变作彩霞，飞到我梦里
+Dm  C       F   C   G
+夕阳有诗情，黄昏有画意
+夕阳有诗情，黄昏有画意
+F   Em  Dm   C       F  G   C
+诗情画意虽然美丽，我心中只有你
+诗情画意虽然美丽，我心中只有你
+```
+
+\newpage
+
+## 我只在乎你
+
+Capo: 0 or 2
+
+```
+C           G  Am          Em
+如果没有遇见你 我将会是在哪里
+F           C  F           G
+日子过得怎么样 人生是否要珍惜
+C           G  Am          Em
+也许认识某一人 过着平凡的日子
+F         C  Am          G
+不知道会不会 也有爱情甜如蜜
+      C                Am
+任时光匆匆流去 我只在乎你
+    C             Am 
+心甘情愿感染你的气息
+    F        E     Am  
+人生几何 能够得到知己
+    Dm              G  E
+失去生命的力量也不可惜
+    Am    C    Am      F
+所以我求求你 别让我离开你
+C      Am        F   G   C
+除了你 我不能感到一丝丝情意
+```
+
+
+\newpage
+
+
+## 汪峰　存在
+
+```
+6/8 Ori: Capo 2; Me: 0
+      C        Am
+多少人(走)着却困在原地
+多少次(荣)耀却感觉屈辱
+      Dm        G
+多少人(活)着却如同死去
+多少次(狂)喜却倍受痛楚
+      C        Am
+多少人(爱)着却好似分离
+多少次(幸)福却心如刀绞
+      Dm       G
+多少人(笑)着却满含泪滴
+多少次(灿)烂却失魂落魄
+      C        Am
+谁知道(我)们该去向何处
+谁知道(我)们该梦归何处
+      F        G
+谁明白(生)命已变为何物
+谁明白(尊)严已沦为何物
+    E         Am
+是否找个借口继续苟活
+是否找个理由随波逐流
+    Dm        G 
+或是展翅高飞保持愤怒
+或是勇敢前行挣脱牢笼
+       C
+我该如何存在
+```
+
+\newpage
+
+## 赵传 - 勇敢一点  
+
+O: C; S:G, Capo:5 
+
+```
+前奏: Em   C   Bm   Em   共4节
+  Em                Bm    Em
+我发现失去一个很重要的    东西
+失眠已占据了你走後大部分的时间
+  Am      C         Bm
+那一年我想要认识你的一种勇气
+不然这个时候我应该在你的房间
+  Am                  Em
+它让我毫不畏惧的告诉你我 的 感情
+看著你写给我的第一封和最後一封信
+   C                  Bm
+如今害怕的思念著每一个过去
+   C           Bm        Em
+如此的转变用了四年三个月又七天
+----------------------------------
+  C        D      G          Em       C                  Bm
+我试著  勇敢一点 你却  不在我身边 我的坚强和自信 是因为相爱才上演
+  C        D      G          Em       C          Bm          Em
+我一定会勇敢一点 即使你不在我身边 你的决定和抱歉 改变不了我的明天(End)
+----------------------------------
+  Em                    Bm Em   Am         C          Bm
+勇敢是我今天再也无法面对的 事情 因为面对了勇敢记忆就会没有你
+    Am            Em           C        Bm             C   Em
+我的虚弱一直提醒著照顾自己 当初如果照顾好你现在也不会被自己放弃
+```
+
+\newpage
+
+
+## 赵传 - 爱要怎麽说出口
+
+K:D Capo:2  词、曲:李宗盛 
+```
+C        G        Am              Em F               G
+叫我怎麽能不难过　你劝我灭了心中的火 我还能够怎麽说  怎麽说都是错
+叫我怎麽能不难过　你劝我灭了心中的火 我还能够怎麽说  怎麽说都是错
+叫我怎麽能不难过　你劝我灭了心中的火 我还能够怎麽说  怎麽说都是错
+C         G            Am          Em           Dm    G         C
+你对我说  离开就会解脱 试着自己去生活  试着找寻自我   别再为爱蹉跎
+如果要我  把心对你解剖 只要改变这结果  我会说我愿意做 我受够了寂寞
+你对我说  离开就会解脱 试着自己去生活  试着找寻自我   何必为爱蹉跎(End)
+
+ F   G    C           G  Am          Em
+(只)(是)  爱要怎麽说出口 我的心里好难受
+F           C           Dm     G
+如果能将你拥有  我会忍住不让眼泪流
+C           G   Am          Em
+第一次握你的手  指尖传来你的温柔
+ F              Em
+每一次深情眼光的背後
+      Dm     G        C
+谁知道会有多少愁  多少愁
+```
+
+\newpage
+
+## 陈升 - 把悲伤留给自己
+
+4/4, Capo: 3 or 4
+
+```
+      C         Em         Am         Em
+能不能让我  陪著你走    既然你说  留不住你
+    Dm         Am     Dm         G
+回去的路  有些黑暗  担心让你  一个人走
+      C         Em       Am         Em
+我想是因为  我不够温柔  不能分担  你的忧愁
+是不是可以  牵你的手呢  从来没有  这样要求
+    Dm         Am     Dm           G
+如果这样  说不出口  就把情感    放在心中
+怕你难过  转身就走  那就这样吧  我會了解的
+      Dm       Am       Dm          F
+把我的悲伤  留给自己  你的美丽  让你带走
+    Am         Em     Dm      G
+从此以後  我再没有  快乐起来的理由
+      Dm       Am       Dm       F
+把我的悲伤  留给自己  你的美丽让你带走
+我想我可以  忍住悲伤  假装生命中没有你
+    Am         Em     Dm            G   C
+我想我可以忍住悲伤  可不可以  你也會想起我
+从此以後  我在这里  日夜等待  你的消息
+      C         Em         Am         Em
+能不能让我  陪著你走  既然你说  留不住你
+    Dm         Am     Dm            G    C
+无论你在  天涯海角  是不是你  偶尔會想起我
+````
+
+\newpage
+
+## 姜育恒 - 再回首
+
+Key: G,  Capo: 0
+
+```
+    G          Em
+再回首  云遮断归途
+再回首  背影已远走
+    G          D
+再回首  荆棘密布
+再回首  泪眼朦胧
+    C     G      Bm    Em
+今夜不会再有  难舍的旧梦
+留下你的祝福  黑夜温暖我
+    Am
+曾经与你有的梦
+不管明天要面对
+   Am(D)     D
+今后要向谁诉说
+多少伤痛和迷惑
+      G                   Em
+曾经在幽幽暗暗反反复复中追问
+      Am                   D
+才知道平平淡淡从从容容才是真
+      G
+再回首恍然如梦
+      Em
+再回首我心依旧
+      Am     D       G
+只有那无尽的长路拌着我
+```
+
+\newpage
+
+
+## 柯受良 - 不做大哥好多年
+
+Capo: 2
+```
+Em
+不怕工作汗流浃背
+Am          Em
+不怕生活尝尽苦水
+C            G        Bm
+回头只有一回而思念只有你的笑颜
+Em
+放了真心在我胸前
+Am         Em
+盼望一天你会看见
+C            G         Bm     Em
+我是真的改变但没有脸来要求你等一个未知天
+Am        G
+只恨自己爱冒险
+Bm        Em
+强伴英雄的无畏
+Am        C          Bm
+伤了心的诺言到了哪天才会复原
+Em        Bm
+我不做大哥好多年
+      D    Em
+我不爱冰冷的床沿
+Am        G              Em   D 
+不要逼我想念不要逼我流泪我会翻脸
+Em        Bm
+我不做大哥好多年
+      D    Em
+我只想好好爱一回
+Am          G           C      Em
+时光不能倒退人生不能后悔爱你在明天
+```
+
+\newpage
+
+## 上海滩
+
+Capo: 2
+```
+Prelude: Am..G..F........G..C
+   Am      G           F            G
+浪(奔)　浪(流)　萬里  (滔)滔江水永不(休) 
+又有喜　又有愁　浪里(就算)分不清歡笑悲憂
+    Em        Am        Dm           G
+淘盡(了)　世間(事)　混作(滔)滔一片潮(流) 
+仍願翻　  百千浪　  在我心(Dm)中起(G)伏夠(C)
+   Am      G         F             G
+是(喜)　是(愁)　浪里(分)不清歡笑悲(憂) 
+   Em      Am        Dm    G       C
+成(功)　失(敗)　浪里(看)不(出)有未(有) 
+
+ C7      F         Em          Dm    G     C
+(愛)你恨(你)　問君(知)否　似大(江)一(發)不(收)
+     E         Am        Dm    F       G
+轉千(灣)　轉千(灘)　亦未(平)復(此)中争(鬥)
+```
+
+\newpage
+
+## 巫启贤 - 太傻
+
+Capo: 0 or 2
+```
+    G                C
+痴痴地想了多少夜   我还是不了解
+  G         Em    Am  D
+是什么让我们今天会分别
+    G                 C
+反正梦都是太匆匆  反正爱只能那么浓
+    G       Em          Am   D
+心与感情让它粉碎  飘散在风中
+        G
+只是为何当初你是不听所有
+Em              C              D
+纷纷扰扰流言之中漫天风雨你会选择了我
+        C
+只是为何如今我们不顾一切
+Em              C             D
+追求真爱坚持底下苦尽甘来你会放弃了我
+  C                 G
+再说你也不会懂  心再痛你能做什么
+  C                 D
+不再将自己深锁  错了又错
+        G     Em      C       Bm7
+守住你的承诺太傻  只怪自己被爱迷惑
+    Am      Bm          C       D
+说过的话已不重要  可是我从不曾忘掉
+        G     Em      C       Bm
+守住你的承诺太傻  只怪自己被爱迷惑
+    Am      Bm          C      D        G
+醉过的心那　去找  对著满满空虚回忆  怎么逃
+```
+
+\newpage
+
+
+
+## 小情歌
+
+Capo: 2
+```
+C             Em  F  C              Em 
+这是一首简单的小情歌 唱著人们心肠的曲折
+       F  G      Em   Am   F           G 
+我想我很快乐 当有你的温热  脚边的空气转了
+C             Em  F  C              Em 
+这是一首简单的小情歌 唱著我们心头的白鸽
+       F   G       Em  Am F     C     G
+我想我很适合 当一个歌颂者 青春在风中飘著
+       C                      Am        C
+你知道 就算大雨让这座城市颠倒 我会给你怀抱
+     F             Em     F                  G
+受不了 看见你背影来到 写下我 度秒如年难捱的离骚
+C                      Am
+就算整个世界被寂寞绑票 我也不会奔跑
+       F          Em      F             G  C
+逃不了 最后谁也都苍老 写下我 时间和琴声交错的城堡
+```
