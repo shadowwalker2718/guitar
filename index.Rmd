@@ -21,7 +21,7 @@ link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
-geometry: [paperwidth=15.6cm, paperheight=23.39cm, tmargin=1.618cm, bmargin=1.618cm, lmargin=1.024cm, rmargin=1.024cm]
+geometry: [paperwidth=18cm, paperheight=23.39cm, tmargin=1.618cm, bmargin=1.618cm, lmargin=1.024cm, rmargin=1.024cm]
 header-includes:
 - \usepackage{graphicx}
 - \graphicspath{{img/}}
@@ -342,7 +342,7 @@ Prelude: Am..G..F........G..C
 又有喜　又有愁　浪里(就算)分不清歡笑悲憂
     Em        Am        Dm           G
 淘盡(了)　世間(事)　混作(滔)滔一片潮(流) 
-仍願翻　  百千浪　  在我心(Dm)中起(G)伏夠(C)
+仍願翻　  百千浪　  在我心(Dm)中起(G)伏够(C)
    Am      G         F             G
 是(喜)　是(愁)　浪里(分)不清歡笑悲(憂) 
    Em      Am        Dm    G       C
@@ -414,4 +414,307 @@ C                      Am
 就算整个世界被寂寞绑票 我也不会奔跑
        F          Em      F             G  C
 逃不了 最后谁也都苍老 写下我 时间和琴声交错的城堡
+```
+
+\newpage
+
+
+## 刀郎 - 草原之夜
+
+Capo: 3
+
+```
+G        Em     Bm   Am   G
+美丽的夜   色多  　　沉 　静
+等到千   　里雪　　　消   融
+Em       G      Am   D  Bm  D
+草原上   只留下 我的 琴     声
+等到     草原上 送来 春     风
+Em    Em      Bm     Em  Bm
+想给  远方的  姑娘   写封信   耶~~~
+可克  达拉    改变了 模样     耶~~~
+G         Em     Bm   Am   G
+可惜没有  邮递员 来   传   情
+姑娘就会  来伴   我的 琴   声
+
+G  G  Am  C
+来 来 来  来~~~~~~
+D  G  Bm
+来来  来来
+G         Em   Em     Am   G
+姑娘就会  来伴 我的   琴   声
+```
+
+\newpage
+
+## 刀郎 - 驼铃
+
+Capo: 0
+
+```
+G   Em  D
+送战友，踏征程
+送战友，踏征程
+G       Em
+默默无语两眼泪
+任重道远多艰辛
+C       Am  D
+耳边响起驼铃声
+洒下一路驼铃声
+G   Em  D   Em
+路漫漫，雾茫茫
+山叠嶂，水纵横
+D       G
+革命生涯常分手
+顶风逆水雄心在
+C       Am  D
+一样分别两样情
+不负人民养育情
+C       Em
+战友啊战友
+战友啊战友
+C D   Em Am
+亲爱的弟兄
+亲爱的弟兄
+Bm  D Em  G C Am
+当心夜半  北风寒
+待到春风  传佳讯
+D       G
+一路多保重 Em  G 
+我们再相逢 再相逢
+```
+\newpage
+
+
+
+## 刀郎-西海情歌
+
+Capo: 2
+```
+Em       Am   Em
+自你离开以后, 从此就丢了温柔
+Bm      Am          D           Em
+等待在这雪山路漫长, 听寒风呼啸依旧
+          Am  Em
+一眼望不到边, 风似刀割我的脸
+Bm      Am          D             Em
+等不到西海天际蔚蓝, 无言着苍茫的高原
+        G               Em
+还记得你答应过我不会让我把你找不见
+    C               Em
+可你跟随那南归的候鸟飞得那么远
+    Am                        Bm
+爱象风筝断了线, 拉不住你许下的诺言
+    G               Em
+我在苦苦等待雪山之巅温暖的春天
+    C               Em
+等待高原冰雪融化之后归来的孤雁
+    Am              Am       Em
+爱再难以续情缘, 回不到我们的从前
+```
+
+## 费玉清 - 一剪梅
+
+Capo: 0
+
+```
+Em  G  Am  Em
+
+Em    D     Em
+真情象草原广阔，
+真情象梅花开过，
+C      D     G Bm
+层层风雨不能阻隔
+冷冷冰雪不能掩没
+Em   D   G   Em
+总有云开日出时候，
+就在最冷枝头绽放，
+D       Bm    Em
+万丈阳光照耀你我。
+看见春天走向你我。
+Em       D    G
+雪花飘飘北风萧萧，
+Em Em    Bm 
+天地一片苍茫。
+Em     D      G
+一剪寒梅傲立雪中，
+Em   G   Bm
+只为伊人飘香。
+Em        D     G
+爱我所爱，无怨无悔,
+Em   Bm   Em
+此情长留心间。
+```
+
+\newpage
+
+
+## 许巍 - 蓝莲花
+
+Capo: 4
+```
+ C            F   C           G
+没有什么能够阻挡, 你对自由的向往
+G           Am    G           F
+天马行空的生涯  , 你的心了无牵挂
+Dm           G    Dm        G
+穿过幽暗的岁月  , 也曾感到彷徨
+G           Am    G           F
+当你低头的瞬间  , 才发觉脚下的路
+C             F   F           C
+心中那自由的世界, 如此的清澈高远
+C           F   C   G
+盛开着永不凋零, 蓝莲花 
+```
+
+\newpage
+
+## Take Me Home, Country Roads
+
+Capo: 4
+
+```
+G               Em               D                    C         G
+Almost Heaven;  West Virginia,   Blue Ridge Mountains,Shenandoah River.
+All my memories gather round her,miner's lady,        stranger to blue water.
+G                   Em                   D
+Life is old there, older than the trees, younger than the mountains,
+Dark and dusty,    painted on the sky,   misty taste of moonshine,
+  C             G
+Blowin like a breeze.
+Teardrop in my eye.
+[Chorus]
+         G              D            Em         C
+Country Roads, take me home, to the place, I belong,
+         G               D             C             G
+West Virginia, mountain mama, take me home, country roads.
+[Bridge]
+Em           D            G
+I hear her voice in the morning hour she calls me,
+     C       G              D
+The radio reminds me of my home far away.
+     Em               F            C
+And driving down the road I get a feeling
+         G                          D          D7
+That I should have been home yesterday, yesterday.
+```
+
+\newpage
+
+## 张宇 - 一言难尽
+
+Capo: 0 or 1
+
+```
+Em      Am    D         G
+你给我一场戏  你看着我入迷
+C         Am           Bm
+被你从心里剥落的感情   痛得不知怎么舍去
+Em        Am   D         G
+不要这场记忆   不要问我结局
+C           Am            Bm
+心底的酸楚和脸上的笑容    早就合而为一
+C                        G
+迟迟不能相信这感觉    象自己和自己分离
+    Am             Bm
+而信誓旦旦的爱情在哪里
+        Em       Em              C                 G
+我一言难尽 忍不住伤心    衡量不出爱或不爱这之间的距离 
+我一言难尽 忍不住伤心    衡量不出爱或不爱这之间的距离 
+        Am        Em             C            D
+你说你的心不再温热如昔    从那里开始从那里失  去
+隐隐约约中明白你的决定    不敢勉强你只好为难自己 
+      Em
+我为难我自己
+```
+
+\newpage
+
+
+##  Take me to your heart
+
+Capo: 0 or 2
+
+```
+G                                        Em
+Hiding from the rain and snow,Trying to forget but I won't let go
+Standing on a mountain high,  Looking at the moon through a clear blue sky
+C                                D
+Looking at a crowded street,     Listening to my own heart beat
+I should go and see some friends,But they don't really comprehend
+Em                  Bm7     C                G
+So many             people  all around the world
+Don't need too much talking without saying anything
+Em                  Bm7 Am                    D
+Tell me where do I find someone like you      girl
+All I need is      someone who makes me wanna sing
+                G                      Em   C                D
+Take me to your heart take me to your soul, Give me your hand before I'm old
+                G                      Em   C                D
+Show me what love is - haven't got a clue, Show me that wonders can be true
+         Bm7            Em      Am          D
+They say nothing lasts forever, We're only here today
+Bm7            Em     Am            D
+Love is now or never, Bring me far away
+               G                      Em
+Take me to your heart take me to your soul
+               C                D
+Give me your hand and hold me
+                 G        Em
+Show me what love is, be my guiding star
+        Am    D              G
+It's easy, take me to your heart
+```
+
+##  汪峰- 怒放的生命
+
+Capo: 0
+```
+   Bm            D
+曾经多少次跌倒在路上
+曾经多少次失去了方向
+    Em            Bm
+曾经多少次折断过翅膀
+曾经多少次扑灭了梦想
+    Bm            D
+如今我已不再感到彷徨
+如今我已不再感到迷茫
+    Em            A
+我想超越这平凡的生活
+我要我的生命得到解放
+-------------------
+       D     D
+我想要怒放的生命
+            Bm
+就象飞翔在辽阔的天空
+            Em
+就象穿行在无边的旷野
+    G           A
+拥有挣脱一切的力量
+-------------------
+       D      D
+我想要怒放的生命
+            Bm
+就象矗立在彩虹之颠
+          Em
+就象穿行璀璨的星河
+    G           D
+拥有超越平凡的力量
+```
+
+## 叶启田 - 爱拼才会赢
+
+Capo: 2
+
+```
+     C        Em       Am  G     Dm  (G)
+一时失志毋免怨叹   一时落魄毋免胆寒
+     C    Am    Dm      G    Am             Dm
+那通失去希望    每日醉茫茫   无魂有体亲像稻草人
+  C           Am          C      Dm  (G)
+人生可比是海上的波浪   有时起有时落
+  C      Am   C             G
+好运   歹运   总嘛要照起工来行  
+  C     Am   C       Dm     Am   Dm   C
+三分天注定   七分靠打拼   爱拼   才会赢
 ```
