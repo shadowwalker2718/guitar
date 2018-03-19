@@ -46,6 +46,10 @@ favicon: "img/favicon.ico"
 
 \mainmatter
 
+# Chinese Songs
+
+\newpage
+
 ## 在水一方
 
 
@@ -164,6 +168,45 @@ C      Am        F   G   C
 ```
 
 \newpage
+
+
+##  汪峰- 怒放的生命
+
+Capo: 0
+```
+   Bm            D
+曾经多少次跌倒在路上
+曾经多少次失去了方向
+    Em            Bm
+曾经多少次折断过翅膀
+曾经多少次扑灭了梦想
+    Bm            D
+如今我已不再感到彷徨
+如今我已不再感到迷茫
+    Em            A
+我想超越这平凡的生活
+我要我的生命得到解放
+-------------------
+       D     D
+我想要怒放的生命
+            Bm
+就象飞翔在辽阔的天空
+            Em
+就象穿行在无边的旷野
+    G           A
+拥有挣脱一切的力量
+-------------------
+       D      D
+我想要怒放的生命
+            Bm
+就象矗立在彩虹之颠
+          Em
+就象穿行璀璨的星河
+    G           D
+拥有超越平凡的力量
+```
+\newpage
+
 
 ## 赵传 - 勇敢一点  
 
@@ -513,6 +556,8 @@ Bm      Am          D             Em
 爱再难以续情缘, 回不到我们的从前
 ```
 
+\newpage
+
 ## 费玉清 - 一剪梅
 
 Capo: 0
@@ -569,37 +614,7 @@ C           F   C   G
 
 \newpage
 
-## Take Me Home, Country Roads
 
-Capo: 4
-
-```
-G               Em               D                    C         G
-Almost Heaven;  West Virginia,   Blue Ridge Mountains,Shenandoah River.
-All my memories gather round her,miner's lady,        stranger to blue water.
-G                   Em                   D
-Life is old there, older than the trees, younger than the mountains,
-Dark and dusty,    painted on the sky,   misty taste of moonshine,
-  C             G
-Blowin like a breeze.
-Teardrop in my eye.
-[Chorus]
-         G              D            Em         C
-Country Roads, take me home, to the place, I belong,
-         G               D             C             G
-West Virginia, mountain mama, take me home, country roads.
-[Bridge]
-Em           D            G
-I hear her voice in the morning hour she calls me,
-     C       G              D
-The radio reminds me of my home far away.
-     Em               F            C
-And driving down the road I get a feeling
-         G                          D          D7
-That I should have been home yesterday, yesterday.
-```
-
-\newpage
 
 ## 张宇 - 一言难尽
 
@@ -631,76 +646,6 @@ C                        G
 \newpage
 
 
-##  Take me to your heart
-
-Capo: 0 or 2
-
-```
-G                                        Em
-Hiding from the rain and snow,Trying to forget but I won't let go
-Standing on a mountain high,  Looking at the moon through a clear blue sky
-C                                D
-Looking at a crowded street,     Listening to my own heart beat
-I should go and see some friends,But they don't really comprehend
-Em                  Bm7     C                G
-So many             people  all around the world
-Don't need too much talking without saying anything
-Em                  Bm7 Am                    D
-Tell me where do I find someone like you      girl
-All I need is      someone who makes me wanna sing
-                G                      Em   C                D
-Take me to your heart take me to your soul, Give me your hand before I'm old
-                G                      Em   C                D
-Show me what love is - haven't got a clue, Show me that wonders can be true
-         Bm7            Em      Am          D
-They say nothing lasts forever, We're only here today
-Bm7            Em     Am            D
-Love is now or never, Bring me far away
-               G                      Em
-Take me to your heart take me to your soul
-               C                D
-Give me your hand and hold me
-                 G        Em
-Show me what love is, be my guiding star
-        Am    D              G
-It's easy, take me to your heart
-```
-
-##  汪峰- 怒放的生命
-
-Capo: 0
-```
-   Bm            D
-曾经多少次跌倒在路上
-曾经多少次失去了方向
-    Em            Bm
-曾经多少次折断过翅膀
-曾经多少次扑灭了梦想
-    Bm            D
-如今我已不再感到彷徨
-如今我已不再感到迷茫
-    Em            A
-我想超越这平凡的生活
-我要我的生命得到解放
--------------------
-       D     D
-我想要怒放的生命
-            Bm
-就象飞翔在辽阔的天空
-            Em
-就象穿行在无边的旷野
-    G           A
-拥有挣脱一切的力量
--------------------
-       D      D
-我想要怒放的生命
-            Bm
-就象矗立在彩虹之颠
-          Em
-就象穿行璀璨的星河
-    G           D
-拥有超越平凡的力量
-```
 
 ## 叶启田 - 爱拼才会赢
 
