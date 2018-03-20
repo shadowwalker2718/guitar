@@ -1,0 +1,284 @@
+---
+title: "English_Rock"
+author: "Fuheng"
+date: "March 18, 2018"
+output: html_document
+---
+
+# English Songs
+
+\newpage
+
+## Hotel California
+
+```
+(Bm)  On a dark desert highway,    (F#)  cool wind in my hair
+      Her mind is Tiffany-twisted,       she got the Mercedes bends
+===>  Last thing I remember,             I was running for the door
+(A)   Warm smell of colitas                (E) rising up through the air
+      She got a lot of pretty pretty boys,     she calls friends
+      I had to find the passage back           to the place I was before
+(G)   Up ahead in the distance,        (D)  I saw a shimmering light
+      How they dance in the courtyard,      sweet summer sweat.
+      'Relax,' said the night man,          'We are programmed to receive.
+(Em)  My head grew heavy and my sight grew dim, (F#)  I had to stop for the night
+      Some dance to remember,                         some dance to forget
+      You can check-out any time you like,            But you can never leave!'(End)
+(Bm)  There she stood in the doorway;  (F#)  I heard the mission bell
+      So I called up the Captain,            'Please bring me my wine'
+===>  Mirrors on the ceiling,                The pink champagne on ice
+(A)   And I was thinking to myself this could be    (E) heaven or this could be hell
+      He said, 'We haven't had that spirit here         since nineteen sixty nine'
+      And she said 'We are all just prisoners here,     of our own device'
+(G)   Then she lit up a candle,          (D) and she showed me the way
+      And still those voices are calling     from far away,
+      And in the master's chambers,          They gathered for the feast
+(Em)  There were voices down the corridor,   (F#) I thought I heard them say
+      Wake you up in the middle of the night,     Just to hear them say...
+      They stab it with their steely knives,      But they just can't kill the beast
+1/2:(G)Welcome to the (D)Hotel California.
+1/2:(F#)Such a lovely place, (Bm)such a lovely face
+1:(G)Plenty of room at    (D)the Hotel California
+2:(G)They livin' it up at (D)the Hotel California
+1:(Em)Any time of year (any time of year)          (F#)you can find it here
+2:(Em)What a nice surprise (what a nice surprise), (F#)Bring your alibis
+```
+
+\newpage
+
+## Take Me Home, Country Roads
+
+Capo: 4
+
+```
+G               Em               D                    C         G
+Almost Heaven;  West Virginia,   Blue Ridge Mountains,Shenandoah River.
+All my memories gather round her,miner's lady,        stranger to blue water.
+G                   Em                   D
+Life is old there, older than the trees, younger than the mountains,
+Dark and dusty,    painted on the sky,   misty taste of moonshine,
+  C             G
+Blowin like a breeze.
+Teardrop in my eye.
+[Chorus]
+         G              D            Em         C
+Country Roads, take me home, to the place, I belong,
+         G               D             C             G
+West Virginia, mountain mama, take me home, country roads.
+[Bridge]
+Em           D            G
+I hear her voice in the morning hour she calls me,
+     C       G              D
+The radio reminds me of my home far away.
+     Em               F            C
+And driving down the road I get a feeling
+         G                          D          D7
+That I should have been home yesterday, yesterday.
+```
+
+\newpage
+
+
+
+##  Take me to your heart
+
+Capo: 0 or 2
+
+```
+G                                        Em
+Hiding from the rain and snow,Trying to forget but I won't let go
+Standing on a mountain high,  Looking at the moon through a clear blue sky
+C                                D
+Looking at a crowded street,     Listening to my own heart beat
+I should go and see some friends,But they don't really comprehend
+Em                  Bm7     C                G
+So many             people  all around the world
+Don't need too much talking without saying anything
+Em                  Bm7 Am                    D
+Tell me where do I find someone like you      girl
+All I need is      someone who makes me wanna sing
+                G                      Em   C                D
+Take me to your heart take me to your soul, Give me your hand before I'm old
+                G                      Em   C                D
+Show me what love is - haven't got a clue, Show me that wonders can be true
+         Bm7            Em      Am          D
+They say nothing lasts forever, We're only here today
+Bm7            Em     Am            D
+Love is now or never, Bring me far away
+               G                      Em
+Take me to your heart take me to your soul
+               C                D
+Give me your hand and hold me
+                 G        Em
+Show me what love is, be my guiding star
+        Am    D              G
+It's easy, take me to your heart
+```
+
+\newpage
+
+## The Eagles - Waiting in the Weeds
+
+Capo: fret 1
+```
+(G)It's comin' on the (Em)end of August, (G)Another summer's promise (Em)almost gone
+(C)And though I heard some wise man say, (G)That every dog will have his day
+He never (F)mentioned that these dog days get (Am)so long(D)
+(G)I don't know when I realized (Em)the dream(G) was over  
+Well, there was no (Em)particular hour, no given day
+You know, it (C)didn't go down in flame  
+There was no (G)final scene, no frozen frame
+(F)I just watched it slowly fade (Am)away (D)
+[Chorus]
+And (Em)I've been waiting in (G)the weeds  
+Waiting for my (Am)time to come (C)around again and
+(Em)Hope is floating on the (G)breeze  
+Carrying my (Am)soul high up (C)above the ground and
+(Em)I've been keepin' to (G)myself  Knowin' 
+that the (Am)seasons are (C)slowly changing
+(Em)Even though you're with somebody (G)else  
+He'll never love you (Am)like I do(C) ==========
+(G)I've been biding time with the (Em)crows and sparrows  
+(G)While peacocks prance and strut upon (Em)the stage 
+If finding (C)love is just a dance  (G)Proximity and chance
+You will (F)excuse me if I skip the (Am)masquerade (D)
+[Chorus]
+And (Em)I've been waiting in (G)the weeds  
+Waiting for the (Am)dust to settle down (C)along the
+(Em)Back roads running through the (G)fields  
+Lying on the (Am)outskirts of this (C)lonesome town
+(Em)And I imagine sunlight in your (G)hair, You're at the county (Am)fair
+You're holding (C)hands and laughing, (Em)And now the ferris wheel has (G)stopped
+You're swinging on the (Bm)top, Suspended (F#)there with him
+(G)And he's the darling of the (D)sheik, The flavor of the (Bm)week is (F#)melting
+(G)Down your pretty summer (D)dress, Baby, what a (F#)mess you're making
+[Solo]
+Bm   A#5+    D   A#5+   
+(Bm)I've been stumbling through some (A#5+)dark places        
+(D)Now I'm following the (A#5+)plow
+(Bm)I know I've fallen out of your (A#5+)good graces  
+(Am)It's alright (D)now
+(Em)And I've been waiting in the (G)weeds  
+Waiting for the (Am)summer rain to (C)fall upon the
+(Em)Wild birds scattering the (G)seeds  
+Answering the (Am)calling of the (C)tide's eternal tune
+(Em)The phases of the (G)moon  
+The chambers of (Am)the heart
+The egg and (C)dart of small gray  
+(Em)Spiders spinning in the (G)dark
+In spite of all the (Am)times the web is torn (C)apart
+And (Em)I've been waiting in the (G)weeds  
+Waiting for the (Am)time to come (C)around again and
+(Em)Hope is floating on the (G)breeze  
+Carrying my (Am)soul high up (C)above the ground and
+(Em)I've been keeping to (G)myself  
+Knowing that the (Am)seasons are (C)slowly changing
+(Em)Even though you're with somebody (G)else  
+He'll never love you like I (Am)do~ (G)
+Em    G    Am       C      Em
+```
+
+\newpage
+
+## The Sound of Silence
+
+```
+(Am)Hello darkness, my old (G)friend,
+I've come to talk with you (Am)again,
+Because a vision (F)softly creeping(C),
+Left its seeds while I (F)was sleeping(C),
+And the (F)vision that was planted (C)in my brain
+Still (Am)remains
+(C)Within the (G)sound of (Am)silence.
+                        G          Am
+In restless dreams I walked alone  Narrow streets of cobblestone,
+And in the naked light I saw,      Ten thousand people, maybe more.
+                   F        C                                F        C
+'neath the halo of a street lamp,  I turned my collar to the cold and damp
+People talking without speaking,   People hearing        without listening
+        F                                        C
+When my eyes were stabbed by the flash of a neon light
+People writing songs that voices never share
+                 Am    C              G        Am
+That split the night,  And touched the sound of silence.
+And no one dare,       Disturb the sound of silence.
+                         G                             Am
+Fools said I, you do not know,   Silence like a cancer grows.
+And the people bowed and prayed, To the neon God they made.
+                     F           C                      F           C
+Hear my words that I might teach you, Take my arms that I might reach you.
+And the sign flashed out its warning, In the words that it was forming.
+C      F                            C  Am C       G                 Am
+But my words like silent raindrops fell, And echoed In the wells of silence
+                       F
+And the sign said, the words of the prophets
+        F                       C                C    Am
+Are written on the subway walls And tenement halls.
+         C           G         Am
+And whisper'd in the sounds of silence.
+```
+
+\newpage
+
+## The Eagles - Take it easy
+
+```
+Well I'm a (G)runnin' down the road try'n to loosen my load
+I've got seven women (D)on my (C)mind
+(G)Four that wanna own me, (D)two that wanna stone me
+(C)One says she's a friend of (G)mine
+Take it (Em)easy, take it (C)easy(G)
+Don't let the (Am)sound of your own (C)wheels drive you (Em)crazy
+Lighten (C)up while you still (G)can
+Don't even (C)try to (G)understand
+Just find a (Am)place to make your (C)stand,  and take it (G)easy
+
+Well, I'm a (G)standin' on a corner in Winslow, Arizona
+Such a fine (D)sight to (C)see
+It's a (G)girl my lord in a (D)flat-bed Ford
+Slowin' (C)down to take a look at me(G)
+Come on, (Em)baby(D), don't say (C)maybe(G)
+I gotta (Am)know if your (C)sweet love is gonna save me(Em)
+We may (C)lose and we (G)may win, but we will (C)never be here again(G)
+So open up (Am)I'm climbin' in(C), so take it easy(G)
+
+Solo: G D C, G D C G, Em D C G, Am C Em D
+            G
+Well, I'm a runnin' down the road tryin' to loosen my load
+Got a world of trouble (D)on my mind(C)
+(G)Lookin' for a lover who (D)won't blow my cover, she's (C)so hard to (G)find
+[Chorus]
+Take it (Em)easy,  take it (C)easy(G)
+Don't let the (Am)sound of your (C)own wheels make you (Em)crazy
+        C G             C  G
+Come on baby, don't say maybe
+        Am                 C             G       
+I gotta know of your sweet love is gonna save me
+             G  G7    C                      G  G7    C  
+Oh we got it e__e_____asy, We oughta take it e__e_____asy
+```
+
+\newpage
+
+## Sunshine In The Rain
+
+Key: C#, Capo: 2
+```
+Am          Dm7            G                         C                     Am
+When I'm in Berlin you're off to London, When I'm in New York you're doing Rome
+Wishing we could be more telepathic,     Tired of the nights I sleep       alone
+Even if we call the highest power,       We can only do one town a         time 
+
+                Dm7             G                             C
+All those crazy nights we spend together,  As voices on the     phone
+Wishing we could redirect the traffic,     And find ourselves a home
+Words are not enough action speaks louder, Second time          around
+
+                 F                G                         G               C 
+Can you feel the raindrops in the desert, Have you seen the sunraise in the dark
+               F                 G          G                               Am
+Do you feel my love when I'm not present, Standing by your side while miles apart
+                Dm7                     G                      C
+Sunshine in the rain, Love is still the same, Sunshine in the rain
+```
+

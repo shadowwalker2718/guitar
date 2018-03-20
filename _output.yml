@@ -1,0 +1,40 @@
+
+bookdown::pdf_book:
+  includes:
+    in_header: _preamble.tex
+    before_body: _head.tex
+    after_body: _tail.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  fig_caption: yes
+  keep_tex: yes
+  number_sections: yes
+  toc: yes
+  toc_depth: 3
+
+
+bookdown::gitbook:
+  highlight: tango
+  includes:
+    after_body: _tail.html
+  css: style.css
+  toc_depth: 2
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Quant365.com</a></li>
+      after: |
+        <li><a href="http://www.quant365.com" target="blank">Quant365</a></li>
+    edit:
+      link: http://www.quant365.com/%s
+    buy:
+      link: http://www.quant365.com/buy/%s
+
+
+
+bookdown::epub_book: default
+
+
+
+
