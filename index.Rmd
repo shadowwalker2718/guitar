@@ -1,7 +1,7 @@
 ---
-title: "Henry's Guitar Scores"
-author: "Fuheng Wu(i@quant365.com)"
-date: "June 1, 2016"
+title: "码农乐谱"
+author: "Henry's Guitar Scores"
+date: "June 1, 2018"
 output:
   bookdown::pdf_book:
     keep_tex: yes
@@ -36,7 +36,7 @@ header-includes:
 - \usepackage{tcolorbox}
 - \makeindex
 site: bookdown::bookdown_site
-description: "C++ Algorithm Notes"
+description: "Henry's Guitar Book"
 github-repo: yihui/bookdown-chinese
 cover-image: img/batmanSlapsRobin.jpg
 favicon: "img/favicon.ico"
