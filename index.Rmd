@@ -46,3 +46,5 @@ favicon: "img/favicon.ico"
 
 \mainmatter
 
+
+![](img/chord.jpg)
