@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 # Chinese Songs
 
@@ -1614,7 +1619,31 @@ D方看一看G  这世界Am7   并非那麽的凄凉D
 我们要Em7飞到那遥远地
 D方望一G望，这世界Am7   还是D一片的光G亮
 ```
+\newpage
 
+## 齐秦 - 外面的世界
+
+```
+前奏
+G D Em G D Em C D G Bm7 Em C D7 G
+
+G_在很久D(很)久以Em(前)
+你拥有我C_D_我拥有你G_
+G_在很久D(很)久以Em(前)
+你离开我C_去D7远空翱翔G_G_
+
+副歌
+C_外面的世D_界很精G(彩)
+C_外面的世D_界很无奈G_
+C_当你觉得D(外)面的世界G(很)Bm7(精)Em(彩)
+我Am(会)在这里A7(衷)心的祝福你D7sus4_D7_
+
+结尾
+G_每当夕阳D西沉的时候Em_
+我总C(是)在D(这)里盼望你G_
+G_天空中D(虽)然飘着雨Em_
+我依C(然)等待D7(你)的归期G_
+```
 
 \newpage
 
