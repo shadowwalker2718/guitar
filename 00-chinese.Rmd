@@ -1170,13 +1170,13 @@ F　未必永远C才算G　爱得完Am全，一个人F的成全好过G三个人�
 ## 刘若英 - 为爱痴狂 
 
 ```
-    G(A)    Bm(Cm#)   C(D)       D(Cm#)
+    G      Bm            C         D
     我从春天走来     你在秋天说要分开
-    Em(Fm#)   Am(Bm)            D7(E#)
-    说好不为你忧伤   但心情怎会无恙
-    G(A)    Bm(Cm#)   C(D)       D(Cm#)
+  Em            Am   D           D7
+  __说好不为你忧伤   但心情怎会无恙
+    G         Bm         C         D
     为何总是这样     在我心中深藏著你
-    C(D)     Am(Bm#)  D7(E#)     G(A)
+    C           Am       D7       G
     想要问你想不想   陪我到地老天荒
 
     Am(Bm#)  Bm(Cm#)   C(D)      D(E#)
@@ -1324,7 +1324,7 @@ Prelude: Am..G..F........G..C
    Em      Am        Dm    G       C
 成(功)  失(敗)  浪里(看)不(出)有未(有) 
 
- C7      F         Em          Dm    G     C
+  F      F         Em          F     G     C
 (愛)你恨(你)  問君(知)否  似大(江)一(發)不(收)
      E         Am        Dm    F       G
 轉千(灣)  轉千(灘)  亦未(平)復(此)中争(鬥)
@@ -1818,6 +1818,8 @@ Em7心碎只是我自Am己
 ## 周传雄 - 黄昏
 
 Capo: 4
+
+![](img/huanghun.0.png)
 
 ```
    Am        C   G          Am
