@@ -1,29 +1,28 @@
 ---
 title: "码农乐谱"
-author: "Henry's Guitar Scores"
+author: "Henry's Guitar Score Book"
 date: "June 1, 2018"
 output:
   bookdown::pdf_book:
-    keep_tex: yes
+    keep_tex: no
     dev: "cairo_pdf"
     latex_engine: xelatex
     citation_package: natbib
     template: tex/template_yihui_zh.tex
     pandoc_args: --chapters
-    toc_depth: 3
+    toc_depth: 2
     toc_unnumbered: no
-    toc_appendix: yes
+    toc_appendix: no
     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 documentclass: ctexbook
 bibliography: [bib/bib.bib]
 biblio-style: apalike
-link-citations: yes
+link-citations: no
 colorlinks: yes
-lot: yes
-lof: yes
+lot: no
+lof: no
 geometry: [paperwidth=18cm, paperheight=23.39cm, tmargin=1.618cm, bmargin=1.618cm, lmargin=1.024cm, rmargin=1.024cm]
 header-includes:
-- \usepackage{graphicx}
 - \graphicspath{{img/}}
 - \usepackage{bbm}
 - \usepackage{threeparttable}
