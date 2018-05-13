@@ -1,3 +1,16 @@
+bookdown::pdf_book:
+  includes:
+    in_header: _preamble.tex
+    before_body: _head.tex
+    after_body: _tail.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  fig_caption: yes
+  keep_tex: yes
+  number_sections: yes
+  toc: yes
+  toc_depth: 3
+
 bookdown::gitbook:
   highlight: tango
   includes:
@@ -17,18 +30,7 @@ bookdown::gitbook:
       link: http://www.quant365.com/buy/%s
 
 
-bookdown::pdf_book:
-  includes:
-    in_header: _preamble.tex
-    before_body: _head.tex
-    after_body: _tail.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  fig_caption: yes
-  keep_tex: yes
-  number_sections: yes
-  toc: yes
-  toc_depth: 3
+
 
 
 

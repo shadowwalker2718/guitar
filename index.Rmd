@@ -14,23 +14,6 @@ output:
     toc_unnumbered: no
     toc_appendix: no
     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
-  bookdown::gitbook:
-    highlight: tango
-    includes:
-      after_body: _tail.html
-    css: style.css
-    toc_depth: 2
-    config:
-      toc:
-        collapse: section
-        before: |
-          <li><a href="./">Quant365.com</a></li>
-        after: |
-          <li><a href="http://www.quant365.com" target="blank">Quant365</a></li>
-      edit:
-        link: http://www.quant365.com/%s
-      buy:
-        link: http://www.quant365.com/buy/%s
 documentclass: ctexbook
 bibliography: [bib/bib.bib]
 biblio-style: apalike
@@ -58,6 +41,7 @@ cover-image: img/batmanSlapsRobin.jpg
 favicon: "img/favicon.ico"
 ---
 
+\mainmatter
 
 # Guitar Chords
 
