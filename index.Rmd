@@ -47,6 +47,9 @@ favicon: "img/favicon.ico"
 
 ![](img/rock.png)
 
+![](img/wechat.jpg)
+
+
 ## Common Chords
 
 ![](img/chord.jpg)
