@@ -46,7 +46,7 @@ output: html_document
 
 \newpage
 
-## Take Me Home, Country Roads
+## Country Roads
 
 Capo: 4
 
@@ -117,7 +117,7 @@ It's easy, take me to your heart
 
 \newpage
 
-## The Eagles - Waiting in the Weeds
+## Waiting in the Weeds
 
 Capo: fret 1
 ```
@@ -220,7 +220,7 @@ And whisper'd in the sounds of silence.
 
 \newpage
 
-## The Eagles - Take it easy
+## Take it easy(The Eagles)
 
 ```
 Well I'm a (G)runnin' down the road try'n to loosen my load
@@ -284,7 +284,7 @@ Sunshine in the rain, Love is still the same, Sunshine in the rain
 
 \newpage
 
-## Eagles - Lying Eyes
+## Lying Eyes(The Eagles)
 
 Capo: 3
 
@@ -376,13 +376,13 @@ I thought by now you'd realize there ain't no way to hide those lying eyes.
 
 \newpage
 
-##  Dido - Thank You
+##  Thank You(Dido)
 
 https://tabs.ultimate-guitar.com/tab/dido/thank_you_chords_57890
 
 \newpage
 
-## Adele - Chasing Pavements
+## Chasing Pavements
 
 https://tabs.ultimate-guitar.com/tab/adele/chasing_pavements_chords_989912
 
@@ -465,7 +465,7 @@ Even if it leads nowhere?
 
 \newpage
 
-## Adele - Rolling In The Deep
+## Rolling In The Deep
 
 https://tabs.ultimate-guitar.com/tab/adele/rolling_in_the_deep_chords_1028320
 
