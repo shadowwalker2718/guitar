@@ -43,7 +43,8 @@ favicon: "img/favicon.ico"
 
 　　
 
-\mainmatter
+# Guitar Chords
 
+## Common Chords
 
 ![](img/chord.jpg)

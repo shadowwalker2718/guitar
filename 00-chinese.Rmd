@@ -11,7 +11,7 @@ output:
 
 ## 邓丽君 - 千言万语
 
-### Key: G, Capo: 2
+Key: G, Capo: 2
 
 ```
 G            Bm   Em            Bm
@@ -24,15 +24,15 @@ _我每天都在祈祷, _快赶走爱的寂寞
 千言和万语, 随浮  云 掠过
 ```
 
-  ~![](img/sep.png)~
-
-### Key: C, Capo: 4  
+Key: C, Capo: 4  
 
 ~![](img/qianyanwanyu1.png)~
 
 ```
+[拨弦分解]
 C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
 C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
+[渐强,组合和弦]
 那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
 千Em言和萬Am語　隨浮Dm雲掠G7過
 
@@ -41,6 +41,7 @@ C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
 那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
 千Em言和萬Am語　隨浮Dm雲掠G7過
 
+[拨弦分解]
 C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
 C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
 ```
@@ -1218,6 +1219,102 @@ F　未必永远C才算G　爱得完Am全,一个人F的成全好过G三个人的
     说好不为你忧伤   但心情怎会无恙
 ```
 
+\newpage
+
+## 许巍 - 蓝莲花
+
+Capo: 4
+```
+ C            F   C           G
+没有什么能够阻挡, 你对自由的向往
+G           Am    G           F
+天马行空的生涯  , 你的心了无牵挂
+Dm           G    Dm        G
+穿过幽暗的岁月  , 也曾感到彷徨
+G           Am    G           F
+当你低头的瞬间  , 才发觉脚下的路
+C             F   F           C
+心中那自由的世界, 如此的清澈高远
+C           F   C   G
+盛开着永不凋零, 蓝莲花 
+```
+
+\newpage
+
+
+## 许巍 - 曾经的你
+
+Capo: 0
+```
+      C       G   C           G    D             Em    D    Em
+曾梦想仗剑走天涯 看一看世界的繁华, 年少的心总有些轻狂, 如今你四海为家
+      C       G   C      G
+曾让你心疼的姑娘, 如今已悄然无踪影
+D                    Em   D        Em
+爱情总让你渴望又感到烦恼, 曾让你遍体鳞伤
+D                  C      D               G
+DiLiLiDiDiLiLiDiDengDai    DiLiLiDiDiLiLiDiDaDai
+Em              Am         D           G 
+DiLiLiDiDiLiLiDiDaiDai       走在勇往直前的路上
+D               C        D               G 
+DiLiLiDiDiLiLiDiDengDai     DiLiLiDiDiLiLiDiDaDai
+Em                Am       G     D 
+DiLiLiDiDiLiLiDiDaiDai      有难过也有精彩
+C              G C             G  D                   Em    D         Em
+每一次难过的时候 就独自看一看大海, 总想起身边走在路上的朋友  有多少正在疗伤
+D                 C      D                  G
+DiLiLiDiDiLiLiDiDengDai, DiLiLiDiDiLiLiDiDaDai
+Em                  Am  D          G
+DiLiLiDiDiLiLiDiDaiDai, 不知多少孤独的夜晚
+ D                   C   D              G
+DiLiLiDiDiLiLiDiDengDai, DiLiLiDiDiLiLiDiDaDai
+Em                  Am   G       D
+DiLiLiDiDiLiLiDiDaiDai, 从昨夜酒醉醒来
+C             G    C           G     D              Em           D         Em
+每一次难过的时候, 就独自看一看大海, 总想起身边走在(路)上的朋友, 有多少正在醒来
+C              G  C           G
+让我们干了这杯酒, 好男儿胸怀像大海
+D             Em          D      Em
+经历了人生百态世间的冷暖, 这笑容温暖纯真
+```
+
+
+
+
+\newpage
+
+## 林忆莲 - 至少还有你
+
+```
+C C F F
+
+主歌
+
+F　我怕C来不及　我要F抱着你　
+直到C感觉你的皱纹　有了Em岁月的痕迹
+直到F肯定你是真Fm　的　C直到失去力A7气　
+F为了你　Fm　我愿G意
+动也C不能动　也要F看着你　
+直到C感觉你的发线　有了Em白雪的痕迹
+直到F视线变得模Fm　糊　C直到不能呼A7　吸
+F让我们　G　形影不离 C
+
+F如　G果　C全世界我也可以放弃　
+至少G还有你　值得我去珍惜
+而你F在这里　就是Fm生命的奇蹟G　
+也许　C全世界我也可以忘记　
+就是G不愿意　失去你的消息
+你掌F心的痣　我总G记得在那里C　
+
+主歌,副歌 X1
+
+桥段 G Am Em Am
+
+G我们F好不容易　我们Fm身不由C己
+我怕F时间太快　不够将你看仔细C　
+我怕F时间太慢　日夜Fm担心失去你C
+恨不得一Am　夜之间白头F　永不分G离 (副歌 X1)
+```
 
 \newpage
 
@@ -1449,64 +1546,6 @@ Em   Bm   Em
 \newpage
 
 
-## 许巍 - 蓝莲花
-
-Capo: 4
-```
- C            F   C           G
-没有什么能够阻挡, 你对自由的向往
-G           Am    G           F
-天马行空的生涯  , 你的心了无牵挂
-Dm           G    Dm        G
-穿过幽暗的岁月  , 也曾感到彷徨
-G           Am    G           F
-当你低头的瞬间  , 才发觉脚下的路
-C             F   F           C
-心中那自由的世界, 如此的清澈高远
-C           F   C   G
-盛开着永不凋零, 蓝莲花 
-```
-
-\newpage
-
-
-## 许巍 - 曾经的你
-
-Capo: 0
-```
-      C       G   C           G    D             Em    D    Em
-曾梦想仗剑走天涯 看一看世界的繁华, 年少的心总有些轻狂, 如今你四海为家
-      C       G   C      G
-曾让你心疼的姑娘, 如今已悄然无踪影
-D                    Em   D        Em
-爱情总让你渴望又感到烦恼, 曾让你遍体鳞伤
-D                  C      D               G
-DiLiLiDiDiLiLiDiDengDai    DiLiLiDiDiLiLiDiDaDai
-Em              Am         D           G 
-DiLiLiDiDiLiLiDiDaiDai       走在勇往直前的路上
-D               C        D               G 
-DiLiLiDiDiLiLiDiDengDai     DiLiLiDiDiLiLiDiDaDai
-Em                Am       G     D 
-DiLiLiDiDiLiLiDiDaiDai      有难过也有精彩
-C              G C             G  D                   Em    D         Em
-每一次难过的时候 就独自看一看大海, 总想起身边走在路上的朋友  有多少正在疗伤
-D                 C      D                  G
-DiLiLiDiDiLiLiDiDengDai, DiLiLiDiDiLiLiDiDaDai
-Em                  Am  D          G
-DiLiLiDiDiLiLiDiDaiDai, 不知多少孤独的夜晚
- D                   C   D              G
-DiLiLiDiDiLiLiDiDengDai, DiLiLiDiDiLiLiDiDaDai
-Em                  Am   G       D
-DiLiLiDiDiLiLiDiDaiDai, 从昨夜酒醉醒来
-C             G    C           G     D              Em           D         Em
-每一次难过的时候, 就独自看一看大海, 总想起身边走在(路)上的朋友, 有多少正在醒来
-C              G  C           G
-让我们干了这杯酒, 好男儿胸怀像大海
-D             Em          D      Em
-经历了人生百态世间的冷暖, 这笑容温暖纯真*
-```
-
-\newpage
 
 
 
@@ -2117,6 +2156,55 @@ C城里的G月光Am把梦G照亮      F请温暖他G心房
 F看透了人间Em聚  Am散        能Dm不能多点快乐G片段
 C城里的G月光Am把梦G照亮      F请守护它身G旁
 F若有一天能Em重  Am逢        让Dm幸福撒满G整个夜C晚
+```
+
+\newpage
+
+## 王馨平 - 别问我是谁
+
+```
+Key: A 
+Capo 2 – Play G
+       G              D/F#
+从没说过爱着谁 为谁而憔悴
+       Em              Bm7
+从来没有想过对不对
+       C              G/B 
+我的眼中装满疲惫
+Em     Asus4 A7      Dsus4 D 
+面对自己    总觉得好累
+       G               D/F#
+我也需要人来陪 不让我心碎
+       Em              Bm7
+让我爱到深处不后悔
+       C                    G/B
+其实我并不像他们说的
+Em     Am7 C/D     G
+那样多刺     难以安慰
+       Em           Bm7
+爱人的心应该没有罪
+       C       D        G
+为何在夜里却一再流泪
+C                     G/B
+每天抱着寂寞入睡
+Am7                 C/D D
+生活过得没有滋味
+  G                   D
+* 别问我是谁 请与我相恋
+Em               Bm7
+我的真心没人能够体会
+C                     G/B
+像我这样的人不多
+C                     D Em D/F#
+为何还要让我难过
+G                   D
+别问我是谁 请和我面对
+Em               Bm7
+看看我的眼角留下的泪
+C                     G/B Em
+我和你并没有不同
+    C          D        G
+但我的心更容易破碎
 ```
 
 \newpage
