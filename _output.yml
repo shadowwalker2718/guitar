@@ -17,6 +17,7 @@ bookdown::gitbook:
       link: http://www.quant365.com/buy/%s
 
 
+
 bookdown::pdf_book:
   includes:
     in_header: _preamble.tex
@@ -29,6 +30,9 @@ bookdown::pdf_book:
   number_sections: yes
   toc: yes
   toc_depth: 3
+
+
+
 
 
 

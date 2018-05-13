@@ -72,7 +72,7 @@ pre code {
 
 blockquote {
     margin: 1em 0 .85em;
-    padding: 25px 40px 1px !important;
+    padding: 25px 40px 20px !important;
     color: darkblue !important;
     border-left: 8px solid #ce2626 !important;
     /*font-style: italic;*/
