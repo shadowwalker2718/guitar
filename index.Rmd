@@ -3,6 +3,17 @@ title: "码农乐谱"
 author: "Henry's Guitar Score Book"
 date: "June 1, 2018"
 output:
+  bookdown::pdf_book:
+    keep_tex: no
+    dev: "cairo_pdf"
+    latex_engine: xelatex
+    citation_package: natbib
+    template: tex/template_yihui_zh.tex
+    pandoc_args: --chapters
+    toc_depth: 2
+    toc_unnumbered: no
+    toc_appendix: no
+    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
   bookdown::gitbook:
     highlight: tango
     includes:
@@ -20,17 +31,6 @@ output:
         link: http://www.quant365.com/%s
       buy:
         link: http://www.quant365.com/buy/%s
-  bookdown::pdf_book:
-    keep_tex: no
-    dev: "cairo_pdf"
-    latex_engine: xelatex
-    citation_package: natbib
-    template: tex/template_yihui_zh.tex
-    pandoc_args: --chapters
-    toc_depth: 2
-    toc_unnumbered: no
-    toc_appendix: no
-    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 documentclass: ctexbook
 bibliography: [bib/bib.bib]
 biblio-style: apalike
@@ -60,6 +60,8 @@ favicon: "img/favicon.ico"
 
 
 # Guitar Chords
+
+![](img/rock.png)
 
 ## Common Chords
 
