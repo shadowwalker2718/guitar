@@ -110,7 +110,9 @@ Dm诉一诉G心里对你的C思念 C喂～
 月亮Dm代表G7我的C心
 ```
 ![](img/denglijun.jpg)
-\newpage
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltfOJI0zlzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 \newpage
@@ -338,6 +340,130 @@ b段
 ★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
 ★我的C爱我Am相信 Dm总有一天G能再C见
 ```
+
+\newpage
+
+## 你怎么说(邓丽君)
+
+```
+C我没忘记C你忘记我
+C连名字你都说C错
+C　证明你Am一切都是F在骗G我
+G　看今天G你怎么C说
+主歌 B
+C你说过两天C来看G我
+C一等就是Am一年G多
+三百C六十五个C日子不好Am过
+Dm你心里根本没有G我
+G　把我的G爱情还给C我
+```
+
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+\newpage
+
+## 恰似你的温柔(蔡琴)
+
+```
+C某年某月的某一Am天 F就像一张破碎的G7脸
+
+难以C开口道再Am见 就F让一切走G7远
+
+C这不是件容易的Am事 F我们却都没有哭G7泣
+
+让C它淡淡的Am来 让F它好好的G7去
+
+副歌
+
+到如今C年复一年 我不能Am停止怀念
+
+怀念F你怀念从G7前
+
+但愿那C海风再起 只为那Am浪花的手
+
+恰F似你G7的温C柔
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRpdbhcNHII" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+\newpage
+
+
+## 女儿情
+
+Capo: 3 or 5
+
+```
+
+|5 5 5 6 1_ 1_ 23_ 5| 5 5 5 6 1_ 1_ 23_ 56|
+|12__ 6_ 1__ 5_| 6_ 1__ 56_ 56_ 3_| 5_ 5_ 5_ 2_ 3_ 56 1_|
+
+C Em, C Am, C Em C Am G Am C
+
+鸳鸯C双栖G蝶双Am飞   3 12 56
+满园Em春色C惹人C醉   45 23
+悄悄Am问圣僧女儿Dm美不美女Em儿美不C美
+
+C说什么王权富Am贵 C怕什么戒律清Em规
+只愿C天长G地Am久 与我C意中Am人儿紧相Em随
+
+爱Am恋伊爱Dm恋伊 
+愿G今生Em长相C随
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_JQrjFXbYP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+http://www.17jita.com/tab/img/6459.html
+
+\newpage
+
+
+## 铁血丹心
+
+
+\newpage
+
+
+## 一剪梅(费玉清)*
+
+Capo: 0
+
+```
+Em  G  Am  Em
+
+Em    D     Em
+真情象草原广阔,
+真情象梅花开过,
+C      D     G Bm
+层层风雨不能阻隔
+冷冷冰雪不能掩没
+Em   D   G   Em
+总有云开日出时候,
+就在最冷枝头绽放,
+D       Bm    Em
+万丈阳光照耀你我.
+看见春天走向你我.
+Em       D    G
+雪花飘飘北风萧萧,
+Em Em    Bm 
+天地一片苍茫.
+Em     D      G
+一剪寒梅傲立雪中,
+Em   G   Bm
+只为伊人飘香.
+Em        D     G
+爱我所爱,无怨无悔,
+Em   Bm   Em
+此情长留心间.
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oR3Af5sbCoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[PDF](pdf/YiJianMei.pdf)
 
 \newpage
 
@@ -1510,40 +1636,6 @@ C                      Am
 
 \newpage
 
-## 一剪梅(费玉清)
-
-Capo: 0
-
-```
-Em  G  Am  Em
-
-Em    D     Em
-真情象草原广阔,
-真情象梅花开过,
-C      D     G Bm
-层层风雨不能阻隔
-冷冷冰雪不能掩没
-Em   D   G   Em
-总有云开日出时候,
-就在最冷枝头绽放,
-D       Bm    Em
-万丈阳光照耀你我.
-看见春天走向你我.
-Em       D    G
-雪花飘飘北风萧萧,
-Em Em    Bm 
-天地一片苍茫.
-Em     D      G
-一剪寒梅傲立雪中,
-Em   G   Bm
-只为伊人飘香.
-Em        D     G
-爱我所爱,无怨无悔,
-Em   Bm   Em
-此情长留心间.
-```
-
-\newpage
 
 
 
@@ -1605,54 +1697,7 @@ Bridge:
 \newpage
 
 
-## 恰似你的温柔(蔡琴)
 
-```
-C某年某月的某一Am天 F就像一张破碎的G7脸
-
-难以C开口道再Am见 就F让一切走G7远
-
-C这不是件容易的Am事 F我们却都没有哭G7泣
-
-让C它淡淡的Am来 让F它好好的G7去
-
-副歌
-
-到如今C年复一年 我不能Am停止怀念
-
-怀念F你怀念从G7前
-
-但愿那C海风再起 只为那Am浪花的手
-
-恰F似你G7的温C柔
-```
-
-\newpage
-
-
-## 女儿情
-
-Capo: 3 or 5
-
-```
-
-|5 5 5 6 1_ 1_ 23_ 5| 5 5 5 6 1_ 1_ 23_ 56|
-|12__ 6_ 1__ 5_| 6_ 1__ 56_ 56_ 3_| 5_ 5_ 5_ 2_ 3_ 56 1_|
-
-C Em, C Am, C Em C Am G Am C
-
-鸳鸯C双栖G蝶双Am飞   3 12 56
-满园Em春色C惹人C醉   45 23
-悄悄Am问圣僧女儿Dm美不美女Em儿美不C美
-
-C说什么王权富Am贵 C怕什么戒律清Em规
-只愿C天长G地Am久 与我C意中Am人儿紧相Em随
-
-爱Am恋伊爱Dm恋伊 
-愿G今生Em长相C随
-```
-
-\newpage
 
 ## 假行僧(崔健)
 
@@ -1730,6 +1775,29 @@ Am    Dm7         G          C
 想念F只让自己苦了自G己 爱上F你是我情非得C已
 爱上F你是我情非得G已C....
 ```
+
+\newpage
+
+
+## 哭砂(黃鶯鶯)
+
+```
+        酒吧专用 简短版
+前奏间奏G　  D　   Em　   Bm　   C　   G　
+       G  D   Em   Bm   Am  Em   G
+G你是我最苦涩的Em等待      C让我欢喜又害怕未D来
+C你最爱说你是一Bm颗尘Em埃   偶尔会Am恶作剧地飘近我 眼D里
+宁愿G我哭泣 不让Em我爱你 你就C真的 像尘埃D消 失在风G里
+G你是我最痛苦的Em抉择    C为何你从不放弃漂D泊
+C对你是那么难Bm分难Em舍   你总是Am带回 满口袋的沙 给D我
+难得G来看我 却又Em离开我 让那C手中  泄落的D沙 像泪水G流
+G风吹来的D沙 落在Em悲伤的夜Bm里C谁都看出D我在等G你
+G风吹来的D沙 堆积Em在心Bm里  是Am谁也擦不去的痕D迹
+G风吹来的D沙 穿过Em所有的记Bm忆  C谁都知道D我在想G你
+G风吹来的D沙 明明Em在哭Bm泣   难G道早就D预言了分G离
+```
+
+https://yoopu.me/view/qPk3BMP7
 
 \newpage
 
@@ -2276,6 +2344,36 @@ C天微微亮         Am你轻声地叹          一F夜惆G怅       如C此委
 
 \newpage
 
+## 你不是真正的快乐(五月天)
+
+```
+C人群中　哭著　你只想變成Am透明的顏色
+你再也不會F夢　或痛　或Em心動了
+你已經F決定了　你已經G決定了
+C你靜靜　忍著　緊緊把昨天Am在拳心握著
+而回憶越是F甜　就是　越Em傷人了
+越是在F手心留下　密密麻麻　Dm深深淺淺的刀C割
+你不是真正C的快樂　你的笑只是Am你穿的保護色
+你決定不恨F了　也決定不愛Em了
+把你的靈魂　F關在永遠　鎖上的軀G殼
+C這世界　笑了　於是你合群Am的一起笑了
+當生存是規F則　不是　你Em的選擇
+於是你F含著眼淚　飄飄盪盪　Dm跌跌撞撞的走G著
+你不是真正C的快樂　你的傷從不Am肯完全的癒合
+我站在你左F側　卻像隔著銀Em河
+難道就真的F抱著遺憾　一直到老G了
+然後才後悔C著
+你值得真正C的快樂　你應該脫下Am你穿的保護色
+為什麼失去F了  還要被懲罰Em呢
+能不能就讓F悲傷全部結束在此G刻
+重新開始活C著
+```
+
+https://yoopu.me/view/AXqOjvp7
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hr8jWDyb1jg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+\newpage
 
 ## 白天不懂夜的黑(那英)
 
@@ -2343,7 +2441,7 @@ F       C       Dm           C
 F       C       Dm               G
 有人来,有人走, 心中的河永远向东(流)....(|G)
 ```
-
+\newpage
 
 ## 成都之硅谷版(码农乐队)
 
@@ -2372,3 +2470,25 @@ Capo: 2
 你有创业计划在手,我会为你找到风投.
 走过斯坦福的山头,坐在乔布斯家的门口.
 ```
+
+\newpage
+
+## 鸿雁
+
+```
+G鸿  D雁     G天空Em上     C对对G排成D行  H 1 0-2
+G江水C长 Em秋草Bm黄        G草原上Bm琴声忧Em伤
+G鸿  D雁  G向南Em方        C飞G过芦苇D荡  H 1 0-2
+G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
+G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
+G Em G Bm Em Bm Em D
+副歌
+G鸿  D雁     G北归Em还       C带上我G的思D念
+G歌声C远    Em琴声Bm颤       G草原Bm上春意Em暖
+G鸿  D雁     G向苍Em天       C天空有G多遥D远
+G酒喝D干    Em再斟Bm满       G今夜Bm不醉不Em还
+G酒喝C干    Em再斟Bm满       G今夜Bm不醉不Em还
+```
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hC68qhgJ_kU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
