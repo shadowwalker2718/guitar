@@ -46,42 +46,12 @@ C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
 C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
 ```
 
-## 船歌(邓丽君)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0ph7fHDH3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Capo: 4
-```
-主歌 A
-C喂～
-F风儿呀G吹动我的C船帆
-Dm船儿呀G随风荡Am漾
-Dm送我到G日夜思念的C地方
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UX-gyIdPQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-C喂～
-F风儿呀G吹动我的C船帆
-Dm姑娘呀G我要和你见Am面
-Dm诉一诉G心里对你的C思念
+![](img/QianYanWanYu.gif)
 
-副歌
-C当我还G没来到F你的面Am前
-C你千万要G把我要F记在心Am间
-要C等待着G我呀
-要F耐心等着我G呀
-
-G姑娘～
-我的心像那黎明的温暖太阳G  
-
-主歌 B
-C喂～
-F风儿呀G吹动我的C船帆
-Dm船儿呀G随风荡Am漾
-Dm送我到G日夜思念的C地方
-C喂～
-F风儿呀G吹动我的C船帆
-Dm姑娘呀G我要和你见Am面
-Dm诉一诉G心里对你的C思念 C喂～
-```
-
-\newpage
 
 ## 月亮代表我的心(邓丽君)
 
@@ -114,6 +84,7 @@ Dm诉一诉G心里对你的C思念 C喂～
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ltfOJI0zlzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+![](img/YueLiangDaiBiaoWoDeXin.gif)
 
 \newpage
 
@@ -149,6 +120,11 @@ End:
 有位佳人  在水一方
 ```
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2ps0kWNSFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ZaiShuiYiFang.gif)
+
 \newpage
 
 ## 又见炊烟(邓丽君)
@@ -168,6 +144,11 @@ F   Em  Dm   C       F  G   C
 诗情画意虽然美丽,我心中只有你
 诗情画意虽然美丽,我心中只有你
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqg7Khc9E-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/YouJianCuiYan.jpg)
 
 \newpage
 
@@ -198,6 +179,9 @@ C      Am        F   G   C
 除了你 我不能感到一丝丝情意
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uS9g9_f63T4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/WoZhiZaiHuNi.gif)
 
 \newpage
 
@@ -223,6 +207,14 @@ C人生难得Am几回G醉,C不欢更何G待？
 
 C今宵离别G后,F何日G君再C来？
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWQ72Xy69DQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8eQFCwURbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x_TPeRKh1fU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/HeRiJunZaiLai.gif)
 
 \newpage
 
@@ -263,6 +255,10 @@ Am愉快悲哀在身Em边转又转
 小雨Dm点放心E洒  早已Em决心向着Am前
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lK-m-etVWkw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ManBuRenShengLu.gif)
+
 \newpage
 
 
@@ -271,25 +267,97 @@ Am愉快悲哀在身Em边转又转
 Capo: 5
 ```
 C明月几时Am有   F把酒问青G天
-
 Am不知天上Dm宫阙   F今夕是何年G  
-
 C我欲乘风归Am去   F唯恐琼楼玉G宇  
-
 Am高处不胜Dm寒   F起舞弄清影G  
-
 Dm何似在人C间
-
 C转朱阁  F低绮户  Dm照  无G眠
-
 C不应有恨  F何事长向 Dm别 时G圆
-
 C人有悲欢离Am合  F月有阴晴圆G缺
-
 Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRW9g5gA75I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/DanYuanRenChangJiu.gif)
+
 \newpage
+
+## 甜蜜蜜(邓丽君)
+
+```
+D甜蜜D蜜  你Em7笑得A甜蜜D蜜
+Em7好象花儿A开在春风D里 开Em7在春风A里
+D在哪D里 在Em7哪里A见过D你
+Em7你的笑容A这样熟D悉 我Em7一时A想不D起
+D啊 A在梦D里
+Bm梦里 Bm梦里见过D你 Bm甜蜜 Bm笑得多甜D蜜
+是A你 是A你 梦A见的就是A你
+D在哪D里 在Em7哪里A见过D你
+Em7你的笑容A这样熟D悉 我Em7一时A想不D起
+D啊 A在梦D里
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n78Rq-MN9cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/TianMiMi.gif)
+
+\newpage
+
+
+
+## 再见我的爱人(邓丽君)
+
+```
+★GOODBYE MY C LOVE 我的Am爱人 再G见
+★GOODBYE MY C LOVE 相见Am不知那一Em天
+★我把F一切给了Em你 希望Dm你要Am珍惜   Dm不要辜负F我的真G情意 
+★GOODBYE MY C LOVE 我的Am爱人 再G见
+★GOODBYE MY C LOVE 从此Am和你分Em离
+★我会F永远永Em远       爱Dm你在Am心里    Dm希望你F不要把我忘C记
+★我永远C怀念你 温柔的Em情怀念里
+★永恒的Am心怀念你 甜蜜的Dm吻怀G念你
+★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
+★我的C爱我Am相信 Dm总有一天G能再C见
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRzXzqSJ0ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtAA1LOIKP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CccGhiXnIRQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ZaiJianWoDeAiRen.jpg)
+
+[2](https://img6.zhaogepu.com/img/124072/jianpu/62031_1.jpg)
+
+\newpage
+
+## 你怎么说(邓丽君)
+
+```
+C我没忘记C你忘记我
+C连名字你都说C错
+C　证明你Am一切都是F在骗G我
+G　看今天G你怎么C说
+
+C你说过两天C来看G我
+C一等就是Am一年G多
+三百C六十五个C日子不好Am过
+Dm你心里根本没有G我
+G　把我的G爱情还给C我
+```
+
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/NiZenMeShuo.gif)
+
+\newpage
+
 
 ## 偿还(邓丽君)
 
@@ -324,71 +392,83 @@ b段
     但不要用偿还Dm做借口    E7再让我伤心Am  
 ```
 
-\newpage
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oU9FlS9m170" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## 再见我的爱人(邓丽君)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIfLIL5A9Z0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-```
-★GOODBYE MY C LOVE 我的Am爱人 再G见
-★GOODBYE MY C LOVE 相见Am不知那一Em天
-★我把F一切给了Em你 希望Dm你要Am珍惜   Dm不要辜负F我的真G情意 
-★GOODBYE MY C LOVE 我的Am爱人 再G见
-★GOODBYE MY C LOVE 从此Am和你分Em离
-★我会F永远永Em远       爱Dm你在Am心里    Dm希望你F不要把我忘C记
-★我永远C怀念你 温柔的Em情怀念里
-★永恒的Am心怀念你 甜蜜的Dm吻怀G念你
-★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
-★我的C爱我Am相信 Dm总有一天G能再C见
-```
+![](img/CangHuan.gif)
+
+http://www.jianpuw.com/htm/bw/364078.htm
 
 \newpage
 
-## 你怎么说(邓丽君)
 
+
+## 船歌(邓丽君)
+
+Capo: 4
 ```
-C我没忘记C你忘记我
-C连名字你都说C错
-C　证明你Am一切都是F在骗G我
-G　看今天G你怎么C说
+主歌 A
+C喂～
+F风儿呀G吹动我的C船帆
+Dm船儿呀G随风荡Am漾
+Dm送我到G日夜思念的C地方
+
+C喂～
+F风儿呀G吹动我的C船帆
+Dm姑娘呀G我要和你见Am面
+Dm诉一诉G心里对你的C思念
+
+副歌
+C当我还G没来到F你的面Am前
+C你千万要G把我要F记在心Am间
+要C等待着G我呀
+要F耐心等着我G呀
+
+G姑娘～
+我的心像那黎明的温暖太阳G  
+
 主歌 B
-C你说过两天C来看G我
-C一等就是Am一年G多
-三百C六十五个C日子不好Am过
-Dm你心里根本没有G我
-G　把我的G爱情还给C我
+C喂～
+F风儿呀G吹动我的C船帆
+Dm船儿呀G随风荡Am漾
+Dm送我到G日夜思念的C地方
+C喂～
+F风儿呀G吹动我的C船帆
+Dm姑娘呀G我要和你见Am面
+Dm诉一诉G心里对你的C思念 C喂～
 ```
 
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+\newpage
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## 愛人 (邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mT5zZZ3OD84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 \newpage
+
 
 ## 恰似你的温柔(蔡琴)
 
 ```
 C某年某月的某一Am天 F就像一张破碎的G7脸
-
 难以C开口道再Am见 就F让一切走G7远
-
 C这不是件容易的Am事 F我们却都没有哭G7泣
-
 让C它淡淡的Am来 让F它好好的G7去
 
 副歌
 
 到如今C年复一年 我不能Am停止怀念
-
 怀念F你怀念从G7前
-
 但愿那C海风再起 只为那Am浪花的手
-
 恰F似你G7的温C柔
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRpdbhcNHII" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kt49y1jRYMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \newpage
 
@@ -424,6 +504,16 @@ http://www.17jita.com/tab/img/6459.html
 
 ## 铁血丹心
 
+```
+Am　依稀Am往梦Am似曾Am见 G　心G内波澜G现G　
+Am　抛开Am世事Am断仇Am怨 F　相F伴到天E边E　
+逐Am草四Am方沙漠G苍茫G　F那惧G雪霜扑C面
+C　射Am雕引Am弓塞外G奔驰G　F笑傲G此生无厌Am倦 Am　
+Am　应知Am爱意Am似流Am水 G　斩不G断理还G乱G　
+Am　身经Am百劫也Em在心G间F　恩G义两难Am断 Am　
+```
+
+![](img/tiexuedanxin.gif)
 
 \newpage
 
@@ -462,6 +552,11 @@ Em   Bm   Em
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oR3Af5sbCoY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEF-b_rurWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/Yi_Jian_Mei.gif)
 
 [PDF](pdf/YiJianMei.pdf)
 
@@ -757,6 +852,12 @@ G         Em   Em     Am   G
 姑娘就会  来伴 我的   琴   声
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgc5rbNA2D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/CaoYuanZhiYe2.jpg)
+
+![](img/CaoYuanZhiYe.png)
+
 \newpage
 
 ## 驼铃(刀郎)
@@ -795,6 +896,9 @@ D       G
 一路多保重 Em  G 
 我们再相逢 再相逢
 ```
+
+![](img/TuoLin.gif)
+
 \newpage
 
 
@@ -904,6 +1008,11 @@ Am啊.....因你C今晚共我G唱
 亦绝Am不可使我Em更欣赏
 因今Am晚的我可共你G唱
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3c0DzqV7_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/QQQG1.gif)  
+![](img/QQQG2.gif)
 
 \newpage
 
@@ -1176,7 +1285,7 @@ G_天空中D(虽)然飘着雨Em_
 \newpage
 
 
-## 我從草原來(凤凰传奇)
+## 我从草原來(凤凰传奇)
 
 Capo: 2 or 3
 
@@ -1205,6 +1314,10 @@ Capo: 2 or 3
   Am        Dm        |F   G    Am     |
 花紅   紅出了急風烈馬  酒醉   醉出了一生所愛 (回★2次)
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Z8IyqkOSlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/WoCongCaoYuanLai.gif)
 
 \newpage
 
@@ -1238,6 +1351,11 @@ C鱼儿呀鱼儿 你Am慢慢慢慢游哟
 Dm淡淡的G淡淡的 C淡淡的月光
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjRgCqY7awk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/HeTangYueSe.gif)
+
 \newpage
 
 
@@ -1256,6 +1374,8 @@ Capo: 2
 你F会挽着G我的衣C袖  我会F把手G揣进裤C兜  
 走Dm到玉林路Dm的尽头  坐F在小酒馆的G门口
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ETCVCUJulPM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \newpage
 
@@ -1291,25 +1411,22 @@ Am　!为寂寞的夜空画上一个月亮
 
 ```
 主歌
-
 C　看着你和她走到我Am面前,微C笑地对我说声 好久不Am见.
-
 F　如果当初C没有G　我的成Am全,是不是F今天还在原地盘G旋.
-
 C　不为了勉强可笑的Am尊严,所C有的悲伤丢在 分手那Am天.
-
 F　未必永远C才算G　爱得完Am全,一个人F的成全好过G三个人的纠C结.
 
-副歌
-
 我对你付出C的青春这么多Am年,换来了一句F谢谢你的成C全.
-
 成全了你的Em潇洒与冒Am险,成全了我的F碧海蓝G天.
-
 她许你的海C誓山盟蜜语甜Am言,我只有一句F不后悔的成C全.
-
 成全了你的Em今天与明Am天,成全了我的F下个G　夏C天.
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OmvxdKpID8Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFSHiiNvlmQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ChengQuan.jpg)
 
 \newpage
 
@@ -1344,6 +1461,10 @@ F　未必永远C才算G　爱得完Am全,一个人F的成全好过G三个人的
     Em(Fm#)   Am(Bm)   D7(E#)     G(A)
     说好不为你忧伤   但心情怎会无恙
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElzgPuK6ang" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkOhUQN3HWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \newpage
 
@@ -1572,6 +1693,16 @@ Prelude: Am..G..F........G..C
 轉千(灣)  轉千(灘)  亦未(平)復(此)中争(鬥)
 ```
 
+![](img/ShangHaiTan.gif)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gx74PQlC6jM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Re39dqnZh_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7IBvr-usN9g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZYXwJirqDE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 \newpage
 
 ## 太傻(巫启贤)
@@ -1607,6 +1738,10 @@ Em              C             D
     Am      Bm          C      D        G
 醉过的心那  去找  对著满满空虚回忆  怎么逃
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgf56QMRCSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/TaiSha.jpg)
 
 \newpage
 
@@ -1694,10 +1829,11 @@ Bridge:
 留一個願望 讓自己想像
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3S1ojnfGYpc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/YinXingDeChiBang.gif)
+
 \newpage
-
-
-
 
 ## 假行僧(崔健)
 
@@ -2064,6 +2200,8 @@ C           Em          Am          G
 若是你闻过了花香涌,别问我花儿是为谁红.
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4cQgjGjqPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 \newpage
 
 ## 盛夏的果实(莫文蔚)
@@ -2342,6 +2480,10 @@ C谁的江山        Am马蹄声狂乱           F我一身的戎装      G呼�
 C天微微亮         Am你轻声地叹          一F夜惆G怅       如C此委婉 
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCuXXSXOnVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/JuHuaTai.jpg)
+
 \newpage
 
 ## 你不是真正的快乐(五月天)
@@ -2372,6 +2514,10 @@ C這世界　笑了　於是你合群Am的一起笑了
 https://yoopu.me/view/AXqOjvp7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hr8jWDyb1jg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IRClOQWzd6U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/NiBuShiZhenDeKuaiLe.jpg)
 
 \newpage
 
@@ -2404,6 +2550,12 @@ Fmaj7　　　　　  Em7　　Dm　　　Em　　　A
 不懂我傷悲　就好像白天不懂夜的黑
 尾奏：│　Am　Em　│　G　D　│　D　│
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_zHLU-gvEQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAx1m2QvlCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/BaiTianBuDongYeDeHei.png)
 
 \newpage
 
@@ -2490,5 +2642,48 @@ G酒喝D干    Em再斟Bm满       G今夜Bm不醉不Em还
 G酒喝C干    Em再斟Bm满       G今夜Bm不醉不Em还
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wWuo6sc1SM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hC68qhgJ_kU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/SwanGoose.JPG)
+
+
+\newpage
+
+## 再见(张震岳)
+
+```
+主歌 A
+ 我怕C我没有机会 跟你F说一声再C见
+ 因为Am也许 就Dm再也见不到G你
+ 明天C我要离开 熟悉的F地方和C你
+ 要分Am离　我F眼泪就G掉下C去
+副歌
+ 我会Am牢牢记住你的Em脸
+ 我会F珍惜你给的思C念 
+ 这些Am日子在我心中
+ Dm永远都不会抹G去 我不C能答应你
+ 我是F否会再回C来 不回Am头　
+ 不F回头的G走下C去
+副歌
+ 我会Am牢牢记住你的Em脸
+ 我会F珍惜你给的思C念 
+ 这些Am日子在我心中
+ Dm永远都不会抹G去 我不C能答应你
+ 我是F否会再回C来 不回Am头　
+ 不F回头的G走下C去
+结束
+ 我会Am牢牢记住你的Em脸
+ 我会F珍惜你给的思C念 
+ 这些Am日子在我心中
+ Dm永远都不会抹G去 我不C能答应你
+ 我是F否会再回C来 
+ 不回Am头　不F回头的G走下C去
+ 不回Am头　不F回头的G走下C去
+ 不回Am头　不F回头的G走下C去
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScaZ7VQptEA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](http://www.jianpuw.com/img/7/v7/7axoyw7v7.jpg)
