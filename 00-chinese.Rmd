@@ -1353,6 +1353,7 @@ Dm淡淡的G淡淡的 C淡淡的月光
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjRgCqY7awk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Capo 0 but 8 octave higher:  
 
 ![](img/HeTangYueSe.gif)
 
@@ -1376,6 +1377,8 @@ Capo: 2
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETCVCUJulPM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ChengDu.gif)
 
 \newpage
 
@@ -1465,6 +1468,10 @@ F　未必永远C才算G　爱得完Am全,一个人F的成全好过G三个人的
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ElzgPuK6ang" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkOhUQN3HWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+(Capo 8)
+
+![](img/WeiAiChiKuang.jpg)
 
 \newpage
 
