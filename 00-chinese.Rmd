@@ -773,7 +773,7 @@ C                        G
 
 \newpage
 
-## 囚鳥(张宇)
+## 囚鸟(张宇)
 
 Capo: 0 or 2
 
@@ -791,6 +791,12 @@ C我像是一個Am你可有可無的影Em子    冷冷的F看著你F说謊的樣
 我C像是一個Am你可有可無的影Em子    和寂寞F交换著悲傷的心C事
 對愛無計可Am施    這無味的日Dm子    G眼泪是G唯一的奢C侈
 ```
+
+
+Capo 1:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRITLxvl0yE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/QiuNiao.png)
 
 \newpage
 
@@ -2828,7 +2834,9 @@ Repeat ＊, ＃ , ＊,★,＆★,＆
 
 ![](img/NorWeiDeSengLin.png)
 
-Capo 6:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gPpZJlE0Ca8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+原版是capo 7,下面这个视频是Capo 6:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqARpaQbb1E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/NorWeiDeSengLin1.png)

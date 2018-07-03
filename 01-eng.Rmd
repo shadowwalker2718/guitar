@@ -573,6 +573,10 @@ I love you more and more each day as time goes by
 [Outro] Am
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3rnYZHyIRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jc5nWek6bk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 \newpage
 
 ## Hey Jude
@@ -731,6 +735,8 @@ Are you going to Scarborough Fair, Parsley sage rosemary and thyme
   Am     C     C   G/B Am    G      Am       G                  Am
 Remember me to one who lives there, She Once was a true love of mine
 ```
+
+Capo 5:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5JhPbKg20Gc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
