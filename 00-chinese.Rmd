@@ -2494,7 +2494,19 @@ C                     G/B Em
 
 \newpage
 
-## 菊花台(周杰伦)
+## 青花瓷(周杰伦)
+
+![](img/Qinhuaci.png)
+
+
+Capo 9:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Przxo8owrqI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+\newpage
+
+
+## 菊花台(周杰伦)(xxxxx)
 
 ```
 主歌 A
@@ -2517,6 +2529,9 @@ C天微微亮         Am你轻声地叹          一F夜惆G怅       如C此委
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCuXXSXOnVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 5:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtHTJymHkC8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/JuHuaTai.jpg)
 
@@ -2732,7 +2747,7 @@ Capo 6:
 \newpage
 
 
-## 真的好想你
+## 真的好想你 (xxxxx)
 
 Capo 3
 
