@@ -88,6 +88,49 @@ http://www.17jita.com/tab/img/6052.html
 \newpage
 
 
+## 为爱痴狂(刘若英)
+
+```
+    G      Bm            C         D
+    我从春天走来     你在秋天说要分开
+  Em            Am   D           D7
+  __说好不为你忧伤   但心情怎会无恙
+    G         Bm         C         D
+    为何总是这样     在我心中深藏著你
+    C           Am       D7       G
+    想要问你想不想   陪我到地老天荒
+
+    Am(Bm#)  Bm(Cm#)   C(D)      D(E#)
+*   如果爱情这样忧伤  为何不让我分享
+    Bm(Cm#)  Em(Fm#)   C(D)      D(E#)
+    日夜都问你也不回答  怎么你会变这样
+
+        Am(Bm)   D(E#)    Bm(Cm#)       Em(Fm#)
+    想要问问你敢不敢  像你说过那样的爱我
+        Am(Bm)   D(E#)    C(D)          D(E#)
+    想要问问你敢不敢  像我这样为爱痴狂
+        Am(Bm)   D(E#)    Bm(Cm#)       Em(Fm#)
+**  想要问问你敢不敢  像你说过那样的爱我
+        Am(Bm)   D(E#)    Am(Bm)  D(E#) G(A)
+    像我这样为爱痴狂  到底你会怎么想
+
+    G(A)      Bm(Cm#)  C(D)       D(E#)
+    为何总是这样     在我心中深藏著你
+    Em(Fm#)   Am(Bm)   D7(E#)     G(A)
+    说好不为你忧伤   但心情怎会无恙
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ElzgPuK6ang" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkOhUQN3HWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+(Capo 8)
+
+![](img/WeiAiChiKuang.jpg)
+
+\newpage
+
+
 ## 恰似你的温柔
 
 ```
@@ -116,7 +159,38 @@ Capo 5
 
 \newpage
 
+## 外面的世界(齐秦)
 
+```
+前奏
+G D Em G D Em C D G Bm7 Em C D7 G
+
+G_在很久D(很)久以Em(前)
+你拥有我C_D_我拥有你G_
+G_在很久D(很)久以Em(前)
+你离开我C_去D7远空翱翔G_G_
+
+副歌
+C_外面的世D_界很精G(彩)
+C_外面的世D_界很无奈G_
+C_当你觉得D(外)面的世界G(很)Bm7(精)Em(彩)
+我Am(会)在这里A7(衷)心的祝福你D7sus4_D7_
+
+结尾
+G_每当夕阳D西沉的时候Em_
+我总C(是)在D(这)里盼望你G_
+G_天空中D(虽)然飘着雨Em_
+我依C(然)等待D7(你)的归期G_
+```
+
+![](img/d7.png)
+
+Capo 7:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XAJDAuihiA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/WaiMianDeShiJie.gif)
+
+\newpage
 
 
 ## 菊花台
@@ -189,7 +263,20 @@ Capo 0 but 8 octave higher:
 \newpage
 
 
+## 友谊地久天长
 
+
+
+Capo 7:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyEdVjHCxu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/AuldLangSyne.jpg)
+
+
+
+\newpage
 
 ## 千言万语(邓丽君)
 
@@ -425,12 +512,58 @@ Em7你的笑容A这样熟D悉 我Em7一时A想不D起
 D啊 A在梦D里
 ```
 
+Capo 2:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n78Rq-MN9cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-![](img/TianMiMi.gif)
+![](img/TianMiMi.png)
 
 \newpage
+
+
+## 隱形的翅膀(張韶涵)
+
+Capo: 3
+
+```
+    C          F       C
+每一次 都在徘徊孤單中堅強
+不去想 他們擁有美麗的太陽
+    C    Em      Dm7     G         
+每一次 就算很受傷也不閃泪光
+我看見 每天的夕陽也會有變化
+    Am7    Am7/G F       Am
+我知道 我一直有雙隱形的翅膀
+我知道 我一直有雙隱形的翅膀
+    F    G7  C
+帶我飛 飛過絕望
+帶我飛 給我希望
+Chorus:
+    Am   G      F       C
+我終於 看到 所有夢想都開花
+    Dm7    Em7     G
+追逐的年輕 歌聲多嘹亮
+    Fmaj7 Em7   Dm7     C
+我終於 翱翔 用心凝望不害怕
+    Dm7    G       C
+哪裏會有風 就飛多遠吧
+Bridge:
+    F   G      F       C
+隱形的翅膀 讓夢恆久比天長
+    F      G
+留一個願望 讓自己想像
+```
+
+Capo 10:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3S1ojnfGYpc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 1:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJVqReU5w28" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/YinXingDeChiBang.png)
+
+\newpage
+
 
 
 
@@ -1153,36 +1286,7 @@ D方望一G望,这世界Am7   还是D一片的光G亮
 ```
 \newpage
 
-## 外面的世界(齐秦)
 
-```
-前奏
-G D Em G D Em C D G Bm7 Em C D7 G
-
-G_在很久D(很)久以Em(前)
-你拥有我C_D_我拥有你G_
-G_在很久D(很)久以Em(前)
-你离开我C_去D7远空翱翔G_G_
-
-副歌
-C_外面的世D_界很精G(彩)
-C_外面的世D_界很无奈G_
-C_当你觉得D(外)面的世界G(很)Bm7(精)Em(彩)
-我Am(会)在这里A7(衷)心的祝福你D7sus4_D7_
-
-结尾
-G_每当夕阳D西沉的时候Em_
-我总C(是)在D(这)里盼望你G_
-G_天空中D(虽)然飘着雨Em_
-我依C(然)等待D7(你)的归期G_
-```
-
-![](img/d7.png)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2XAJDAuihiA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-\newpage
 
 
 ## 我从草原來(凤凰传奇)
@@ -1295,47 +1399,6 @@ F　未必永远C才算G　爱得完Am全,一个人F的成全好过G三个人的
 
 \newpage
 
-## 为爱痴狂(刘若英)
-
-```
-    G      Bm            C         D
-    我从春天走来     你在秋天说要分开
-  Em            Am   D           D7
-  __说好不为你忧伤   但心情怎会无恙
-    G         Bm         C         D
-    为何总是这样     在我心中深藏著你
-    C           Am       D7       G
-    想要问你想不想   陪我到地老天荒
-
-    Am(Bm#)  Bm(Cm#)   C(D)      D(E#)
-*   如果爱情这样忧伤  为何不让我分享
-    Bm(Cm#)  Em(Fm#)   C(D)      D(E#)
-    日夜都问你也不回答  怎么你会变这样
-
-        Am(Bm)   D(E#)    Bm(Cm#)       Em(Fm#)
-    想要问问你敢不敢  像你说过那样的爱我
-        Am(Bm)   D(E#)    C(D)          D(E#)
-    想要问问你敢不敢  像我这样为爱痴狂
-        Am(Bm)   D(E#)    Bm(Cm#)       Em(Fm#)
-**  想要问问你敢不敢  像你说过那样的爱我
-        Am(Bm)   D(E#)    Am(Bm)  D(E#) G(A)
-    像我这样为爱痴狂  到底你会怎么想
-
-    G(A)      Bm(Cm#)  C(D)       D(E#)
-    为何总是这样     在我心中深藏著你
-    Em(Fm#)   Am(Bm)   D7(E#)     G(A)
-    说好不为你忧伤   但心情怎会无恙
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ElzgPuK6ang" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hkOhUQN3HWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-(Capo 8)
-
-![](img/WeiAiChiKuang.jpg)
-
-\newpage
 
 ## 蓝莲花(许巍)
 
@@ -1698,44 +1761,6 @@ Capo: 2
 
 \newpage
 
-## 隱形的翅膀(張韶涵)
-
-Capo: 3
-
-```
-    C          F       C
-每一次 都在徘徊孤單中堅強
-不去想 他們擁有美麗的太陽
-    C    Em      Dm7     G         
-每一次 就算很受傷也不閃泪光
-我看見 每天的夕陽也會有變化
-    Am7    Am7/G F       Am
-我知道 我一直有雙隱形的翅膀
-我知道 我一直有雙隱形的翅膀
-    F    G7  C
-帶我飛 飛過絕望
-帶我飛 給我希望
-Chorus:
-    Am   G      F       C
-我終於 看到 所有夢想都開花
-    Dm7    Em7     G
-追逐的年輕 歌聲多嘹亮
-    Fmaj7 Em7   Dm7     C
-我終於 翱翔 用心凝望不害怕
-    Dm7    G       C
-哪裏會有風 就飛多遠吧
-Bridge:
-    F   G      F       C
-隱形的翅膀 讓夢恆久比天長
-    F      G
-留一個願望 讓自己想像
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3S1ojnfGYpc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/YinXingDeChiBang.gif)
-
-\newpage
 
 ## 假行僧(崔健)
 
@@ -3003,12 +3028,16 @@ Dm诉一诉G心里对你的C思念 C喂～
 ## 云宫迅音
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/362hJ2Jyk6Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ![](img/XiYouJi.gif)
 
 \newpage
 
 
 ## 二泉映月
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcxK2LkpNKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/ErQuan.jpg)
 
