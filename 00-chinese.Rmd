@@ -3073,18 +3073,18 @@ Dm诉一诉G心里对你的C思念 C喂～
 
 \newpage
 
-## 愛人 (邓丽君)
+## 愛人(邓丽君)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mT5zZZ3OD84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ub219zaOoUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+![](img/Lover.png)
 
 
 \newpage
 
-## 娘心 (邓丽君)
+## 娘心(邓丽君)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jPuJtQ3Sko4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -3109,6 +3109,7 @@ Dm诉一诉G心里对你的C思念 C喂～
 
 ![](img/ErQuan.jpg)
 
+\newpage
 
 ## 敢问路在何方
 
@@ -3146,6 +3147,7 @@ Capo 7:
 
 ![](img/GanWenLuZaiHeFang.jpg)
 
+\newpage
 
 ## 雨蝶
 
@@ -3153,6 +3155,7 @@ Capo 7:
 
 ![](img/yudie.jpg)
 
+\newpage
 
 ## 梁祝
 
@@ -3169,6 +3172,7 @@ Capo 3:
 
 ![](img/LiangZhu2.jpg)
 
+\newpage
 
 ## 踏浪
 
@@ -3178,6 +3182,7 @@ Capo 3:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dHCFPjAJ5H8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+\newpage
 
 ## 再回首
 
@@ -3187,14 +3192,47 @@ Capo 3:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vn1WyZm-YiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+\newpage
 
-
-## 夜來香 (邓丽君)
+## 夜來香(邓丽君)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5C6D4i9ZuTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Little City (邓丽君)
+![](img/YeLaiXiang.png)
+
+
+\newpage
+
+## 小城故事(邓丽君)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Os-p9qES--g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/LittleCity.png)
+
+\newpage
+
+## 一生所爱 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxiTI6ojFA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1cnA9kVeWsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/Y.jpg)
+
+
+## 亲密爱人
+
+![](img/QMAR.png)
+
+## 大长今Hope
+
+![](img/DCJ.jpg)
+
+![](img/DCJ2.jpg)
+
+## 君心我心
+
+![](img/JXWX.png)
+
 
 
