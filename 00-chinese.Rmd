@@ -6,7 +6,10 @@ output:
 
 # Chinese Songs
 
+![](img/grand_stuff.png)
+
 \newpage
+
 
 
 
@@ -38,6 +41,9 @@ Capo 3
 
 
 http://www.17jita.com/tab/img/6459.html
+
+![](img/nverqing.png)  
+![](img/nverqing2.png)
 
 \newpage
 
@@ -87,6 +93,73 @@ http://www.17jita.com/tab/img/6052.html
 
 \newpage
 
+## 鸿雁
+
+```
+G鸿  D雁     G天空Em上     C对对G排成D行  H 1 0-2
+G江水C长 Em秋草Bm黄        G草原上Bm琴声忧Em伤
+G鸿  D雁  G向南Em方        C飞G过芦苇D荡  H 1 0-2
+G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
+G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
+G Em G Bm Em Bm Em D
+副歌
+G鸿  D雁     G北归Em还       C带上我G的思D念
+G歌声C远    Em琴声Bm颤       G草原Bm上春意Em暖
+G鸿  D雁     G向苍Em天       C天空有G多遥D远
+G酒喝D干    Em再斟Bm满       G今夜Bm不醉不Em还
+G酒喝C干    Em再斟Bm满       G今夜Bm不醉不Em还
+```
+
+Capo 7:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wWuo6sc1SM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hC68qhgJ_kU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yGPVBRATSeA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+![](img/SwanGoose.JPG)
+
+![](img/Hongyan1.png)
+
+![](img/Hongyan2.png)
+
+\newpage
+
+## 女人花
+
+```
+C           Em          Am          G
+我有花一朵,长在我心中,含苞待放意幽幽.
+我有花一朵,花香满枝头,谁来真心寻芳踪.
+我有花一朵,长在我心中,真情真爱无人懂.
+爱过知情重, 醉过知酒浓, 花开花谢总是空.
+ F           C    Am     G          C
+朝朝与暮暮啊切切地等候, 有心的人来入梦.
+花开不多时啊堪折直须折, 女人如花花似梦.
+遍地的野草已占满了山坡, 孤芳自赏最心痛.
+缘份不停留像春风来又走, 女人如花花似梦(End)
+     C             Em       F             C
+女人/花,摇曳在红尘/中；女人/花,随风轻轻摆/动.
+     C          Am     F          G  
+只盼望有一双温柔手,能抚慰我内心的寂寞
+若是你闻过了花香涌,别问我花儿是为谁红.
+```
+
+Capo 5:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m4cQgjGjqPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 3:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E12MxOX88P0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 3:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rPdLfxOOv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/NvRenHua.png)
+
+\newpage
+
 
 ## 为爱痴狂(刘若英)
 
@@ -128,6 +201,13 @@ http://www.17jita.com/tab/img/6052.html
 
 ![](img/WeiAiChiKuang.jpg)
 
+
+![](img/WeiAiChiKuang_1.jpg)
+
+![](img/WeiAiChiKuang_3.jpg)
+
+![](img/WeiAiChiKuang_2.jpg)
+
 \newpage
 
 
@@ -155,7 +235,7 @@ Capo 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kt49y1jRYMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/QiaSiNiDeWenRou.gif)
+![](img/QiaSiNiDeWenRou.png)
 
 \newpage
 
@@ -188,7 +268,7 @@ G_天空中D(虽)然飘着雨Em_
 Capo 7:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XAJDAuihiA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/WaiMianDeShiJie.gif)
+![](img/WaiMianDeShiJie.png)
 
 \newpage
 
@@ -258,7 +338,7 @@ Dm淡淡的G淡淡的 C淡淡的月光
 
 Capo 0 but 8 octave higher:  
 
-![](img/HeTangYueSe.gif)
+![](img/HeTangYueSe.png)
 
 \newpage
 
@@ -358,9 +438,11 @@ Capo 5:
 Capo 1:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ltfOJI0zlzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Capo 7 for MP3 version:
+Capo 7 for MP3 version(verify):
 
-![](img/YueLiangDaiBiaoWoDeXin.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WCYXsQhnjyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/YueLiangDaiBiaoWoDeXin.png)
 
 \newpage
 
@@ -400,7 +482,7 @@ End:
 
 Capo 0
 
-![](img/ZaiShuiYiFang.gif)
+![](img/ZaiShuiYiFang.png)
 
 \newpage
 
@@ -460,7 +542,11 @@ C      Am        F   G   C
 
 Capo 5
 
-![](img/WoZhiZaiHuNi.gif)
+![](img/WoZhiZaiHuNi.png)
+
+![](img/WoZhiZaiHuNi_1.png)
+
+![](img/WoZhiZaiHuNi_2.png)
 
 \newpage
 
@@ -581,7 +667,7 @@ Am　身经Am百劫也Em在心G间F　恩G义两难Am断 Am　
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLRtu2_CHgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/tiexuedanxin.gif)
+![](img/tiexuedanxin.png)
 
 \newpage
 
@@ -934,7 +1020,7 @@ D       G
 我们再相逢 再相逢
 ```
 
-![](img/TuoLin.gif)
+![](img/TuoLin.png)
 
 \newpage
 
@@ -1048,8 +1134,8 @@ Am啊.....因你C今晚共我G唱
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3c0DzqV7_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/QQQG1.gif)  
-![](img/QQQG2.gif)
+![](img/QQQG1.png)  
+![](img/QQQG2.png)
 
 \newpage
 
@@ -1087,6 +1173,11 @@ F  路随G人茫Am茫
 
 Am Am F G Am Am
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VUfIPAKU-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/QianNv.jpg)
+
 \newpage
 
 
@@ -1328,7 +1419,7 @@ Capo: 2 or 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Z8IyqkOSlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/WoCongCaoYuanLai.gif)
+![](img/WoCongCaoYuanLai.png)
 
 \newpage
 
@@ -1351,7 +1442,7 @@ Capo: 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETCVCUJulPM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/ChengDu.gif)
+![](img/ChengDu.png)
 
 \newpage
 
@@ -1529,7 +1620,7 @@ G我们F好不容易　我们Fm身不由C己
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Udm3iOwcSj0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/HavingYouAtLeast.gif)
+![](img/HavingYouAtLeast.png)
 
 \newpage
 
@@ -1672,7 +1763,7 @@ Prelude: Am..G..F........G..C
 
 Capo: 0
 
-![](img/ShangHaiTan.gif)
+![](img/ShangHaiTan.png)
 
 
 \newpage
@@ -2125,40 +2216,13 @@ E7小薇Am啊      你可知道我多爱Am　你
 摘下Dm一颗      G7　亲手送给C　你
 ```
 
-\newpage
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1REOKLTg6A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## 女人花zzzz
-
-```
-C           Em          Am          G
-我有花一朵,长在我心中,含苞待放意幽幽.
-我有花一朵,花香满枝头,谁来真心寻芳踪.
-我有花一朵,长在我心中,真情真爱无人懂.
-爱过知情重, 醉过知酒浓, 花开花谢总是空.
- F           C    Am     G          C
-朝朝与暮暮啊切切地等候, 有心的人来入梦.
-花开不多时啊堪折直须折, 女人如花花似梦.
-遍地的野草已占满了山坡, 孤芳自赏最心痛.
-缘份不停留像春风来又走, 女人如花花似梦(End)
-     C             Em       F             C
-女人/花,摇曳在红尘/中；女人/花,随风轻轻摆/动.
-     C          Am     F          G  
-只盼望有一双温柔手,能抚慰我内心的寂寞
-若是你闻过了花香涌,别问我花儿是为谁红.
-```
-
-Capo 5:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m4cQgjGjqPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 3:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E12MxOX88P0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 3:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0rPdLfxOOv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/NvRenHua.gif)
+![](img/XiaoWei.png)
 
 \newpage
+
+
 
 ## 盛夏的果实(莫文蔚)
 
@@ -2539,6 +2603,9 @@ F       C       Dm           C
 F       C       Dm               G
 有人来,有人走, 心中的河永远向东(流)....(|G)
 ```
+
+![](img/HuaErJie.jpg)
+
 \newpage
 
 ## 成都之硅谷版(码农乐队)
@@ -2571,33 +2638,7 @@ Capo: 2
 
 \newpage
 
-## 鸿雁
 
-```
-G鸿  D雁     G天空Em上     C对对G排成D行  H 1 0-2
-G江水C长 Em秋草Bm黄        G草原上Bm琴声忧Em伤
-G鸿  D雁  G向南Em方        C飞G过芦苇D荡  H 1 0-2
-G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
-G天苍C茫 Em雁何Bm往        G心中是Bm北方家Em乡
-G Em G Bm Em Bm Em D
-副歌
-G鸿  D雁     G北归Em还       C带上我G的思D念
-G歌声C远    Em琴声Bm颤       G草原Bm上春意Em暖
-G鸿  D雁     G向苍Em天       C天空有G多遥D远
-G酒喝D干    Em再斟Bm满       G今夜Bm不醉不Em还
-G酒喝C干    Em再斟Bm满       G今夜Bm不醉不Em还
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wWuo6sc1SM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hC68qhgJ_kU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 7:
-
-![](img/SwanGoose.JPG)
-
-
-\newpage
 
 ## 再见(张震岳)
 
@@ -2820,7 +2861,7 @@ Capo: 0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEF-b_rurWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-![](img/Yi_Jian_Mei.gif)
+![](img/Yi_Jian_Mei.png)
 
 [PDF](pdf/YiJianMei.pdf)
 
@@ -2868,7 +2909,7 @@ Am愉快悲哀在身Em边转又转
 
 Capo 0
 
-![](img/ManBuRenShengLu.gif)
+![](img/ManBuRenShengLu.png)
 
 \newpage
 
@@ -2890,7 +2931,7 @@ Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRW9g5gA75I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/DanYuanRenChangJiu.gif)
+![](img/DanYuanRenChangJiu.png)
 
 \newpage
 
@@ -2941,9 +2982,11 @@ G　把我的G爱情还给C我
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SWtCQPc4QM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Capo 5:  
 
-![](img/NiZenMeShuo.gif)
+![](img/NiZenMeShuo.png)
 
 \newpage
 
@@ -2985,7 +3028,7 @@ b段
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIfLIL5A9Z0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/CangHuan.gif)
+![](img/CangHuan.png)
 
 http://www.jianpuw.com/htm/bw/364078.htm
 
@@ -3034,16 +3077,28 @@ Dm诉一诉G心里对你的C思念 C喂～
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mT5zZZ3OD84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ub219zaOoUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
 
 \newpage
 
+## 娘心 (邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPuJtQ3Sko4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/Mum_Heart.jpg)
+
+
+\newpage
 
 ## 云宫迅音
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/362hJ2Jyk6Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/XiYouJi.gif)
+![](img/XiYouJi.png)
 
 \newpage
 
@@ -3091,8 +3146,55 @@ Capo 7:
 
 ![](img/GanWenLuZaiHeFang.jpg)
 
+
 ## 雨蝶
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XHSvySetRK4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/yudie.jpg)
+
+
+## 梁祝
+
+
+Capo 3:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D5GLx-Unt2w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9kNFM4meA0w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/335yyHN98no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/LiangZhu1.jpg)
+
+![](img/LiangZhu2.jpg)
+
+
+## 踏浪
+
+![](img/TaLang.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o151lD-bvaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dHCFPjAJ5H8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## 再回首
+
+![](img/ZaiHuiShou1.jpg)
+
+![](img/ZaiHuiShou2.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vn1WyZm-YiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+## 夜來香 (邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5C6D4i9ZuTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Little City (邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Os-p9qES--g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
