@@ -2966,31 +2966,6 @@ Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
 
 \newpage
 
-## 你怎么说(邓丽君)
-
-```
-C我没忘记C你忘记我
-C连名字你都说C错
-C　证明你Am一切都是F在骗G我
-G　看今天G你怎么C说
-
-C你说过两天C来看G我
-C一等就是Am一年G多
-三百C六十五个C日子不好Am过
-Dm你心里根本没有G我
-G　把我的G爱情还给C我
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5SWtCQPc4QM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 5:  
-
-![](img/NiZenMeShuo.png)
-
-\newpage
 
 
 ## 偿还(邓丽君)
@@ -3094,6 +3069,8 @@ Capo 8:
 
 ![](img/Mum_Heart.jpg)
 
+这首歌适合木吉他演奏. 可以用两个八度. 加上低八度,最多三个,不过难度较大.
+
 
 \newpage
 
@@ -3163,6 +3140,7 @@ Capo 7:
 
 ## 梁祝
 
+可以用低八度和中八度演奏
 
 Capo 3:  
 
@@ -3182,6 +3160,8 @@ Capo 3:
 
 ![](img/TaLang.png)
 
+Capo 1:  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o151lD-bvaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dHCFPjAJ5H8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -3190,11 +3170,12 @@ Capo 3:
 
 ## 再回首
 
+Capo 7:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vn1WyZm-YiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ![](img/ZaiHuiShou1.jpg)
 
 ![](img/ZaiHuiShou2.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vn1WyZm-YiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \newpage
 
@@ -3209,15 +3190,46 @@ Capo 3:
 
 ## 小城故事(邓丽君)
 
+Capo 0:  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Os-p9qES--g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/LittleCity.png)
 
 \newpage
 
-## 一生所爱 
+## 一生所爱(卢冠廷)  
+
+
+```
+主歌 A
+Am从前现在Am过去了在Am不来
+Am红红落叶Am长埋尘土Am内
+Am开始终结G总是没Am变改
+Am天边的你G漂泊白云Am外
+副歌A
+Am苦F海泛起C爱恨在世F间难逃避C命运
+C相F亲竟不C可接Am近或我G应该F相信是缘Am分
+主歌 B
+Am情人别后Am永远再Am不来
+Am无言独坐Am放眼尘世Am外        
+Am鲜花虽会G凋谢
+但Am会再Am开
+一生所G爱隐约白Am云外
+副歌B
+Am苦F海泛起C爱恨在世F间难逃避C命运
+C相F亲竟不C可接Am近或我G应该F相信是缘Am分
+```
+
+https://yoopu.me/view/MXJDMNpL
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78_6rDvdPTA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 7:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxiTI6ojFA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 2:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1cnA9kVeWsM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -3227,7 +3239,7 @@ Capo 3:
 
 ## 亲密爱人
 
-![](img/QMAR.png)
+Capo 5 but the score has soemthing wrong.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QgiheZfhq3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -3235,11 +3247,14 @@ Capo 3:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4RmRAt5Afh0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+![](img/QMAR.png)
+
+
 \newpage
 
 ## 大长今Hope
 
-
+Capo 3:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CpU2f0ZDpz4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/DCJ.jpg)
@@ -3250,9 +3265,8 @@ Capo 3:
 
 ## 君心我心(邓丽君)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9nQ-tS0uCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OVeUf5AadO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Capo 0  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lV3WpBBHcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/JXWX.png)
 
@@ -3265,4 +3279,28 @@ Capo 5:
 
 ![](img/FQSSBJH.png)
 
+## 你怎么说(邓丽君)
 
+```
+C我没忘记C你忘记我
+C连名字你都说C错
+C　证明你Am一切都是F在骗G我
+G　看今天G你怎么C说
+
+C你说过两天C来看G我
+C一等就是Am一年G多
+三百C六十五个C日子不好Am过
+Dm你心里根本没有G我
+G　把我的G爱情还给C我
+```
+
+Capo 5:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SWtCQPc4QM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/NiZenMeShuo.png)
+
+\newpage
