@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # Chinese Songs
@@ -10,7 +10,512 @@ output:
 
 \newpage
 
+## 千言万语(邓丽君)
 
+Key: G, Capo: 2
+
+```
+G            Bm   Em            Bm
+_不知道为了什么,  _ 忧愁它围绕著我
+C             F  C      D     G
+_我每天都在祈祷, _快赶走爱的寂寞
+    Em        Em  Am   A   D
+那天起, 你对我说, 永远地爱著我
+  G     Bm    Am  A    D
+千言和万语, 随浮  云 掠过
+```
+
+Key: C, Capo: 4  
+
+~![](img/qianyanwanyu1.png)~
+
+```
+[拨弦分解]
+C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
+C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
+[渐强,组合和弦]
+那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
+千Em言和萬Am語　隨浮Dm雲掠G7過
+
+C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
+C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
+那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
+千Em言和萬Am語　隨浮Dm雲掠G7過
+
+[拨弦分解]
+C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
+C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
+```
+
+Capo 5:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0ph7fHDH3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UX-gyIdPQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgo8JgCneFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+![](img/QianYanWanYu.png)
+
+
+## 月亮代表我的心(邓丽君)
+
+```
+你C问我爱你Em7有多深
+我F爱你有几C分
+我的Am情也真
+我的F爱也真
+月亮Dm代表我的G7心
+
+你C问我爱你Em7有多深
+我F爱你有几C分
+我的Am情不移
+我的F爱不变
+月亮Dm代表G7我的C心
+
+轻轻的一个Em7吻
+已经F打动G7我的C心
+深深的一段Em7情
+教我F思念Dm到如G7今
+
+你C问我爱你Em7有多深
+我F爱你有几C分
+你去Am想一想
+你去F看一看
+月亮Dm代表G7我的C心
+```
+![](img/denglijun.jpg)
+
+Capo 1:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltfOJI0zlzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 7 for MP3 version(verify):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WCYXsQhnjyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/YueLiangDaiBiaoWoDeXin.png)
+
+\newpage
+
+## 在水一方(邓丽君)
+
+
+```
+编排: Henry Wu
+C 4/4  capo 5th 扫弦或分解和弦皆可
+
+  C   Am  Dm  G
+绿草苍苍  白雾茫茫
+绿草萋萋  白雾迷离
+  F   Em  Dm  C
+有位佳人  在水一方
+有位佳人  靠水而居
+Am      Em    F   Am  Dm  (扫G)
+我愿逆流而上  依偎在她身旁
+我愿逆流而上  与她轻言细语
+C   Em   Dm   F   Am   G
+无奈前有险滩  道路又远又长
+无奈前有险滩  道路曲折无已
+Am      Em    F   Am  Dm  (扫G)
+我愿顺流而下  找寻她的方向
+我愿顺流而下  找寻她的踪迹
+C   Em   Dm   F   G   C
+却见依稀仿佛  她在水的中央
+却见仿佛依稀  她在水中伫立
+End:
+  C   Am  Dm  G
+绿草苍苍  白雾茫茫
+  F   Em  Dm  C
+有位佳人  在水一方
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2ps0kWNSFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 0
+
+![](img/ZaiShuiYiFang.png)
+
+\newpage
+
+## 又见炊烟(邓丽君)
+
+```
+C 4/4  capo 5th 扫弦或分解和弦皆可
+C   Am  F C   F   G   C
+又见炊烟升起,暮色罩大地
+又见炊烟升起,勾起我回忆
+C   Am  F C      G   C
+想问阵阵炊烟,你要去哪里
+愿你变作彩霞,飞到我梦里
+Dm  C       F   C   G
+夕阳有诗情,黄昏有画意
+夕阳有诗情,黄昏有画意
+F   Em  Dm   C       F  G   C
+诗情画意虽然美丽,我心中只有你
+诗情画意虽然美丽,我心中只有你
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqg7Khc9E-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/YouJianCuiYan.jpg)
+
+\newpage
+
+## 我只在乎你(邓丽君)
+
+Capo: 0 or 2
+
+```
+C           G  Am          Em
+如果没有遇见你 我将会是在哪里
+F           C  F           G
+日子过得怎么样 人生是否要珍惜
+C           G  Am          Em
+也许认识某一人 过着平凡的日子
+F         C  Am          G
+不知道会不会 也有爱情甜如蜜
+      C                Am
+任时光匆匆流去 我只在乎你
+    C             Am 
+心甘情愿感染你的气息
+    F        E     Am  
+人生几何 能够得到知己
+    Dm              G  E
+失去生命的力量也不可惜
+    Am    C    Am      F
+所以我求求你 别让我离开你
+C      Am        F   G   C
+除了你 我不能感到一丝丝情意
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uS9g9_f63T4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 5
+
+![](img/WoZhiZaiHuNi.png)
+
+![](img/WoZhiZaiHuNi_1.png)
+
+![](img/WoZhiZaiHuNi_2.png)
+
+\newpage
+
+## 何日君再来(邓丽君)
+
+```
+C好花不常Am开,C好景Am不常G在.
+C愁堆解笑G眉,C泪洒Am相思G带.
+C今宵Am离别G后,C何日君再Am来？
+F喝完了C这杯,F请进点G小菜.
+C人生难得Am几回G醉,C不欢更何G待？
+
+==来来来,喝完这杯再说吧==
+
+C今宵离别G后,F何日G君再C来？
+C停唱阳关Am叠,C重擎Am白玉G杯.
+C殷勤频致G语,C牢牢Am抚君G怀.
+C今宵Am离别G后,C何日君再Am来？
+F喝完了C这杯,F请进点G小菜.
+C人生难得Am几回G醉,C不欢更何G待？
+
+==唉,再喝一杯,干了吧.==
+
+C今宵离别G后,F何日G君再C来？
+```
+Capo 7:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWQ72Xy69DQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8eQFCwURbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x_TPeRKh1fU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/HeRiJunZaiLai.jpg)
+
+\newpage
+
+## 甜蜜蜜(邓丽君)
+
+```
+D甜蜜D蜜  你Em7笑得A甜蜜D蜜
+Em7好象花儿A开在春风D里 开Em7在春风A里
+D在哪D里 在Em7哪里A见过D你
+Em7你的笑容A这样熟D悉 我Em7一时A想不D起
+D啊 A在梦D里
+Bm梦里 Bm梦里见过D你 Bm甜蜜 Bm笑得多甜D蜜
+是A你 是A你 梦A见的就是A你
+D在哪D里 在Em7哪里A见过D你
+Em7你的笑容A这样熟D悉 我Em7一时A想不D起
+D啊 A在梦D里
+```
+
+Capo 2:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n78Rq-MN9cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+![](img/TianMiMi.png)
+
+\newpage
+
+
+## 漫步人生路(邓丽君)
+
+Capo: 5
+
+```
+Am在你身边路虽Em远未疲倦
+伴F你漫行一段C接一E段
+Am越过高峰另一Em峰却又见
+目F标推远G让理想Em永远在前Am面
+Am路纵崎岖亦不Em怕受磨练
+愿F一生中苦痛快乐C也体E验
+Am愉快悲哀在身Em边转又转
+风F中赏雪G雾里赏花Em快乐回Am旋
+毋用F计较  快欣赏身边Am美丽每一天
+还愿F确信美景良辰E在脚Esus4边
+
+副歌A
+愿Am将欢笑声盖掩C苦痛那一面
+悲也Dm好喜也好  每天E找到新发现
+让疾Am风吹呀吹  尽管C给我俩考验
+小雨Dm点放心E洒  早已Em决心向着Am前
+
+间奏
+Am路纵崎岖亦不Em怕受磨练
+愿F一生中苦痛快乐C也体E验
+Am愉快悲哀在身Em边转又转
+风F中赏雪G雾里赏花Em快乐回Am旋
+毋用F计较  快欣赏身边Am美丽每一天
+还愿F确信美景良辰E在脚Esus4边
+
+副歌B
+愿Am将欢笑声盖掩C苦痛那一面
+悲也Dm好喜也好  每天E找到新发现
+让疾Am风吹呀吹  尽管C给我俩考验
+小雨Dm点放心E洒  早已Em决心向着Am前
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lK-m-etVWkw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Capo 0
+
+![](img/ManBuRenShengLu.png)
+
+\newpage
+
+
+## 但愿人长久(邓丽君)
+
+Capo: 5
+```
+C明月几时Am有   F把酒问青G天
+Am不知天上Dm宫阙   F今夕是何年G  
+C我欲乘风归Am去   F唯恐琼楼玉G宇  
+Am高处不胜Dm寒   F起舞弄清影G  
+Dm何似在人C间
+C转朱阁  F低绮户  Dm照  无G眠
+C不应有恨  F何事长向 Dm别 时G圆
+C人有悲欢离Am合  F月有阴晴圆G缺
+Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRW9g5gA75I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/DanYuanRenChangJiu.jpg)
+
+\newpage
+
+
+
+## 再见我的爱人(邓丽君)
+
+```
+★GOODBYE MY C LOVE 我的Am爱人 再G见
+★GOODBYE MY C LOVE 相见Am不知那一Em天
+★我把F一切给了Em你 希望Dm你要Am珍惜   Dm不要辜负F我的真G情意 
+★GOODBYE MY C LOVE 我的Am爱人 再G见
+★GOODBYE MY C LOVE 从此Am和你分Em离
+★我会F永远永Em远       爱Dm你在Am心里    Dm希望你F不要把我忘C记
+★我永远C怀念你 温柔的Em情怀念里
+★永恒的Am心怀念你 甜蜜的Dm吻怀G念你
+★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
+★我的C爱我Am相信 Dm总有一天G能再C见
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRzXzqSJ0ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtAA1LOIKP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CccGhiXnIRQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/ZaiJianWoDeAiRen.jpg)
+
+[2](https://img6.zhaogepu.com/img/124072/jianpu/62031_1.jpg)
+
+\newpage
+
+
+
+## 偿还(邓丽君)
+
+Capo: 4, 用大拇指扫玄
+```
+ a段
+    沉默的Am嘴唇     还留着泪Dm痕
+    这不是胭E7脂红粉   可掩饰的C伤痕E7  
+    破碎的Am心灵     流失了Dm多少的情
+    弥补的谎C言      偿还的借E7口
+    我不会去Am当真
+    爱的心Dm路旅程    G只能够你我C两个人
+    E7不可能是我Dm独徘徊    G也不可能三人C行
+    E7你可以去找新的Dm恋情    E7也可以不留一点Am音讯
+    但不要用偿还Dm做借口    E7再让我伤心Am
+b段
+    爱哭的Am眼睛    让泪水染Dm红
+    要多少岁E7月时光    才遗忘这C一段情
+    E7脆弱的Am心情    还留着你Dm的伤痕
+    弥补的谎C言    偿还的借E7口
+    我怎么能Am相信
+副歌B
+    爱的心Dm路旅程  G我曾经答应C你牵引
+    E7这只能说我Dm太多情   G不敢埋怨你无C  情
+    E7我曾经耐心听你Dm表明 E7也已经谅解你的Am苦衷
+    请不要用偿还做Dm借口   E7伤了我自尊Am  
+
+结尾
+    爱的心Dm路旅程    G只能够你我C两个人
+    E7不可能是我Dm独徘徊    G也不可能三人C行
+    E7你可以去找新的Dm恋情  E7也可以不留一点Am音讯
+    但不要用偿还Dm做借口    E7再让我伤心Am  
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oU9FlS9m170" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIfLIL5A9Z0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/CangHuan.png)
+
+http://www.jianpuw.com/htm/bw/364078.htm
+
+\newpage
+
+## 船歌(邓丽君)
+
+Capo: 4
+```
+主歌 A
+C喂～
+F风儿呀G吹动我的C船帆
+Dm船儿呀G随风荡Am漾
+Dm送我到G日夜思念的C地方
+
+C喂～
+F风儿呀G吹动我的C船帆
+Dm姑娘呀G我要和你见Am面
+Dm诉一诉G心里对你的C思念
+
+副歌
+C当我还G没来到F你的面Am前
+C你千万要G把我要F记在心Am间
+要C等待着G我呀
+要F耐心等着我G呀
+
+G姑娘～
+我的心像那黎明的温暖太阳G  
+
+主歌 B
+C喂～
+F风儿呀G吹动我的C船帆
+Dm船儿呀G随风荡Am漾
+Dm送我到G日夜思念的C地方
+C喂～
+F风儿呀G吹动我的C船帆
+Dm姑娘呀G我要和你见Am面
+Dm诉一诉G心里对你的C思念 C喂～
+```
+
+\newpage
+
+## 愛人(邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mT5zZZ3OD84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ub219zaOoUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/Lover.png)
+
+
+\newpage
+
+## 娘心(邓丽君)
+
+Capo 8:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPuJtQ3Sko4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/Mum_Heart.jpg)
+
+这首歌适合木吉他演奏. 可以用两个八度. 加上低八度,最多三个,不过难度较大.
+
+
+\newpage
+
+## 夜來香(邓丽君)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5C6D4i9ZuTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/YeLaiXiang.png)
+
+
+\newpage
+
+## 小城故事(邓丽君)
+
+Capo 0:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Os-p9qES--g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/LittleCity.png)
+
+![](img/XiaoChengGuShi.png)
+
+\newpage
+
+## 君心我心(邓丽君)
+
+Capo 0  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3lV3WpBBHcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/JXWX.png)
+
+\newpage
+
+## 你怎么说(邓丽君)
+
+```
+C我没忘记C你忘记我
+C连名字你都说C错
+C　证明你Am一切都是F在骗G我
+G　看今天G你怎么C说
+
+C你说过两天C来看G我
+C一等就是Am一年G多
+三百C六十五个C日子不好Am过
+Dm你心里根本没有G我
+G　把我的G爱情还给C我
+```
+
+Capo 5:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SWtCQPc4QM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](img/NiZenMeShuo.png)
+
+\newpage
 
 
 ## 女儿情
@@ -358,253 +863,7 @@ Capo 7:
 
 \newpage
 
-## 千言万语(邓丽君)
 
-Key: G, Capo: 2
-
-```
-G            Bm   Em            Bm
-_不知道为了什么,  _ 忧愁它围绕著我
-C             F  C      D     G
-_我每天都在祈祷, _快赶走爱的寂寞
-    Em        Em  Am   A   D
-那天起, 你对我说, 永远地爱著我
-  G     Bm    Am  A    D
-千言和万语, 随浮  云 掠过
-```
-
-Key: C, Capo: 4  
-
-~![](img/qianyanwanyu1.png)~
-
-```
-[拨弦分解]
-C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
-C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
-[渐强,组合和弦]
-那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
-千Em言和萬Am語　隨浮Dm雲掠G7過
-
-C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
-C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
-那天Am起　你對我Am说-　永Dm遠的G7愛著C我-
-千Em言和萬Am語　隨浮Dm雲掠G7過
-
-[拨弦分解]
-C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
-C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
-```
-
-Capo 5:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g0ph7fHDH3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UX-gyIdPQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mgo8JgCneFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
-![](img/QianYanWanYu.png)
-
-
-## 月亮代表我的心(邓丽君)
-
-```
-你C问我爱你Em7有多深
-我F爱你有几C分
-我的Am情也真
-我的F爱也真
-月亮Dm代表我的G7心
-
-你C问我爱你Em7有多深
-我F爱你有几C分
-我的Am情不移
-我的F爱不变
-月亮Dm代表G7我的C心
-
-轻轻的一个Em7吻
-已经F打动G7我的C心
-深深的一段Em7情
-教我F思念Dm到如G7今
-
-你C问我爱你Em7有多深
-我F爱你有几C分
-你去Am想一想
-你去F看一看
-月亮Dm代表G7我的C心
-```
-![](img/denglijun.jpg)
-
-Capo 1:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ltfOJI0zlzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 7 for MP3 version(verify):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WCYXsQhnjyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/YueLiangDaiBiaoWoDeXin.png)
-
-\newpage
-
-## 在水一方(邓丽君)
-
-
-```
-编排: Henry Wu
-C 4/4  capo 5th 扫弦或分解和弦皆可
-
-  C   Am  Dm  G
-绿草苍苍  白雾茫茫
-绿草萋萋  白雾迷离
-  F   Em  Dm  C
-有位佳人  在水一方
-有位佳人  靠水而居
-Am      Em    F   Am  Dm  (扫G)
-我愿逆流而上  依偎在她身旁
-我愿逆流而上  与她轻言细语
-C   Em   Dm   F   Am   G
-无奈前有险滩  道路又远又长
-无奈前有险滩  道路曲折无已
-Am      Em    F   Am  Dm  (扫G)
-我愿顺流而下  找寻她的方向
-我愿顺流而下  找寻她的踪迹
-C   Em   Dm   F   G   C
-却见依稀仿佛  她在水的中央
-却见仿佛依稀  她在水中伫立
-End:
-  C   Am  Dm  G
-绿草苍苍  白雾茫茫
-  F   Em  Dm  C
-有位佳人  在水一方
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M2ps0kWNSFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 0
-
-![](img/ZaiShuiYiFang.png)
-
-\newpage
-
-## 又见炊烟(邓丽君)
-
-```
-C 4/4  capo 5th 扫弦或分解和弦皆可
-C   Am  F C   F   G   C
-又见炊烟升起,暮色罩大地
-又见炊烟升起,勾起我回忆
-C   Am  F C      G   C
-想问阵阵炊烟,你要去哪里
-愿你变作彩霞,飞到我梦里
-Dm  C       F   C   G
-夕阳有诗情,黄昏有画意
-夕阳有诗情,黄昏有画意
-F   Em  Dm   C       F  G   C
-诗情画意虽然美丽,我心中只有你
-诗情画意虽然美丽,我心中只有你
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqg7Khc9E-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-![](img/YouJianCuiYan.jpg)
-
-\newpage
-
-## 我只在乎你(邓丽君)
-
-Capo: 0 or 2
-
-```
-C           G  Am          Em
-如果没有遇见你 我将会是在哪里
-F           C  F           G
-日子过得怎么样 人生是否要珍惜
-C           G  Am          Em
-也许认识某一人 过着平凡的日子
-F         C  Am          G
-不知道会不会 也有爱情甜如蜜
-      C                Am
-任时光匆匆流去 我只在乎你
-    C             Am 
-心甘情愿感染你的气息
-    F        E     Am  
-人生几何 能够得到知己
-    Dm              G  E
-失去生命的力量也不可惜
-    Am    C    Am      F
-所以我求求你 别让我离开你
-C      Am        F   G   C
-除了你 我不能感到一丝丝情意
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uS9g9_f63T4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 5
-
-![](img/WoZhiZaiHuNi.png)
-
-![](img/WoZhiZaiHuNi_1.png)
-
-![](img/WoZhiZaiHuNi_2.png)
-
-\newpage
-
-## 何日君再来(邓丽君)
-
-```
-C好花不常Am开,C好景Am不常G在.
-C愁堆解笑G眉,C泪洒Am相思G带.
-C今宵Am离别G后,C何日君再Am来？
-F喝完了C这杯,F请进点G小菜.
-C人生难得Am几回G醉,C不欢更何G待？
-
-==来来来,喝完这杯再说吧==
-
-C今宵离别G后,F何日G君再C来？
-C停唱阳关Am叠,C重擎Am白玉G杯.
-C殷勤频致G语,C牢牢Am抚君G怀.
-C今宵Am离别G后,C何日君再Am来？
-F喝完了C这杯,F请进点G小菜.
-C人生难得Am几回G醉,C不欢更何G待？
-
-==唉,再喝一杯,干了吧.==
-
-C今宵离别G后,F何日G君再C来？
-```
-Capo 7:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YWQ72Xy69DQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8eQFCwURbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x_TPeRKh1fU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/HeRiJunZaiLai.jpg)
-
-\newpage
-
-## 甜蜜蜜(邓丽君)
-
-```
-D甜蜜D蜜  你Em7笑得A甜蜜D蜜
-Em7好象花儿A开在春风D里 开Em7在春风A里
-D在哪D里 在Em7哪里A见过D你
-Em7你的笑容A这样熟D悉 我Em7一时A想不D起
-D啊 A在梦D里
-Bm梦里 Bm梦里见过D你 Bm甜蜜 Bm笑得多甜D蜜
-是A你 是A你 梦A见的就是A你
-D在哪D里 在Em7哪里A见过D你
-Em7你的笑容A这样熟D悉 我Em7一时A想不D起
-D啊 A在梦D里
-```
-
-Capo 2:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n78Rq-MN9cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-![](img/TianMiMi.png)
-
-\newpage
 
 
 ## 隱形的翅膀(張韶涵)
@@ -2870,209 +3129,9 @@ Capo: 0
 \newpage
 
 
-## 漫步人生路(邓丽君)
-
-Capo: 5
-
-```
-Am在你身边路虽Em远未疲倦
-伴F你漫行一段C接一E段
-Am越过高峰另一Em峰却又见
-目F标推远G让理想Em永远在前Am面
-Am路纵崎岖亦不Em怕受磨练
-愿F一生中苦痛快乐C也体E验
-Am愉快悲哀在身Em边转又转
-风F中赏雪G雾里赏花Em快乐回Am旋
-毋用F计较  快欣赏身边Am美丽每一天
-还愿F确信美景良辰E在脚Esus4边
-
-副歌A
-愿Am将欢笑声盖掩C苦痛那一面
-悲也Dm好喜也好  每天E找到新发现
-让疾Am风吹呀吹  尽管C给我俩考验
-小雨Dm点放心E洒  早已Em决心向着Am前
-
-间奏
-Am路纵崎岖亦不Em怕受磨练
-愿F一生中苦痛快乐C也体E验
-Am愉快悲哀在身Em边转又转
-风F中赏雪G雾里赏花Em快乐回Am旋
-毋用F计较  快欣赏身边Am美丽每一天
-还愿F确信美景良辰E在脚Esus4边
-
-副歌B
-愿Am将欢笑声盖掩C苦痛那一面
-悲也Dm好喜也好  每天E找到新发现
-让疾Am风吹呀吹  尽管C给我俩考验
-小雨Dm点放心E洒  早已Em决心向着Am前
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lK-m-etVWkw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Capo 0
-
-![](img/ManBuRenShengLu.png)
-
-\newpage
-
-
-## 但愿人长久(邓丽君)
-
-Capo: 5
-```
-C明月几时Am有   F把酒问青G天
-Am不知天上Dm宫阙   F今夕是何年G  
-C我欲乘风归Am去   F唯恐琼楼玉G宇  
-Am高处不胜Dm寒   F起舞弄清影G  
-Dm何似在人C间
-C转朱阁  F低绮户  Dm照  无G眠
-C不应有恨  F何事长向 Dm别 时G圆
-C人有悲欢离Am合  F月有阴晴圆G缺
-Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRW9g5gA75I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/DanYuanRenChangJiu.png)
-
-\newpage
 
 
 
-## 再见我的爱人(邓丽君)
-
-```
-★GOODBYE MY C LOVE 我的Am爱人 再G见
-★GOODBYE MY C LOVE 相见Am不知那一Em天
-★我把F一切给了Em你 希望Dm你要Am珍惜   Dm不要辜负F我的真G情意 
-★GOODBYE MY C LOVE 我的Am爱人 再G见
-★GOODBYE MY C LOVE 从此Am和你分Em离
-★我会F永远永Em远       爱Dm你在Am心里    Dm希望你F不要把我忘C记
-★我永远C怀念你 温柔的Em情怀念里
-★永恒的Am心怀念你 甜蜜的Dm吻怀G念你
-★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
-★我的C爱我Am相信 Dm总有一天G能再C见
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cRzXzqSJ0ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtAA1LOIKP0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CccGhiXnIRQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/ZaiJianWoDeAiRen.jpg)
-
-[2](https://img6.zhaogepu.com/img/124072/jianpu/62031_1.jpg)
-
-\newpage
-
-
-
-## 偿还(邓丽君)
-
-Capo: 4, 用大拇指扫玄
-```
- a段
-    沉默的Am嘴唇     还留着泪Dm痕
-    这不是胭E7脂红粉   可掩饰的C伤痕E7  
-    破碎的Am心灵     流失了Dm多少的情
-    弥补的谎C言      偿还的借E7口
-    我不会去Am当真
-    爱的心Dm路旅程    G只能够你我C两个人
-    E7不可能是我Dm独徘徊    G也不可能三人C行
-    E7你可以去找新的Dm恋情    E7也可以不留一点Am音讯
-    但不要用偿还Dm做借口    E7再让我伤心Am
-b段
-    爱哭的Am眼睛    让泪水染Dm红
-    要多少岁E7月时光    才遗忘这C一段情
-    E7脆弱的Am心情    还留着你Dm的伤痕
-    弥补的谎C言    偿还的借E7口
-    我怎么能Am相信
-副歌B
-    爱的心Dm路旅程  G我曾经答应C你牵引
-    E7这只能说我Dm太多情   G不敢埋怨你无C  情
-    E7我曾经耐心听你Dm表明 E7也已经谅解你的Am苦衷
-    请不要用偿还做Dm借口   E7伤了我自尊Am  
-
-结尾
-    爱的心Dm路旅程    G只能够你我C两个人
-    E7不可能是我Dm独徘徊    G也不可能三人C行
-    E7你可以去找新的Dm恋情  E7也可以不留一点Am音讯
-    但不要用偿还Dm做借口    E7再让我伤心Am  
-```
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oU9FlS9m170" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIfLIL5A9Z0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/CangHuan.png)
-
-http://www.jianpuw.com/htm/bw/364078.htm
-
-\newpage
-
-
-
-## 船歌(邓丽君)
-
-Capo: 4
-```
-主歌 A
-C喂～
-F风儿呀G吹动我的C船帆
-Dm船儿呀G随风荡Am漾
-Dm送我到G日夜思念的C地方
-
-C喂～
-F风儿呀G吹动我的C船帆
-Dm姑娘呀G我要和你见Am面
-Dm诉一诉G心里对你的C思念
-
-副歌
-C当我还G没来到F你的面Am前
-C你千万要G把我要F记在心Am间
-要C等待着G我呀
-要F耐心等着我G呀
-
-G姑娘～
-我的心像那黎明的温暖太阳G  
-
-主歌 B
-C喂～
-F风儿呀G吹动我的C船帆
-Dm船儿呀G随风荡Am漾
-Dm送我到G日夜思念的C地方
-C喂～
-F风儿呀G吹动我的C船帆
-Dm姑娘呀G我要和你见Am面
-Dm诉一诉G心里对你的C思念 C喂～
-```
-
-\newpage
-
-## 愛人(邓丽君)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mT5zZZ3OD84" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ub219zaOoUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/Lover.png)
-
-
-\newpage
-
-## 娘心(邓丽君)
-
-Capo 8:  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jPuJtQ3Sko4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/Mum_Heart.jpg)
-
-这首歌适合木吉他演奏. 可以用两个八度. 加上低八度,最多三个,不过难度较大.
-
-
-\newpage
 
 ## 云宫迅音
 
@@ -3179,27 +3238,9 @@ Capo 7:
 
 \newpage
 
-## 夜來香(邓丽君)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5C6D4i9ZuTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/YeLaiXiang.png)
-
-
-\newpage
-
-## 小城故事(邓丽君)
-
-Capo 0:  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Os-p9qES--g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/LittleCity.png)
-
-\newpage
 
 ## 一生所爱(卢冠廷)  
-
 
 ```
 主歌 A
@@ -3263,14 +3304,7 @@ Capo 3:
 
 \newpage
 
-## 君心我心(邓丽君)
 
-Capo 0  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3lV3WpBBHcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/JXWX.png)
-
-\newpage
 
 ## 黄梅戏天仙配
 
@@ -3279,28 +3313,4 @@ Capo 5:
 
 ![](img/FQSSBJH.png)
 
-## 你怎么说(邓丽君)
 
-```
-C我没忘记C你忘记我
-C连名字你都说C错
-C　证明你Am一切都是F在骗G我
-G　看今天G你怎么C说
-
-C你说过两天C来看G我
-C一等就是Am一年G多
-三百C六十五个C日子不好Am过
-Dm你心里根本没有G我
-G　把我的G爱情还给C我
-```
-
-Capo 5:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q96MurOE7ow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5SWtCQPc4QM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![](img/NiZenMeShuo.png)
-
-\newpage
