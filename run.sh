@@ -16,7 +16,7 @@ bookdown::render_book('index.Rmd', 'bookdown::gitbook')
 #bookdown::render_book('index.Rmd', 'bookdown::pdf_book')
 RSCRIPT_CONTENT
 
-SRC_BOOK=/root/sde_web/_book/
+SRC_BOOK=/root/guitar/_book/
 
 if [ -f sde.R ]; then
   cat sde.R && Rscript sde.R && rm -f sde.Rmd sde.R
