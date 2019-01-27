@@ -1,10 +1,12 @@
+#!/usr/bin/env python
+
 name = ['A','B','C','D','E','F','G']
 scores = [0,2,3,5,7,8,10]
+rng = 12
 weight = {}
 for i in range(len(name)):
     weight[name[i]] = scores[i]
 
-rng = 12
 
 val2name = {}
 name2val = {}
@@ -25,7 +27,11 @@ for c in range(5):
         val2name[nt.value] = nt.fname
         name2val[nt.fname] = nt.value
 
+## G chord
 for s in [ 'G0', 'B1', 'D1','G1' ,'B2','G2']:
+    print name2val[s],
+## C chord
+for s in [ 'G0', 'C1', 'E1','G1' ,'C2','E2']:
     print name2val[s],
 
 import sys
