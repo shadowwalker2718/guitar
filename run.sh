@@ -23,7 +23,7 @@ if [ -f sde.R ]; then
   if [ "$?" == "0" ]; then
     echo "Starting to run rsync..."
     if [ -d $SRC_BOOK ]; then
-      rsync -a $SRC_BOOK root@www.quant365.com:/quant365.com/sde
+      rsync -a $SRC_BOOK root@www.quant365.com:/quant365.com/music
     else
       echo "Folder $SRC_BOOK doesn't exist."
     fi

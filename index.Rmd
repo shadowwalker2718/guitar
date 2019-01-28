@@ -32,8 +32,6 @@ output:
     toc_appendix: no
     quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 documentclass: ctexbook
-bibliography: [bib/bib.bib]
-biblio-style: apalike
 link-citations: no
 colorlinks: yes
 lot: no
@@ -86,6 +84,50 @@ Wechat QR Code:
 
 
 ~~![](img/sep.png)~~
+
+- Design your own guitar with computer science algorithm
+
+Guitar is a six-string instrument with more than 1000 history. It designed as 6 string because of human hand's physical structure. A human hand has an average size (measured from the tip of the middle finger to the wrist) of 7.44 inches(btw, Trump's measures 7.25 inches.), so the fret cannot be too wide or too narrow. Also echo hand has 5 fingers, so we can use one hand to press at most four strings and to strum with the other hand So let's define the string number to 6:
+
+```python
+STRING_NUMBER=6
+```
+
+According to music theory, there are seven letters of alphabet called keys to represent notes. Here we use `A0` to represent the first A key from the left of piano keyboard. So we define `note` class as below:
+
+```python
+KEYS = ['A','B','C','D','E','F','G']
+INTERVALS = [0,2,3,5,7,8,10]
+OCTECT_INTERVAL_RANGE = INTERVALS[-1] + 2  # 12
+KEYS2INTERVALS = dict(zip(KEYS, INTERVALS))
+
+class note(object):
+    def __init__(self, key_, cat):
+        self.cat = cat  # middle
+        self.key = key_ + str(cat)
+        self.fkey = key_ + str(cat)
+        self.value = self.cat*OCTECT_INTERVAL_RANGE +  KEYS2INTERVALS[key_]
+    def __repr__(self):
+        return '{}({})'.format(self.fkey, self.value)
+```
+
+```
+val2key = {}
+key2val = {}
+OCTECT_NUMBER=10
+for c in range(OCTECT_NUMBER):
+    for n in KEYS:
+        nt = note(n,c)
+        val2key[nt.value] = nt.fkey
+        key2val[nt.fkey] = nt.value
+```
+
+2**9 * 110 = 56320 Hz
+
+
+
+
+
 
 
 ## Common Chords

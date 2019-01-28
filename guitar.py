@@ -1,38 +1,33 @@
 #!/usr/bin/env python
 
-name = ['A','B','C','D','E','F','G']
-scores = [0,2,3,5,7,8,10]
-rng = 12
-weight = {}
-for i in range(len(name)):
-    weight[name[i]] = scores[i]
-
-
-val2name = {}
-name2val = {}
+KEYS = ['A','B','C','D','E','F','G']
+INTERVALS = [0,2,3,5,7,8,10]
+OCTECT_INTERVAL_RANGE = INTERVALS[-1] + 2  # 12
+KEYS2INTERVALS = dict(zip(KEYS, INTERVALS))
 
 class note(object):
-    def __init__(self, name_, cat):
+    def __init__(self, key_, cat):
         self.cat = cat  # middle
-        self.name = name_ + str(cat)
-        self.fname = name_ + str(cat)
-        self.value = self.cat*rng +  weight[name_]
+        self.key = key_ + str(cat)
+        self.fkey = key_ + str(cat)
+        self.value = self.cat*OCTECT_INTERVAL_RANGE +  KEYS2INTERVALS[key_]
     def __repr__(self):
-        return '{}({})'.format(self.fname, self.value)
+        return '{}({})'.format(self.fkey, self.value)
 
-for c in range(5):
-    for n in name:
+val2key = {}
+key2val = {}
+for c in range(10):
+    for n in KEYS:
         nt = note(n,c)
-        #print nt
-        val2name[nt.value] = nt.fname
-        name2val[nt.fname] = nt.value
+        val2key[nt.value] = nt.fkey
+        key2val[nt.fkey] = nt.value
 
 ## G chord
 for s in [ 'G0', 'B1', 'D1','G1' ,'B2','G2']:
-    print name2val[s],
+    print key2val[s],
 ## C chord
 for s in [ 'G0', 'C1', 'E1','G1' ,'C2','E2']:
-    print name2val[s],
+    print key2val[s],
 
 import sys
 sys.exit(0)
@@ -78,7 +73,7 @@ for interval in intervals:
     """
     for g in guitar:
         for i in g:
-            print val2name[i] if i in val2name else i,'\t',
+            print val2key[i] if i in val2key else i,'\t',
         print "\n"
     """
     tot = []
@@ -86,7 +81,7 @@ for interval in intervals:
         full = True
         for j in range(STRING_NUMBER):
             i = guitar[j][k]
-            s = val2name[i] if i in val2name else str(i)#,'\t',
+            s = val2key[i] if i in val2key else str(i)#,'\t',
             if not s[0].isalpha():
                 full = False
         #print ""
@@ -107,7 +102,7 @@ for r in res:
     for k in range(len(guitar[0])):
         for j in range(STRING_NUMBER):
             i = guitar[j][k]
-            s = val2name[i] if i in val2name else str(i)
+            s = val2key[i] if i in val2key else str(i)
             print s, '\t',
         print ""
     print "*"*80
