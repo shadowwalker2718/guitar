@@ -87,47 +87,130 @@ Wechat QR Code:
 
 - Design your own guitar with computer science algorithm
 
-Guitar is a six-string instrument with more than 1000 history. It designed as 6 string because of human hand's physical structure. A human hand has an average size (measured from the tip of the middle finger to the wrist) of 7.44 inches(btw, Trump's measures 7.25 inches.), so the fret cannot be too wide or too narrow. Also echo hand has 5 fingers, so we can use one hand to press at most four strings and to strum with the other hand So let's define the string number to 6:
+Guitar is a six-string instrument with more than 1000 history. It designed as 6 string because of human hand's physical structure. A human hand has an average size (measured from the tip of the middle finger to the wrist) of 7.44 inches(btw, Trump's measures 7.25 inches.), so the fret cannot be too wide or too narrow. Also echo hand has 5 fingers, so we can use one hand to press at most four strings and to strum with the other hand. So let's define the string number to 6 and fret number as 13:
 
 ```python
 STRING_NUMBER=6
+FRET_NUMBER=13
 ```
 
-According to music theory, there are seven letters of alphabet called keys to represent notes. Here we use `A0` to represent the first A key from the left of piano keyboard. So we define `note` class as below:
+According to music theory, there are seven letters of alphabet called keys to represent notes. Here we use `A0` to represent the first `A` key from the left of piano keyboard. With [12 equal temperament](https://en.wikipedia.org/wiki/Equal_temperament), one octet has 12 tone. So we define `note` class as below:
 
 ```python
 KEYS = ['A','B','C','D','E','F','G']
-INTERVALS = [0,2,3,5,7,8,10]
-OCTECT_INTERVAL_RANGE = INTERVALS[-1] + 2  # 12
-KEYS2INTERVALS = dict(zip(KEYS, INTERVALS))
+VALUES = [0,2,3,5,7,8,10]
+OCTET_RANGE = VALUES[-1] + 2  # 12
+BASE_KEYS2VALUES = dict(zip(KEYS, VALUES))
 
 class note(object):
     def __init__(self, key_, cat):
-        self.cat = cat  # middle
+        self.cat = cat  # which octect?
         self.key = key_ + str(cat)
         self.fkey = key_ + str(cat)
-        self.value = self.cat*OCTECT_INTERVAL_RANGE +  KEYS2INTERVALS[key_]
+        self.value = self.cat*OCTET_RANGE +  BASE_KEYS2VALUES[key_]
     def __repr__(self):
         return '{}({})'.format(self.fkey, self.value)
 ```
+
+We also need to define some mapping between absolute pitch value t key's full name, which I define it as key name plus octect number. Say `C2` means middle `C` in piano and  `C3` is the key which a tenor should reach in my university chorus. Here we define OCTET_NUMBER as 10, which is so crazy number that the frequency could be 56320 Hz for `A9`(2**9 * 110Hz). No animal can sing that high, so I think our map should cover all cases.
 
 ```
 val2key = {}
 key2val = {}
 OCTECT_NUMBER=10
-for c in range(OCTECT_NUMBER):
+for c in range(OCTET_NUMBER):
     for n in KEYS:
         nt = note(n,c)
         val2key[nt.value] = nt.fkey
         key2val[nt.fkey] = nt.value
 ```
 
-2**9 * 110 = 56320 Hz
+The I define a class `algorithmic_guitar_designer`. It need a base note to construct. A base note is the lowest note in the first octect a guitar can perform. I set it by default as 'E0'. You can explictly specify to `A0` or ther value if you want. Our design goal is to make guitar easiler to play. So all strings should start from some standard key, and adjacent strings's interval are between 4 to 6 tones, and it should have standard keys aligned at more fret as possible as it can.
 
+```
+class algorithmic_guitar_designer(object):
+    def __init__(self, base_note='E'):
+        self.base_line_offset = BASE_KEYS2VALUES[base_note]
+    def _create_guitar(self, string_number=STRING_NUMBER, interval = [5, 5, 5, 4, 5]):
+        guitar = [[i+self.base_line_offset for i in range(FRET_NUMBER)]]  # base line
+        for it in interval:
+            new_string = [x+it for x in guitar[-1]]
+            guitar.append(new_string)
+        return guitar
+    def _generate_intervals(self):
+        VALUES = []
+        interval = [0]*5
+        i = 0
+        def dfs(VALUES, interval, i):
+            if i==5:
+                VALUES.append(list(interval))
+                return
+            for k in [4,5,6]:
+                interval[i] = k
+                dfs(VALUES, interval, i+1)
+        dfs(VALUES, interval, i)
+        return VALUES
+    def _optimize_guitar_design(self):
+        max_tot = [[]]
+        res = [[]]
+        VALUES = self._generate_intervals()
+        for interval in VALUES:
+            guitar = self._create_guitar(interval=interval)
+            tot = []
+            for k in range(len(guitar[0])):
+                full = True
+                for j in range(STRING_NUMBER):
+                    i = guitar[j][k]
+                    s = val2key[i] if i in val2key else str(i)#,'\t',
+                    if not s[0].isalpha():
+                        full = False
+                if full:
+                    tot.append(k)
+            if len(max_tot[0]) < len(tot):
+                max_tot = [tot]
+                res = [interval]
+            elif len(max_tot[0]) == len(tot):
+                max_tot.append(tot)
+                res.append(interval)
+        return res
+    def work(self):
+        res = self._optimize_guitar_design()
+        schema_num = 1
+        for r in res:
+            print "*"*40, " Design Schema ", schema_num, "*"*40
+            guitar = self._create_guitar(interval=r)
+            for k in range(len(guitar[0])):
+                for j in range(STRING_NUMBER):
+                    i = guitar[j][k]
+                    s = val2key[i] if i in val2key else str(i)
+                    print s, '\t',
+                print ""
+            print "*"*98
+            schema_num += 1
+```
 
+And run this program with this driver code:
 
+```
+henry = algorithmic_guitar_designer()
+henry.work()
+```
 
+I get two optimal designs:
 
+![](img/guitar_design_henry.png)
+
+The first design schema matches the 1000-year old guitar convention. It means our algorithm is on the right track, and also means the conventional way can be proved theoretically. However, it is not the only optimal way. The second schema looks great too. I believe for some songs, it could be better to perform with the second schema.
+
+As mentioned above, you can replace base key `E0` with other note, for example `A0`, and get different optimal schema. This is the result I got with 13 frets. And you can see the lowest key exapnds from `E0` to `A0`:
+
+![](img/guitar_design_henry_a0.png)
+
+To have the same range with a 88-key piano, with six strings, you have to add more frets. I checked when fret number is 65, the range can be 88 keys, which is kidn of crazy. We may need to add more strings.
+
+![](img/guitar_design_henry_88.png)
+
+All in all, with this algorithm, we can effectively expand the range of a guitar can play and make it a more expressive instrument.
 
 
 ## Common Chords
