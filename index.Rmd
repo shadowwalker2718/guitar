@@ -60,7 +60,7 @@ favicon: "img/favicon.ico"
 
 ~~![](img/sep.png)~~
 
-> **<<码农乐谱>>收集了100首华语和英文经典好歌,乃码农朋友居家旅行,休闲娱乐,陶冶情操之良友!**  
+> **<<码农乐谱>>收集了100+首华语和英文经典好歌,乃码农朋友居家旅行,休闲娱乐,陶冶情操之良友!**  
 
 
   
@@ -85,9 +85,11 @@ Wechat QR Code:
 
 ~~![](img/sep.png)~~
 
-- Design your own guitar with computer science algorithm
+## [Design your own guitar with computer science algorithm](https://www.linkedin.com/pulse/design-your-own-guitar-computer-science-algorithm-python-henry-wu/)
 
-Guitar is a six-string instrument with more than 1000 history. It designed as 6 string because of human hand's physical structure. A human hand has an average size (measured from the tip of the middle finger to the wrist) of 7.44 inches(btw, Trump's measures 7.25 inches.), so the fret cannot be too wide or too narrow. Also echo hand has 5 fingers, so we can use one hand to press at most four strings and to strum with the other hand. So let's define the string number to 6 and fret number as 13:
+Guitar is a six-string instrument with more than 1000 years history. It is one of the three greatest instruments(the other two are piano and violin). Its strength is the versatility to generate various different beautiful tones which piano and violin couldn't. But its note range is too narrow compared with piano. Often you feel impossible to play guitar with piano scores as the piano has a much wider range overflowing that of guitar. This article is to design guitar to expand its note range but make it easy to play as always.
+
+Guitar was designed as six-string because of human hand’s physical structure. A human hand has an average size (measured from the tip of the middle finger to the wrist) of 7.44 inches(for instance, Trump’s measures 7.25 inches), so the fret cannot be too wide or too narrow. Also each hand has 5 fingers, so we can use one hand to press at most four strings and to strum with the other hand. So let’s define the string number to 6 and fret number as 13:
 
 ```python
 STRING_NUMBER=6
@@ -206,7 +208,7 @@ As mentioned above, you can replace base key `E0` with other note, for example `
 
 ![](img/guitar_design_henry_a0.png)
 
-To have the same range with a 88-key piano, with six strings, you have to add more frets. I checked when fret number is 65, the range can be 88 keys, which is kidn of crazy. We may need to add more strings.
+To have the same range with a 88-key piano, with six strings, you have to add more frets. I checked when fret number is 65, the range can be 88 keys, which is kind of crazy. We may need to add more strings then.
 
 ![](img/guitar_design_henry_88.png)
 
