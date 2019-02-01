@@ -886,16 +886,16 @@ Capo: 3
 Chorus:
     Am   G      F       C
 我終於 看到 所有夢想都開花
-    Dm7    Em7     G
+    Am     Em      G
 追逐的年輕 歌聲多嘹亮
     Fmaj7 Em7   Dm7     C
 我終於 翱翔 用心凝望不害怕
-    Dm7    G       C
+    Am     G       C
 哪裏會有風 就飛多遠吧
 Bridge:
     F   G      F       C
 隱形的翅膀 讓夢恆久比天長
-    F      G
+    F      G       C
 留一個願望 讓自己想像
 ```
 
@@ -915,12 +915,16 @@ Capo 1:
 
 ## 铁血丹心
 
+![](https://jguitar.com/images/chordshape/E-Minor%207th-E-0%2C2%2C2%2C0%2C3%2C0.png)
+
 ```
-Am　依稀Am往梦Am似曾Am见 G　心G内波澜G现G　
-Am　抛开Am世事Am断仇Am怨 F　相F伴到天E边E　
+Am　依稀Am往梦Am似曾Am见 G　心Em7内波澜Em7现Em7
+Am　抛开Am世事Am断仇Am怨 F　相F伴到天E边E
+
 逐Am草四Am方沙漠G苍茫G　F那惧G雪霜扑C面
-C　射Am雕引Am弓塞外G奔驰G　F笑傲G此生无厌Am倦 Am　
-Am　应知Am爱意Am似流Am水 G　斩不G断理还G乱G　
+C射Am雕引Am弓塞外G奔驰G　F笑傲G此生无厌Am倦 Am
+
+Am　应知Am爱意Am似流Am水 G　斩不Em7断理还Em7乱Em7
 Am　身经Am百劫也Em在心G间F　恩G义两难Am断 Am　
 ```
 
@@ -3368,10 +3372,12 @@ Bm Em｜Bm Em｜C G/B｜C/E F – D – –｜
 
 ## 离别
 
+![](http://www.totalguitarandbass.com/system/diagrams/92/original/Esus4.png)
+Capo: 0
 ```
 深情Am吻住了你的嘴
 却不能C停止你的流Am泪
-这G一刻我的心和Esus4你一起    E碎
+这G一刻我的心和Esus4你一起E碎
 大雨Am下疯了的长夜
 沉睡C的人们毫无知AM觉
 Dm突然恨透这个世界 
@@ -3381,11 +3387,13 @@ Dm因为要离E别
 直到Am心不再滴G血
 G而你流尽泪C水
 天空DM不停的闪着AM雷
-照不[DM[亮我心中
+照不Dm亮我心中
 E黑黑黑黑黑的一切
 Am希望G都早已Am经破G灭
 我和Fmaj7你 要离Am别
 ```
+
+![](http://www.totalguitarandbass.com/system/diagrams/336/original/FMaj7.png)
 
 ## 其实你不懂我的心
 
@@ -3396,7 +3404,7 @@ Am希望G都早已Am经破G灭
 其G实你Em不懂C我的D心
 你G说我像Em谜总C是看不D清
 其G实我永Em不在乎C掩藏D真G心
-副歌
+
 怕自G己不能Em负担对C你的深G情
 所以G不敢Em靠你太C近 D　
 你G说要远Em行暗C地里伤D心
@@ -3405,4 +3413,158 @@ Am希望G都早已Am经破G灭
 所以G不敢Em靠你太C近 D　
 你G说要远Em行暗C地里伤D心
 不G让你看Em到哭泣C的  D　眼睛G
+```
+
+## 其实不想走
+
+Capo: 3
+
+```
+C你总是说我在  G这样孤单时候  Am才会想与妳Em联络
+F然而谈的情  C　说的爱Am不够  Dm7说来就来  说F走就G走
+
+C怎麼会不懂我  G怎麼会不知道  Am女人的心是Em脆弱
+F寂莫不是我  C　不能够Am忍受 Dm7　只是每一天  我F想妳太G多
+
+其实不想C走  其实我想Em留  留下来陪Am妳每个春夏秋Em冬
+妳要相信F我  再不用多C久  我要妳和Dm7我今生一起渡G过
+
+其实不想C走  其实我想Em留  留下来陪Am妳每个春夏秋Em冬
+妳要相信F我  再不用多C久  我要妳和Dm7我今生G一起渡C过
+```
+
+## 爱相随
+
+```
+C别想你 C忍不住我提Em醒自Am己
+伤了F心 有些G事也要过Em去
+心很F痛 痛的G不想再做B我自Am己
+别回F头 情已G去 缘已C尽
+C很想你 C也不是因为Em失去Am你
+爱了F你 用尽G我全心全C力
+一生F情 只为G这一次与E你相Am遇
+情难F了 难再Dm7续 难再G醒
+C人分飞 Am爱相随
+那怕F用一生去G追
+我又怎Em么能追得Am回
+F与你相G慰 我为C你痴为你Am累
+风雨F我都不后G悔
+我又怎Em么有路可Am退
+曾F经深情你G给了C谁
+```
+
+## 风雨无阻
+
+```
+    G       D        Em        Bm
+   给你我的全部 你是我今生唯一的赌注
+     C             G           Am     D
+   只留下一段岁月 让我无怨无悔全心的付出
+       G         Em      Bm       C
+   怕你忧伤 怕你哭   怕你孤单 怕你糊涂
+       Am       Em        Am      D
+   红尘千山万里路   我可以朝朝  暮暮
+       G        D        Em        Bm
+   给你一条我的路  你是我一生不停的脚步
+       C             G           Am      D
+   让我走出一片天空 让你尽情飞舞 放心的追逐
+       G       Em       Bm       C
+   爱是漫长的旅途   梦有快乐 梦有痛苦
+       Am      Em         Am  D   G  C D
+   悲欢离合人间路   我可以缝缝  补补
+       G              Em
+   提著昨日种种千辛万苦   向明天换一些
+   Am       Em  C             Bm
+   美满和幸福   爱你够不够多 对你够不够好
+   Am               D
+   可以要求 不要不在乎
+       G              Em            Am     Em
+   不愿让你看见我的伤处 是曾经无悔的风雨无阻
+   C             Bm
+   拥有够不够多 梦得够不够好
+       Am  D     G
+   可以追求  不认输
+```
+
+## 离不开你
+
+```
+C你敞开怀抱融化了Am我     F你轻捻指尖揉碎了G我
+C你鼓动风云卷Em走了Am我     你Dm掀起波澜抛弃了G7我
+C我俩 太不Em公平   Dm爱和恨F全由你操G纵
+C可今天 我已Em离不开Am你     不Dm管你 F爱不爱G7我
+C我俩 太不Em公平   Dm爱和恨F全由你操G纵
+C可今天 我已Em离不开Am你     不F管你 G爱不爱C我
+```
+
+
+## 弯弯的月亮
+
+```
+前奏/间奏
+  A  E  A  E
+  A  F♯m  Bm  E 
+主歌 A
+A遥远的夜空E，有一个A弯弯的E月亮
+A弯弯的月亮F♯m下面，是那Bm弯弯的E小桥
+A小桥的旁边E，有一条A弯弯的E小船
+A弯弯的小船F♯m悠悠，是那Bm童年的E阿娇
+副歌 A
+A呜~~~   E呜~~~
+A呜~~~   E呜~~~
+A呜~~~   F♯m呜~~~
+A呜~~~   E呜~~~  F♯m~    Bm~    E~
+主歌 B
+A阿娇摇着船E，唱着那A古老的E歌谣
+A歌声随风F♯m飘，飘到Bm我的脸上
+A脸上淌着泪E，像那条A弯弯的E河水
+A弯弯的河水F♯m流啊，流进Bm我的E心上~
+副歌 B
+A呜~~~   E呜~~~
+A呜~~~   E呜~~~
+A呜~~~   F♯m呜~~~
+A呜~~~   E呜~~~  F♯m~    Bm~    E~
+间奏
+  A  E    A   E
+  A  F♯m  Bm  E 
+过渡
+我的F♯m心充满C♯m惆怅，不为那Bm弯弯的E月亮
+只为那F♯m今天的C♯m村庄，还唱着c过去的E歌谣
+D嗯~~~E~~ 我故[Bm乡的E月亮，你那F♯m弯弯的C♯m忧伤
+穿透Bm了我的胸 E　膛  E　
+comment:副歌 C}
+A呜~~~   E呜~~~
+A呜~~~   E呜~~~
+A呜~~~   F♯m呜~~~   Bm~    E~
+结束
+A遥远的夜空E，有一个A弯弯的E月亮
+A弯弯的月亮F♯m下面，是那Bm弯弯的E小桥
+A小桥的旁边E，有一条A弯弯的E小船
+A弯弯的小船F♯m悠悠，是那Bm童年  的E　  阿娇~~~~~~
+{END}
+```
+
+## 浪人情歌
+
+```
+Em　不要再想你  Am　不要再爱你
+让时G间悄悄地D飞逝  抹去Em我俩的回忆
+对于G你的名D字  从今Em不会再提起
+不再让Am悲伤  将我心D占据
+主歌 B
+Em　让它随风去  Am　让它无痕迹
+所有G快乐悲伤  D所有过去  Em通通都抛去
+心中G想的念的  D盼的望的  Em不会再是你
+不愿再Am承受 D 要把你G忘记
+副歌
+C　我会擦去  我不G小心滴下的泪水
+C　还会装做  一切G都无所谓
+将你C和我的D爱情  全G部D敲Em碎
+再将它Am通通赶出  我受伤的D心扉
+主歌 B
+Em　让它随风去  Am　让它无痕迹
+所有G快乐悲伤  D所有过去  Em通通都抛去
+心中G想的念的  D盼的望的  Em不会再是你
+不愿再Am承受 D 要把你G忘记
+你会看Am见的 D 把你G忘记
 ```
