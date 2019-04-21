@@ -39,6 +39,7 @@ cover-image: img/batmanSlapsRobin.jpg
 favicon: "img/favicon.ico"
 ---
 
+
 # Preface
 
 
@@ -77,4 +78,5 @@ Wechat QR Code:
 ## All Chords
 
 ![](img/guitar-chord-chart.png)
+
 

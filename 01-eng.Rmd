@@ -1,9 +1,9 @@
 ---
-title: "English_Rock"
-author: "Fuheng"
-date: "March 18, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
+
 
 # English Songs
 
