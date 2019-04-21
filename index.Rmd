@@ -3,6 +3,17 @@ title: "码农乐谱"
 author: "Henry's Guitar Score Book"
 date: "June 1, 2018"
 output:
+  bookdown::pdf_book:
+    keep_tex: yes
+    dev: "cairo_pdf"
+    latex_engine: xelatex
+    citation_package: natbib
+    template: tex/template_yihui_zh.tex
+    pandoc_args: --top-level-division=chapter
+    toc_depth: 2
+    toc_unnumbered: no
+    toc_appendix: no
+    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
   bookdown::gitbook:
     highlight: tango
     includes:
@@ -20,17 +31,6 @@ output:
         link: http://www.quant365.com/%s
       buy:
         link: http://www.quant365.com/buy/%s
-  bookdown::pdf_book:
-    keep_tex: no
-    dev: "cairo_pdf"
-    latex_engine: xelatex
-    citation_package: natbib
-    template: tex/template_yihui_zh.tex
-    pandoc_args: --chapters
-    toc_depth: 2
-    toc_unnumbered: no
-    toc_appendix: no
-    quote_footer: ["\\begin{flushright}", "\\end{flushright}"]
 documentclass: ctexbook
 link-citations: no
 colorlinks: yes
@@ -60,7 +60,7 @@ favicon: "img/favicon.ico"
 
 ~~![](img/sep.png)~~
 
-> **<<码农乐谱>>收集了100+首华语和英文经典好歌,乃码农朋友居家旅行,休闲娱乐,陶冶情操之良友!**  
+> **码农乐谱**收集了100+首华语和英文经典好歌,乃码农朋友居家旅行,休闲娱乐,陶冶情操之良友!  
 
 
   
@@ -71,7 +71,7 @@ Wechat QR Code:
 ![](img/wechat.jpg)  
 <hr>
 
-><br>
+> <br>
 <a href=http://paypal.me/Quant365> 欢迎打赏并下载PDF版本 </a>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -85,7 +85,9 @@ Wechat QR Code:
 
 ~~![](img/sep.png)~~
 
-## [Design your own guitar with computer science algorithm](https://www.linkedin.com/pulse/design-your-own-guitar-computer-science-algorithm-python-henry-wu/)
+## Design your own guitar with computer science algorithm
+
+Ref: https://www.linkedin.com/pulse/design-your-own-guitar-computer-science-algorithm-python-henry-wu/
 
 Guitar is a six-string instrument with more than 1000 years history. It is one of the three greatest instruments(the other two are piano and violin). Its strength is the versatility to generate various different beautiful tones which piano and violin couldn't. But its note range is too narrow compared with piano. Often you feel impossible to play guitar with piano scores as the piano has a much wider range overflowing that of guitar. This article is to design guitar to expand its note range but make it easy to play as always.
 
