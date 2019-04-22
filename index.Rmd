@@ -1,6 +1,6 @@
 ---
-title: "恒乐谱"
-author: "Henry's Guitar Score Book"
+title: "恒乐谱 - Henry's Guitar Score Book"
+author: "Fuheng Wu"
 date: "June 1, 2018"
 output:
   bookdown::pdf_book:
