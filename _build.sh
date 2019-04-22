@@ -145,7 +145,7 @@ hc = html_chapters(
 
 bookdown::render_book('index.Rmd',hc)
 
-export SRC_BOOK=/root/guitar/_book/
+export SRC_BOOK=/Users/henry.wu/guitar/_book/
 rsync -a $SRC_BOOK root@www.quant365.com:/quant365.com/music
 
 bookdown::render_book('00-chinese.Rmd',hc)
