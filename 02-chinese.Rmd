@@ -10,6 +10,67 @@ output:
 
 \newpage
 
+## 我爱你中国
+
+Capo: 3 or 4
+
+```
+C     AM     EM  DM  C   G  C 
+百灵鸟从蓝天飞过 我爱你 中 国
+主歌 A
+   C   Am    G         Am    Em
+我(爱)(你)中(国)，我爱(你)中(国)
+       Dm    Am        G
+我爱你(春)天(蓬)勃的秧(苗)
+     C        Dm       C
+我爱(你)秋日(金)黄的硕(果)
+   C     Am      Em
+我(爱)你(青)松气(质)
+   F     Dm      G
+我(爱)你(红)梅品(格)
+   C     Dm        F
+我(爱)你(家)乡的甜(蔗)
+  Am7    F         D       G
+好(像)乳(汁)滋润着(我)的心(窝)
+副歌
+   C   Am    G         Am    Em
+我(爱)(你)中(国)，我爱(你)中(国)
+       F       Dm        Am
+我要把(最)美的(歌)儿献给(你)
+       C   G       C
+我的母(亲)(我)的祖(国)
+主歌 B
+   C   Am    G         Am    Em
+我(爱)(你)中(国)，我爱(你)中(国)
+       Dm    Am        G
+我爱你(碧)波(滚)滚的南(海)
+     C        Dm       C
+我爱(你)白雪(飘)飘的北(国)
+   C     Am      Em
+我(爱)你(森)林无(边)
+   F     Dm      G
+我(爱)你(群)山巍(峨)
+   C     Dm        F
+我(爱)你(淙)淙的小(河)
+  Am7    F         D       G
+荡(着)清(波)从我的(梦)中流(过)
+副歌
+   C   Am    G         Am    Em
+我(爱)(你)中(国)，我爱(你)中(国)
+       F       Dm        Am
+我要把(美)好的(青)春献给(你)
+       C   G       C
+我的母(亲)(我)的祖(国)
+啊啊Am啊 啊啊啊Em7啊
+啊啊Dm啊 啊啊啊啊G啊
+       F       Dm        Am
+我要把(美)好的(青)春献给(你)
+       C   G       C
+我的母(亲)(我)的祖(国)
+```
+
+\newpage
+
 ## 千言万语(邓丽君)
 
 Key: G, Capo: 2
@@ -46,6 +107,8 @@ C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
 C　不知道为了什Em么-　Am　憂愁他圍繞著Em我-
 C　我每天都在Dm祈禱-　G　快趕走愛的寂C寞
 ```
+
+\newpage
 
 Capo 5:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g0ph7fHDH3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -155,6 +218,7 @@ F   Em  Dm   C       F  G   C
 诗情画意虽然美丽,我心中只有你
 诗情画意虽然美丽,我心中只有你
 ```
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqg7Khc9E-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -190,13 +254,19 @@ C      Am        F   G   C
 除了你 我不能感到一丝丝情意
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uS9g9_f63T4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Capo 5
 
 ![](img/WoZhiZaiHuNi.png)
 
+\newpage
+
 ![](img/WoZhiZaiHuNi_1.png)
+
+\newpage
 
 ![](img/WoZhiZaiHuNi_2.png)
 
@@ -224,6 +294,9 @@ C人生难得Am几回G醉,C不欢更何G待？
 
 C今宵离别G后,F何日G君再C来？
 ```
+
+\newpage
+
 Capo 7:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YWQ72Xy69DQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -249,6 +322,7 @@ D在哪D里 在Em7哪里A见过D你
 Em7你的笑容A这样熟D悉 我Em7一时A想不D起
 D啊 A在梦D里
 ```
+\newpage
 
 Capo 2:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n78Rq-MN9cA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -296,6 +370,8 @@ Am愉快悲哀在身Em边转又转
 小雨Dm点放心E洒  早已Em决心向着Am前
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lK-m-etVWkw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Capo 0
@@ -320,6 +396,8 @@ C人有悲欢离Am合  F月有阴晴圆G缺
 Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRW9g5gA75I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/DanYuanRenChangJiu.jpg)
@@ -342,6 +420,8 @@ Am此事古难Dm全  F但愿人长G久  Dm千里共婵C娟
 ★那F醉人的G歌声 怎F能忘记这G段情 我的C爱再Am见  Dm不知G那日再C相见
 ★我的C爱我Am相信 Dm总有一天G能再C见
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cRzXzqSJ0ZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -389,6 +469,8 @@ b段
     E7你可以去找新的Dm恋情  E7也可以不留一点Am音讯
     但不要用偿还Dm做借口    E7再让我伤心Am  
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oU9FlS9m170" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -478,6 +560,8 @@ Capo 0:
 
 ![](img/LittleCity.png)
 
+\newpage
+
 ![](img/XiaoChengGuShi.png)
 
 \newpage
@@ -505,6 +589,8 @@ C一等就是Am一年G多
 Dm你心里根本没有G我
 G　把我的G爱情还给C我
 ```
+
+\newpage
 
 Capo 5:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B1qsjCE7VTo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -540,6 +626,8 @@ C说什么王权富Am贵 C怕什么戒律清Em规
 愿G今生Em长相C随
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_JQrjFXbYP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Capo 3
@@ -548,6 +636,9 @@ Capo 3
 http://www.17jita.com/tab/img/6459.html
 
 ![](img/nverqing.png)  
+
+\newpage
+
 ![](img/nverqing2.png)
 
 \newpage
@@ -584,6 +675,8 @@ Dm     G     C
 但願我留在你的心
 ```
 
+\newpage
+
 http://chord4.com/tabs/7765
 
 Capo 7:  
@@ -614,6 +707,7 @@ G鸿  D雁     G向苍Em天       C天空有G多遥D远
 G酒喝D干    Em再斟Bm满       G今夜Bm不醉不Em还
 G酒喝C干    Em再斟Bm满       G今夜Bm不醉不Em还
 ```
+\newpage
 
 Capo 7:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wWuo6sc1SM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -627,6 +721,8 @@ Capo 7:
 ![](img/SwanGoose.JPG)
 
 ![](img/Hongyan1.png)
+
+\newpage
 
 ![](img/Hongyan2.png)
 
@@ -651,6 +747,8 @@ C           Em          Am          G
 只盼望有一双温柔手,能抚慰我内心的寂寞
 若是你闻过了花香涌,别问我花儿是为谁红.
 ```
+
+\newpage
 
 Capo 5:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4cQgjGjqPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -698,6 +796,8 @@ Capo 3:
     说好不为你忧伤   但心情怎会无恙
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ElzgPuK6ang" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkOhUQN3HWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -706,11 +806,11 @@ Capo 3:
 
 ![](img/WeiAiChiKuang.jpg)
 
-
+\newpage
 ![](img/WeiAiChiKuang_1.jpg)
-
+\newpage
 ![](img/WeiAiChiKuang_3.jpg)
-
+\newpage
 ![](img/WeiAiChiKuang_2.jpg)
 
 \newpage
@@ -731,6 +831,8 @@ C这不是件容易的Am事 F我们却都没有哭G7泣
 但愿那C海风再起 只为那Am浪花的手
 恰F似你G7的温C柔
 ```
+
+\newpage
 
 Capo 10 最后一个A到C3的音用**食指**滑弦.
 
@@ -770,6 +872,8 @@ G_天空中D(虽)然飘着雨Em_
 
 ![](img/d7.png)
 
+\newpage
+
 Capo 7:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XAJDAuihiA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -799,6 +903,8 @@ C愁莫渡江        Am秋心拆两半           C怕你上不了岸    一G辈�
 C谁的江山        Am马蹄声狂乱           F我一身的戎装      G呼啸沧桑 
 C天微微亮         Am你轻声地叹          一F夜惆G怅       如C此委婉 
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCuXXSXOnVw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -838,6 +944,8 @@ F月光呀月光 你G慢慢慢慢听哟
 C鱼儿呀鱼儿 你Am慢慢慢慢游哟
 Dm淡淡的G淡淡的 C淡淡的月光
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjRgCqY7awk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -899,6 +1007,8 @@ Bridge:
 留一個願望 讓自己想像
 ```
 
+\newpage
+
 Capo 10:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3S1ojnfGYpc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -915,7 +1025,7 @@ Capo 1:
 
 ## 铁血丹心
 
-![](https://jguitar.com/images/chordshape/E-Minor%207th-E-0%2C2%2C2%2C0%2C3%2C0.png)
+![](img/E-Minor-7th.png)
 
 ```
 Am　依稀Am往梦Am似曾Am见 G　心Em7内波澜Em7现Em7
@@ -927,6 +1037,8 @@ C射Am雕引Am弓塞外G奔驰G　F笑傲G此生无厌Am倦 Am
 Am　应知Am爱意Am似流Am水 G　斩不Em7断理还Em7乱Em7
 Am　身经Am百劫也Em在心G间F　恩G义两难Am断 Am　
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLRtu2_CHgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -1153,6 +1265,7 @@ C我像是一個Am你可有可無的影Em子    冷冷的F看著你F说謊的樣
 對愛無計可Am施    這無味的日Dm子    G眼泪是G唯一的奢C侈
 ```
 
+\newpage
 
 Capo 1:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRITLxvl0yE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -1184,6 +1297,7 @@ Em              Am           D              G
 你紧紧抓住我衣袖  又放开让我走  这一次真的彻底分手 
 ```
 
+\newpage
 
 Capo 7
 
@@ -1238,9 +1352,13 @@ G         Em   Em     Am   G
 姑娘就会  来伴 我的   琴   声
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fgc5rbNA2D4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/CaoYuanZhiYe2.jpg)
+
+\newpage
 
 ![](img/CaoYuanZhiYe.png)
 
@@ -1282,6 +1400,8 @@ D       G
 一路多保重 Em  G 
 我们再相逢 再相逢
 ```
+
+\newpage
 
 ![](img/TuoLin.png)
 
@@ -1395,9 +1515,14 @@ Am啊.....因你C今晚共我G唱
 因今Am晚的我可共你G唱
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3c0DzqV7_Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/QQQG1.png)  
+
+\newpage
+
 ![](img/QQQG2.png)
 
 \newpage
@@ -1436,6 +1561,8 @@ F  路随G人茫Am茫
 
 Am Am F G Am Am
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9VUfIPAKU-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -1680,6 +1807,8 @@ Capo: 2 or 3
 花紅   紅出了急風烈馬  酒醉   醉出了一生所愛 (回★2次)
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Z8IyqkOSlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/WoCongCaoYuanLai.png)
@@ -1702,6 +1831,8 @@ Capo: 2
 你F会挽着G我的衣C袖  我会F把手G揣进裤C兜  
 走Dm到玉林路Dm的尽头  坐F在小酒馆的G门口
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETCVCUJulPM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -1881,6 +2012,8 @@ G我们F好不容易　我们Fm身不由C己
 恨不得一Am　夜之间白头F　永不分G离 (副歌 X1)
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Udm3iOwcSj0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/HavingYouAtLeast.png)
@@ -2015,6 +2148,7 @@ Prelude: Am..G..F........G..C
 轉千(灣)  轉千(灘)  亦未(平)復(此)中争(鬥)
 ```
 
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gx74PQlC6jM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -2064,6 +2198,8 @@ Em              C             D
     Am      Bm          C      D        G
 醉过的心那  去找  对著满满空虚回忆  怎么逃
 ```
+
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mgf56QMRCSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -2298,35 +2434,6 @@ Picture: http://www.17jita.com/tab/img/6019.html
 
 \newpage
 
-## 彩虹(羽泉)
-
-Capo: 0
-
-```
-G  爱了就别Bm伪 装
-C  迷失了也别D彷徨
-G  不管未来Bm怎样    
-C  你都要保D持坚强
-Bm  如果明天你Em的心           
-C  依然还在G流浪
-Bm7我愿意承受   
-Em这份爱陪着Am7你 
-C打造一片D天地
-
-副歌
-G我的世界从此以后Bm7多了一个你         
-Em每天都是一出Bm戏
-C无论情节浪漫或Bm多离奇
-这主角Am是你D
-G我的世界从此以后Bm7多了一个你
-Em有时天晴有时C雨
-阴天Cm时候我会Bm7告诉你
-我爱Am7你
-C胜过彩虹D的美G丽
-```
-
-\newpage
-
 
 
 ## 大海(张雨生)
@@ -2479,6 +2586,8 @@ E7小薇Am啊      你可知道我多爱Am　你
 摘下Dm一颗      G7　亲手送给C　你
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/daQnnzlXdMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1REOKLTg6A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -2552,6 +2661,8 @@ AM你把美丽献给D草原 G养育你的C草AM原
 AM啊 卓Em玛    F啊 卓C玛 
 Em草原上的D姑娘G卓玛AM拉
 ```
+
+\newpage
 
 Capo 5
 
@@ -2826,6 +2937,8 @@ Fmaj7　　　　　  Em7　　Dm　　　Em　　　A
 尾奏：│　Am　Em　│　G　D　│　D　│
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_zHLU-gvEQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iAx1m2QvlCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -2868,6 +2981,8 @@ F       C       Dm           C
 F       C       Dm               G
 有人来,有人走, 心中的河永远向东(流)....(|G)
 ```
+
+\newpage
 
 ![](img/HuaErJie.jpg)
 
@@ -2938,11 +3053,13 @@ Capo: 2
  不回Am头　不F回头的G走下C去
 ```
 
+\newpage
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ScaZ7VQptEA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Capo 6:
 
-![](http://www.jianpuw.com/img/7/v7/7axoyw7v7.jpg)
+![](img/zaijian.jpg)
 
 
 \newpage
@@ -3005,6 +3122,8 @@ Repeat ＊, ＃ , ＊,★,＆★,＆
       
 ```
 
+\newpage
+
 ![](img/NorWeiDeSengLin.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPpZJlE0Ca8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -3015,6 +3134,8 @@ Repeat ＊, ＃ , ＊,★,＆★,＆
 ![](img/NorWeiDeSengLin1.png)
 
 ![](img/NorWeiDeSengLin2.png)
+
+\newpage
 
 ## 心雨(杨钰莹)
 
@@ -3033,6 +3154,8 @@ C因为明天Am　  我将Dm成为别人的新Am娘
 C让我最Am后一次想C你
 ```
 
+\newpage
+
 https://yoopu.me/view/6PM9d8P9
 
 Capo 3:  
@@ -3041,7 +3164,7 @@ Capo 3:
 女生的弹高八度,男生的保持不变             
 ![](img/XinYu.jpg)
 
-
+\newpage
 
 ## 听海(张惠妹)
 
@@ -3077,6 +3200,8 @@ Em　写封信给我 就当Am最后约定
 说你在F离开我的时G候 是怎样的C心情
 ```
 
+\newpage
+
 https://yoopu.me/view/rp8yOk1L
 
 Capo 10:  
@@ -3084,8 +3209,11 @@ Capo 10:
 
 ![](img/ListenToTheSea1.png)
 
+\newpage
+
 ![](img/ListenToTheSea2.png)
 
+\newpage
 
 ## 一剪梅(费玉清)
 
@@ -3125,6 +3253,7 @@ Em   Bm   Em
 Capo: 0  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEF-b_rurWM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+\newpage
 
 ![](img/Yi_Jian_Mei.png)
 
@@ -3181,6 +3310,8 @@ Am一场场Em酸甜、苦C辣。
 Am敢问路在何Dm方 Em路在G脚Am下。
 ```
 
+\newpage
+
 Capo 7:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjIvcyW6iqg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -3214,6 +3345,7 @@ Capo 3:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/335yyHN98no" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/LiangZhu1.jpg)
+\newpage
 
 ![](img/LiangZhu2.jpg)
 
@@ -3233,12 +3365,15 @@ Capo 1:
 
 ## 再回首
 
+![](img/ZaiHuiShou1.jpg)
+
+\newpage
+
+![](img/ZaiHuiShou2.jpg)
+
 Capo 7:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vn1WyZm-YiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/ZaiHuiShou1.jpg)
-
-![](img/ZaiHuiShou2.jpg)
 
 \newpage
 
@@ -3265,6 +3400,8 @@ Am鲜花虽会G凋谢
 Am苦F海泛起C爱恨在世F间难逃避C命运
 C相F亲竟不C可接Am近或我G应该F相信是缘Am分
 ```
+
+\newpage
 
 https://yoopu.me/view/MXJDMNpL
 
@@ -3302,9 +3439,11 @@ Capo 5 but the score has soemthing wrong.
 Capo 3:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CpU2f0ZDpz4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](img/DCJ.jpg)
+![](img/DCJ.png)
 
-![](img/DCJ2.jpg)
+\newpage
+
+![](img/DCJ2.png)
 
 \newpage
 
@@ -3316,6 +3455,8 @@ Capo 5:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GO3xrQc9WqM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](img/FQSSBJH.png)
+
+\newpage
 
 ## 与你到永久
 
@@ -3351,6 +3492,8 @@ Em整个的心Bm放在你手中 Am与你D到永G久-
 G  Em  G, G Em Am Em...
 ```
 
+\newpage
+
 ## 真心英雄
 
 ```
@@ -3379,9 +3522,10 @@ G｜Em＝Bm – Em｜Am D｜G｜
 Bm Em｜Bm Em｜C G/B｜C/E F – D – –｜
 ```
 
+\newpage
+
 ## 离别
 
-![](http://www.totalguitarandbass.com/system/diagrams/92/original/Esus4.png)
 Capo: 0
 ```
 深情Am吻住了你的嘴
@@ -3402,7 +3546,11 @@ Am希望G都早已Am经破G灭
 我和Fmaj7你 要离Am别
 ```
 
-![](http://www.totalguitarandbass.com/system/diagrams/336/original/FMaj7.png)
+![](img/FMaj7.png)
+
+![](img/Esus4.png)
+
+\newpage
 
 ## 其实你不懂我的心
 
@@ -3424,6 +3572,8 @@ Am希望G都早已Am经破G灭
 不G让你看Em到哭泣C的  D　眼睛G
 ```
 
+\newpage
+
 ## 其实不想走
 
 Capo: 3
@@ -3441,6 +3591,8 @@ F寂莫不是我  C　不能够Am忍受 Dm7　只是每一天  我F想妳太G多
 其实不想C走  其实我想Em留  留下来陪Am妳每个春夏秋Em冬
 妳要相信F我  再不用多C久  我要妳和Dm7我今生G一起渡C过
 ```
+
+\newpage
 
 ## 爱相随
 
@@ -3461,6 +3613,8 @@ F与你相G慰 我为C你痴为你Am累
 我又怎Em么有路可Am退
 曾F经深情你G给了C谁
 ```
+
+\newpage
 
 ## 风雨无阻
 
@@ -3495,6 +3649,8 @@ F与你相G慰 我为C你痴为你Am累
    可以追求  不认输
 ```
 
+\newpage
+
 ## 离不开你
 
 ```
@@ -3506,6 +3662,7 @@ C我俩 太不Em公平   Dm爱和恨F全由你操G纵
 C可今天 我已Em离不开Am你     不F管你 G爱不爱C我
 ```
 
+\newpage
 
 ## 弯弯的月亮
 
@@ -3553,6 +3710,8 @@ A弯弯的小船F♯m悠悠，是那Bm童年  的E　  阿娇~~~~~~
 {END}
 ```
 
+\newpage
+
 ## 浪人情歌
 
 ```
@@ -3578,6 +3737,8 @@ Em　让它随风去  Am　让它无痕迹
 你会看Am见的 D 把你G忘记
 ```
 
+\newpage
+
 ## 突然的自我
 
 Capo: 5
@@ -3592,6 +3753,8 @@ C数不尽相逢Am等不完守候　Dm如果仅有G此生又何用待C从头
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9VigYqrFJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\newpage
 
 ## 一百万个可能
 
@@ -3660,6 +3823,8 @@ F C      G     C
 暖这冬心 或面对寒冷
 ```
 
+\newpage
+
 ## 可能否
 
 ```
@@ -3692,6 +3857,7 @@ C我偏要一条路走Am到黑吧
 可能F我还没遇见 G那个他C吧
 ```
 
+\newpage
 
 ## 故乡的云
 
@@ -3934,6 +4100,99 @@ C是人是牆是寒冬  藏Am在眼內
 Dm有日有夜有幻F想  沒G法等待
 ```
 
+## 沙漠骆驼
+
+```
+Am我要穿越这片沙漠
+E找寻真的自我
+F身边只有一匹C骆驼陪我
+Dm这片风儿吹过
+Am那片云儿飘过
+E突然之间出现F爱的Am小河
+
+Am我跨上沙漠之舟
+E背上烟斗和沙漏
+F手里还握着C一壶烈酒
+Dm漫长古道悠悠
+Am说不尽喜怒哀愁
+E只有那骆驼F奔忙Am依旧
+
+C什么鬼魅传说
+E什么魑魅魍魉妖魔
+F只有那鹭鹰在 C幽幽的高歌
+Dm漫天黄沙掠过
+Am走遍每个角落
+Bm7行走在无尽的E苍茫星河
+C白天黑夜交错
+E如此妖娆婀娜
+F蹉跎着岁月又C蹉跎了自我
+Dm前方迷途太多
+Am坚持才能洒脱
+A♯走出黑暗就能E逍遥又快活
+
+Am我寻找沙漠绿洲
+E出现海市蜃楼
+ F我仿佛看到她在C那里等候
+ Dm想起了她的温柔
+ Am滚烫着我的胸口
+E迷失在昨夜的F那壶Am老酒
+
+Am我穿上大头皮鞋
+E跨过凛冽荒野
+F我仿佛穿越到C另一个世界
+Dm阿拉丁神灯要倾斜
+Am天堂地狱已然重叠
+E突然之间飞来F一只Am蝴蝶
+
+C什么鬼魅传说
+E什么魑魅魍魉妖魔
+F只有那鹭鹰在C幽幽的高歌
+Dm漫天黄沙掠过
+Am走遍每个角落
+Bm7行走在无尽的E苍茫星河
+
+ C白天黑夜交错
+ E如此妖娆婀娜
+F蹉跎着岁月又 C蹉跎了自我
+Dm前方迷途太多
+Am坚持才能洒脱
+A♯走出黑暗就能 E逍遥又快活
+
+Am我已坠入在这神奇的国度
+E驼铃相伴走向圣堂之路
+F原谅我曾经恍C惚陷入迷途
+Dm遮住了眼眸
+Am湮没了意图
+E怎能被F这样G征服
+
+C什么鬼魅传说
+E什么魑魅魍魉妖魔
+F只有那鹭鹰在C幽幽的高歌
+Dm漫天黄沙掠过
+Am走遍每个角落
+Bm7行走在无尽的E苍茫星河
+
+C白天黑夜交错
+E如此妖娆婀娜
+F蹉跎着岁月又C蹉跎了自我
+Dm前方迷途太多
+Am坚持才能洒脱
+A♯走出黑暗就能E逍遥又快活
+
+Am梦里回到最初
+E浪潮起起伏伏
+F彷徨着未来又C彷徨着孤独
+Dm漫长人生旅途
+Am花开花落无数
+Bm7沸腾的时光E怎能被荒芜
+
+C清晨又到日暮
+E天边飞鸟群逐
+F摇曳着苍穹又C描摹着黄土
+Dm东方鱼肚白出
+Am烈日绽放吐露
+A♯放下尘浮我E已踏上归途
+```
 
 ## 嘴巴嘟嘟
 

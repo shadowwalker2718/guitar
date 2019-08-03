@@ -137,7 +137,7 @@ my_build_chapter = function(
 
 hc = html_chapters(
   toc =TRUE, toc_depth=2, number_sections = TRUE, fig_caption = FALSE,
-  lib_dir = "libs", template = "/root/guitar/templates/template.html",
+  lib_dir = "libs", template = "/Users/henry.wu/guitar/templates/template.html",
   base_format = rmarkdown::html_document, split_bib = TRUE,
   page_builder = my_build_chapter,
   split_by = c("section+number",  "section", "chapter+number", "chapter", "rmd", "none"),
@@ -145,7 +145,7 @@ hc = html_chapters(
 
 bookdown::render_book('index.Rmd',hc)
 
-export SRC_BOOK=/root/guitar/_book/
+export SRC_BOOK=/Users/henry.wu/guitar/_book/
 rsync -a $SRC_BOOK root@www.quant365.com:/quant365.com/music
 
 bookdown::render_book('00-chinese.Rmd',hc)

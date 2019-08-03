@@ -1,9 +1,9 @@
 ---
-title: "English_Rock"
-author: "Fuheng"
-date: "March 18, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
+
 
 # English Songs
 
@@ -735,6 +735,7 @@ Are you going to Scarborough Fair, Parsley sage rosemary and thyme
   Am     C     C   G/B Am    G      Am       G                  Am
 Remember me to one who lives there, She Once was a true love of mine
 ```
+\newpage
 
 Capo 5:
 
@@ -745,6 +746,8 @@ Capo 5:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aeB_InOR_RA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 ![](img/ScarboroughFair1.png)
 
@@ -775,6 +778,7 @@ But still I won't (F)detest
 who I can never (G)forget like someone I once (Am)met
 ```
 
+\newpage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZtUhehAL8g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -980,3 +984,4 @@ A        C#m  F#m               A     F#m
 A D F#m
 A D F#m
 ```
+
