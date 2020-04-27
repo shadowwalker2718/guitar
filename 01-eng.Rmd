@@ -44,6 +44,46 @@ output:
 2:(Em)What a nice surprise (what a nice surprise), (F#)Bring your alibis
 ```
 
+Version 2:
+```
+(Bm)  On a dark desert highway,    (F#)  cool wind in my hair
+(A)   Warm smell of colitas                (E) rising up through the air
+(G)   Up ahead in the distance,        (D)  I saw a shimmering light
+(Em)  My head grew heavy and my sight grew dim, (F#)  I had to stop for the night
+(Bm)  There she stood in the doorway;  (F#)  I heard the mission bell
+(A)   And I was thinking to myself this could be    (E) heaven or this could be hell
+(G)   Then she lit up a candle,          (D) and she showed me the way
+(Em)  There were voices down the corridor,   (F#) I thought I heard them say
+1/2:(G)Welcome to the (D)Hotel California.
+1/2:(F#)Such a lovely place, (Bm)such a lovely face
+1:(G)Plenty of room at    (D)the Hotel California
+1:(Em)Any time of year (any time of year)          (F#)you can find it here
+
+
+(Bm)  Her mind is Tiffany-twisted,       she got the Mercedes bends
+(A)   She got a lot of pretty pretty boys,     she calls friends
+(G)   How they dance in the courtyard,      sweet summer sweat.
+(Em)  Some dance to remember,                         some dance to forget
+(Bm)  So I called up the Captain,            'Please bring me my wine'
+(A)   He said, 'We haven't had that spirit here         since nineteen sixty nine'
+(G)   And still those voices are calling     from far away,
+(Em)  Wake you up in the middle of the night,     Just to hear them say...
+1/2:(G)Welcome to the (D)Hotel California.
+1/2:(F#)Such a lovely place, (Bm)such a lovely face
+2:(G)They livin' it up at (D)the Hotel California
+2:(Em)What a nice surprise (what a nice surprise), (F#)Bring your alibis
+
+
+===>  Mirrors on the ceiling,                The pink champagne on ice
+      And she said 'We are all just prisoners here,     of our own device'
+      And in the master's chambers,          They gathered for the feast
+      They stab it with their steely knives,      But they just can't kill the beast
+(Bm)  Last thing I remember,             I was running for the door
+(A)   I had to find the passage back           to the place I was before
+(G)   'Relax,' said the night man,          'We are programmed to receive.
+(Em)  You can check-out any time you like,            But you can never leave!'(End)
+```
+
 \newpage
 
 ## Country Roads
@@ -788,7 +828,7 @@ who I can never (G)forget like someone I once (Am)met
 
 \newpage
 
-## Summer Kisses Winter Tears
+## Summer kiss winter tears
 
 ```
 Summer Kisses, Winter Tears
@@ -985,3 +1025,445 @@ A D F#m
 A D F#m
 ```
 
+## Puff The Magic Dragon
+
+by Peter, Paul and Mary
+
+```
+Verse:
+C               Em      F            C        F
+Puff, the magic drag-on lived by the sea  And frol-icked in the 
+ 
+C        Am       D7                   G7   C               Em
+au-tumn mist in a land called Ho-nah-Lee-,  Lit-tle Jack-ie Pa-per 
+ 
+F                 C          F
+loved that rascal Puff   And brought him strings and
+ 
+C       Am      D7    G7    C      G7
+sealing wax and other fancy stuff. Oh!
+ 
+ 
+Refrain:
+C               Em      F            C        F
+Puff, the magic drag-on lived by the sea  And frol-icked in the 
+ 
+C        Am       D7                   G7
+au-tumn mist in a land called Ho-nah-Lee-,  
+ 
+C               Em      F            C        F
+Puff, the magic drag-on lived by the sea  And frol-icked in the 
+ 
+C        Am       D7          G7     C
+au-tumn mist in a land called Ho-nah-Lee. -  
+                  ^
+                  last time to Coda
+
+Verse:
+  (C)                       Em           F                          C
+1. - To- get-her they would trav-el on a boat  with  bil-lowed  sail,-
+2. - A   drag-on  lives for-ev-er  but   not   so    lit - tle  boys,-
+3. - His head was bent in   sor-row      green scales fell like rain,-
+ 
+   F                  C        Am7        D7                G7
+1. Jack-ie  kept  a   look-out perched on Puff's gi-gan-tic tail,
+2. Paint-ed wings and gi-ant   rings make way   for oth-er  toys,
+3. Puff  no  long-er  went to  play   a - long  the cher-ry lane,  With-
+ 
+   C                 Em                 F                  C
+1. No-ble kings  and princ-es   would   bow when-e'er they came,
+2. One grey night it hap-pened, Jack-ie Pa-per   came  no  more    And
+3. out his life-long friend             Puff could not be  brave   So
+ 
+   F                   C           Am7       D7          G7        C     G7
+1. Pi-rate ships would low'r their flag when Puff roared out  his  name. Oh!
+2. Puff that might-y   drag-on,         he   ceased his  fear-less roar. Oh!
+3. Puff that might-y   drag-on,    sad - ly  slipped  in-to his    cave. Oh!
+ 
+ 
+      D7            G7         C F C G7 C
+Coda: land  called  Ho - nah - Lee.
+```
+
+## Frozen - Let It Go
+
+```
+[Verse]
+    Em                      C
+The snow glows white on the mountain tonight
+      D               Asus4   Am
+Not a footprint to be seen
+  Em            C
+A kingdom of isolation
+       D                  Asus4    A
+And it looks like I'm the queen
+Em            C                 D                 Asus4  Am
+  The wind is howling like this swirling storm inside
+Em                 D                    A
+  Couldn't keep it in, heaven knows I've tried
+ 
+[Pre-Chorus]
+D                                 C
+Don't let them in, don't let them see
+                                    D
+Be the good girl you always have to be
+                                    C
+Conceal, don't feel, don't let them know
+               Cadd9
+Well, now they know
+ 
+[Chorus]
+       G          Dsus4/F#
+Let it go, let it go
+      Em7             Cadd9
+Can't hold it back anymore
+          G          Dsus4/F#
+Let it go, let it go
+      Em7              Cadd9
+Turn away and slam the door
+G       Dsus4/F#          Em7      Cadd9
+I don't care what they're going to say
+        Bm7         Bb
+Let the storm rage on
+    C
+The cold never bothered me anyway
+ 
+[Instrumental]
+G   Dsus4/F#
+ 
+[Verse]
+   Em                    C              D               Am
+It's funny how some distance makes everything seem small
+        Em              D                   Asus4         A
+And the fears that once controlled me can't get to me at all
+ 
+[Pre-Chorus]
+D                            Cadd9
+It's time to see what I can do
+                             D
+To test the limits and break through
+                                 Cadd9
+No right, no wrong, no rules for me
+    Cadd9
+I'm free
+ 
+[Chorus]
+       G          Dsus4/F#
+Let it go, let it go
+      Em7             Cadd9
+I am one with the wind and sky
+          G          Dsus4/F#
+Let it go, let it go
+      Em7              Cadd9
+You'll never see me cry
+G       Dsus4/F#          Em7      Cadd9
+Here I stand and here I'll stay
+        Bm7         Bb      C
+Let the storm rage on
+ 
+[Bridge]
+C
+My power flurries through the air into the ground
+C
+My soul is spiraling in frozen fractals all around
+D
+And one thought crystallizes like an icy blast
+Em        C              D               Am     C
+I'm never going back, the past is in the past
+ 
+[Chorus]
+       G          Dsus4/F#
+Let it go, let it go
+      Em7             Cadd9
+And I'll rise like the break of dawn
+          G          Dsus4/F#
+Let it go, let it go
+      Em7              Cadd9
+That perfect girl is gone
+G      Dsus4/F#     Em7      Cadd9    Cm
+Here I stand in the light of day
+        Bm7         Bb      C
+Let the storm rage on
+    C
+The cold never bothered me anyway
+```
+
+## Halo
+
+```
+
+[Intro]
+ 
+G Am Em C
+G Am Em C
+ 
+ 
+[Verse 1]
+ 
+G                       Am
+Remember those walls I built
+                           Em
+Well baby they're tumbling down
+                              C
+And they didn't even put up a fight
+                              G
+They didn't even make a sound
+                         Am
+I found a way to let you in
+                         Em
+But I never really had a doubt
+                              C
+Standing in the light of your halo
+                  G
+I got my angel now
+                           Am
+It's like I've been awakened
+                           Em
+Every rule I had you breakin'
+                              C
+It's the risk that I'm takin'
+                              G
+I ain't never gonna shut you out
+ 
+ 
+[Pre-Chorus]
+ 
+G                       Am
+Everywhere I'm looking now
+                           Em
+I'm surrounded by your embrace
+                              C
+Baby I can see your halo
+                              G
+You know you're my saving grace
+                         Am
+You're everything I need and more
+                           Em
+It's written all over your face
+                              C
+Baby I can feel your halo
+                              G
+Pray it won't fade away
+ 
+ 
+[Chorus]
+ 
+                         Am
+I can feel your halo (halo) halo
+                           Em
+I can see your halo (halo) halo
+                              C
+I can feel your halo (halo) halo
+                              G
+I can see your halo (halo) halo
+G
+Woah...
+ 
+ 
+[Verse 2]
+ 
+                        Am
+Hit me like a ray of sun
+                           Em
+Burning through my darkest night
+                              C
+You're the only one that I want
+                              G
+Think I'm addicted to your light
+                        Am
+I swore I'd never fall again
+                           Em
+But this don't even feel like falling
+                              C
+Gravity can't forget
+                              G
+To pull me to the ground again
+                        Am
+Feels like I've been awakened
+                           Em
+Every rule I had you breakin'
+                              C
+The risk that I'm takin'
+                              G
+I'm never gonna shut you out
+ 
+ 
+[Pre-Chorus]
+ 
+G                       Am
+Everywhere I'm looking now
+                           Em
+I'm surrounded by your embrace
+                       C
+Baby I can see your halo
+                              G
+You know you're my saving grace
+                         Am
+You're everything I need and more
+                           Em
+It's written all over your face
+                       C
+Baby I can feel your halo
+                       G
+Pray it won't fade away
+ 
+ 
+[Chorus]
+ 
+                         Am
+I can feel your halo (halo) halo
+                           Em
+I can see your halo (halo) halo
+                              C
+I can feel your halo (halo) halo
+                              G
+I can see your halo (halo) halo
+                         Am
+I can feel your halo (halo) halo
+                           Em
+I can see your halo (halo) halo
+               C
+Halooooo ouuuu
+               G
+Halooooo ouuuu   
+              Am
+Halooooo ouuuu
+           Em    C     G
+Ouuuuu ouuuuu ouuuuu 
+ 
+ 
+[Pre-Chorus]
+ 
+G                       Am
+Everywhere I'm looking now
+                           Em
+I'm surrounded by your embrace
+                     C
+Baby I can see your halo
+                              G
+You know you're my saving grace
+                         Am
+You're everything I need and more
+                           Em
+It's written all over your face
+                       C
+Baby I can feel your halo
+                     G
+Pray it won't fade away
+ 
+ 
+[Chorus]
+ 
+                         Am
+I can feel your halo (halo) halo
+                           Em
+I can see your halo (halo) halo
+                              C
+I can feel your halo (halo) halo
+                              G
+I can see your halo (halo) halo
+                         Am
+I can feel your halo (halo) halo
+                           Em
+I can see your halo (halo) halo
+                              C
+I can feel your halo (halo) halo
+                              G
+I can see your halo (halo) halo
+```
+
+Verison 2:
+```
+據說這首歌是為悼念Michael Jackson
+聽來為之動容
+這首歌的歌名讓我想起
+Slash後期也有一首叫Halo的歌
+那個Tone非常的嗯......非常不一樣，哈哈
+
+
+Beyonce - Halo
+
+
+
+Remember those walls I built
+還記得我築起的那些高墻
+Well baby they're tumbling down
+寶貝，它們已然倒塌
+And they didn't even put up a fight
+它們甚至沒進行一絲反抗
+They didn't even make a sound
+它們甚至沒發出任何聲響
+I found a way to let you in
+我讓你進入了我的世界
+But I never really had a doubt
+但我從未有過一絲懷疑
+Standing in the light of your halo
+站在你的光環之下
+I got my angel now
+我找到了我的天使
+
+It's like I've been awakened
+就好像被你喚醒一樣
+Every rule I had you breakin
+你打破了我的每一個束縛
+It's the risk that I'm takin
+我正冒著極大的風險
+I ain't never gonna shut you out
+我永遠都不會拒你于門外
+
+
+(repeat)
+
+
+Everywhere I'm looking now
+我眼前每一個所見之處
+I'm surrounded by your embrace
+都被你的雙臂緊緊圍繞
+Baby I can see your halo
+寶貝我能看得見你的光環
+You know you're my saving grace
+知道嗎，你就是我的守護天使
+You're everything I need and more
+你是我所需的一切，甚至更多
+It's written all over your face
+這全都寫在了你的臉上
+Baby I can feel your halo
+寶貝我能感覺到你的光環
+Pray it won't fade away
+祈禱它永遠也不會消逝
+
+I can feel your halo (halo) halo
+我能感覺到你的光環（光環）光環
+I can see your halo (halo) halo
+我能看得見你的光環（光環）光環
+I can feel your halo (halo) halo
+我能感覺到你的光環（光環）光環
+I can see your halo (halo) halo
+我能看得見你的光環（光環）光環
+
+Hit me like a ray of sun
+你就像陽光一樣照耀著我
+Burning through my darkest night
+點燃我最黑暗的夜晚
+You're the only one that I want
+你是我唯一想要的
+Think I'm addicted to your light
+我想我沉溺在你的光芒
+I swore I'd never fall again
+我曾發誓永遠不會再愛
+But this don't even feel like falling
+但現在的感覺已超越了愛情
+Gravity can't forget
+別忘了地球還有引力
+To pull me to the ground again
+請讓我再次回歸現實
+
+Feels like I've been awakened
+就好像被你喚醒一樣
+Every rule I had you breakin'
+你打破了我的每一個束縛
+The risk that I'm takin'
+我正冒著極大的風險
+I'm never gonna shut you out
+我永遠都不會拒你于門外
+```

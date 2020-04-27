@@ -532,6 +532,39 @@ Dm诉一诉G心里对你的C思念 C喂～
 
 ## 娘心(邓丽君)
 
+### 和弦
+
+编制: Henry
+
+```
+C      Am
+迎着风霜脚步凄凉
+F      G
+浪子在异乡
+c      Am
+受尽创伤历经沧桑
+F      G
+想起我的娘
+C     Am        F   Em  
+娘心如棉体贴我身带给我温暖
+D      F   C   
+我要回到您身旁
+c      Am
+不再放荡不再流浪
+F      G
+我要回家乡
+c         Am
+重新做人重新做事
+F      G
+安慰我的娘
+C     Am        F   Em  
+娘心如月照亮我心使我不彷徨
+D      F   C   
+也会使我更坚强
+```
+
+### 伴奏
+
 Capo 8:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jPuJtQ3Sko4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -3451,6 +3484,44 @@ Capo 3:
 
 ## 黄梅戏天仙配
 
+### 和弦
+
+编制: Henry
+
+```
+G   C   Am  C
+树上的鸟儿成双对
+Am  F   Am G
+绿水青山绽笑颜
+
+G   C  G  C
+随手摘下花一朵
+Am  F  C  G
+我与娘子戴发间
+
+G   C   F  C
+从今再不受那奴役苦
+Am  F   Am G
+夫妻双双把家还
+
+G   C   F  C
+你耕田来我织布
+Am  F   Am G
+我挑水来你浇园
+
+G   C   F  C
+寒窑虽破能抵风雨
+Am  F   Am G
+夫妻恩爱苦也甜
+
+C   F     G   
+你我好比鸳鸯鸟
+C F G  Am  D G 
+比翼双飞在人间
+```
+
+### 伴奏
+
 Capo 5:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GO3xrQc9WqM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -3900,7 +3971,7 @@ C我曾经豪情G万丈
 
 \newpage
 
-## 真的爱你
+## 真的爱你 (Beyond)
 
 Capo 5
 
@@ -3940,16 +4011,19 @@ C　无法可C修饰的一对G手　带出Am温暖永远在背F后
 
 \newpage
 
-## 海阔天空
+## 海阔天空 (Beyond)
 
 Capo 3
 
 ```
 主歌 A
+(53231323)
 今天C我寒夜G里看雪飘过
 怀着Am冷却了的心窝飘远F方
 风雨C里追赶   雾里G分不清影踪
 天空F海阔你与我  可会C变（谁没在变）
+
+(53 (12)3 (12)3 (12)3)
 多少C次迎着G冷眼与嘲笑
 从没Am有放弃过心中的理F想
 一刹C那恍惚   若有G所失的感觉
@@ -3963,14 +4037,20 @@ F　也会怕有G一天会跌C倒
 F　被弃了理G想谁人C都G可Am以
 F　哪会怕有G一天只你共C我
 
+Am G Am
+Am G C
+
 Am　仍然G自由自F我
 永远G高唱我Am歌
 走G遍千C里
+
+Am G Am
+Am G C (渐弱)
 ```
 
 \newpage
 
-## 光辉岁月
+## 光辉岁月 (Beyond)
 
 Capo 3
 
@@ -4010,7 +4090,7 @@ G问谁又能C做到
 
 \newpage
 
-## 喜欢你
+## 喜欢你 (Beyond)
 
 Capo 5
 
@@ -4041,7 +4121,7 @@ F　以往为了自我G挣扎从不Am知她的F痛G苦
 
 \newpage
 
-## 不再犹豫
+## 不再犹豫 (Beyond)
 
 Capo 5
 
@@ -4132,9 +4212,9 @@ A♯走出黑暗就能E逍遥又快活
 
 Am我寻找沙漠绿洲
 E出现海市蜃楼
- F我仿佛看到她在C那里等候
- Dm想起了她的温柔
- Am滚烫着我的胸口
+F我仿佛看到她在C那里等候
+Dm想起了她的温柔
+Am滚烫着我的胸口
 E迷失在昨夜的F那壶Am老酒
 
 Am我穿上大头皮鞋
@@ -4151,8 +4231,8 @@ Dm漫天黄沙掠过
 Am走遍每个角落
 Bm7行走在无尽的E苍茫星河
 
- C白天黑夜交错
- E如此妖娆婀娜
+C白天黑夜交错
+E如此妖娆婀娜
 F蹉跎着岁月又 C蹉跎了自我
 Dm前方迷途太多
 Am坚持才能洒脱
@@ -4196,6 +4276,36 @@ A♯放下尘浮我E已踏上归途
 
 ## 嘴巴嘟嘟
 
+### 和弦
+
+```
+主歌 A
+　　Am春风吹 吹开Dm花枝上只蝶
+　　我送F你到G江南去北C野
+　　你说Dm等着你 Em素描那雪Am季
+　　回来F和我G对坐泡茶Am去
+主歌 B
+　　Am又是一季花Dm开枝上蝶
+　　我等F你在G江南拱桥C夜
+　　用琵Dm琶想你 Em弹奏春梦Am季
+　　归途F遥远G弦断梦已Am去
+副歌A
+　　你说F嘴巴嘟G嘟 Em嘟嘟嘟嘟Am嘟
+　　F嘟一下 G你就会来C呀
+　　你说F嘴巴嘟G嘟 Em嘟嘟嘟嘟Am嘟
+　　F嘟一下 G花就会开Am呀
+副歌B
+　　你说F嘴巴嘟G嘟 我Em嘟嘟嘟嘟Am嘟
+　　F嘟一下 G等你回来C呀
+　　你说F嘴巴嘟G嘟 我Em嘟嘟嘟嘟Am嘟
+　　F嘟一下 G等着花开Am呀
+　　看窗F外繁G华 我泪沙Am哑
+```
+
+### 伴奏
+
+Capo #2
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RT1AmwtjAWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -4222,7 +4332,7 @@ Am再远的风景Am啊
 G向过去的悲Am伤说再见G吧 
 G还是好好Am珍惜现在吧 
 G你寻求的幸福 
-G　 其实Em不在远处 
+G其实Em不在远处 
 Am它就是你现Am在 
 一直走的G路 
 主歌 B
@@ -4234,3 +4344,123 @@ Am不知以后你能Am否再见到D我
 Am就像我们从D未曾离别G过
 ```
 
+## 霸王別姬
+
+```
+Em      G     D
+我站在   烈烈風中
+    G      Bm     Em
+恨不能   蕩盡綿綿心痛
+Em      G     D
+望蒼天   四方雲動
+    G      Bm      Em
+劍在手   問天下誰是英雄
+Em      G     D
+我站在   烈烈風中
+    G      Bm     Em
+恨不能   蕩盡綿綿心痛
+Em      G     D
+望蒼天   四方雲動
+    G      Bm       Em
+劍在手   問天下誰是英雄 
+Em         D
+人世間有百媚千紅
+    D      G
+我獨愛你那一種
+Em           Em
+傷心處別時路有誰不同
+C           B
+多少年恩愛匆匆葬送
+Em      
+我心中  你最重
+Bm
+悲歡共  生死同
+Am     Em
+你用柔情刻骨
+    D    G
+換我豪情天縱
+Em
+我心中  你最重
+Bm
+我的淚  向天衝
+Am     Em
+來世也當稱雄
+    Bm C  Em
+歸去斜陽正濃
+Em      
+我心中  你最重
+Bm
+悲歡共  生死同
+Am     Em
+你用柔情刻骨
+    D    G
+換我豪情天縱
+Em
+我心中  你最重
+Bm
+我的淚  向天衝
+Am     Em
+來世也當稱雄
+    Bm C  Em
+歸去斜陽正濃
+```
+
+## 彩虹 (動力火車)
+
+```
+動力火車  -  彩虹
+Key：C#　Play：A
+Capo 4
+（臺視8點檔名揚四海主題曲）
+前奏：
+│   G   │  A   │   G   │  A   │
+│  C   D │  Em  │  C   D │  G   │  Gsus4   G │
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　雨過了就該閃亮這片天空
+G　　　　D/#F　　　　  C　　　D
+讓我深愛的你　感到光榮　OH WOO
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　盡全力也要換你一段笑容
+　 G　　　D/#F　　　　C　D　　　　│ G   │ D  E ─ ─ │
+夠了　我愛你　不必人懂　　　不必人懂
+
+Asus2　　Asus2　Asus2　　　Bm
+只要不醒過來　　這就不是夢
+D　　　　  Bm　　　　D　　　　E
+請看著我　請擁抱我　體溫便流走
+Asus2　　Asus2　Asus2　　Bm
+好多話想說　　　好多事要做
+D　　　　　  Bm　　　　　　E　　　│  Asus2  │  C  D ─ ─ │
+請天空給我　請時間給我　再多一點停留
+
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　雨過了就該閃亮這片天空
+G　　　　D/#F　　　　  C　　　D
+讓我深愛的你　感到光榮　OH WOO
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　盡全力也要換你一段笑容
+　 G　　　D/#F　　　　C
+夠了　我愛你　不必人懂
+Em　　　　 D　　　　　 C　　　　G
+親愛的你　若有感動　請牢記在心中
+Em　　　　　　 D　　　　 C
+下一次相遇　你能看見　的那道彩虹
+Am7　　　  D　　　　D
+不再可能是我　OH WOO
+間奏
+
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　雨過了就該閃亮這片天空
+G　　　　D/#F　　　　  C　　　D
+讓我深愛的你　感到光榮　OH WOO
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　盡全力也要換你一段笑容
+　 G　　　D/#F　　　　C　D　　　　( G)
+夠了　我愛你　不必人懂　　　只要你懂
+G　　　　D/#F　　　　 Em　　　　　   C
+身爲一道彩虹　雨過了就該閃亮這片天空
+G　　　　D/#F　　　　  C　　　D
+讓我深愛的你　感到光榮　OH WOO
+G　　　　D/#F　　 Em　　　 C　　　　G
+身爲一道彩虹　　身爲一道彩虹　　HO~WOO
+```
